@@ -1,0 +1,1422 @@
+id_cafe,aspek,n_positif,n_negatif,n_netral,n_total,persen_positif,sentimen_badge,badge
+1,harga,86,27,8,121,71.1,positif,Harga Terjangkau
+1,pelayanan,116,23,0,139,83.5,positif,Pelayanan Ramah
+1,suasana,220,12,0,232,94.8,positif,Suasana Nyaman
+1,wifi,0,1,0,1,0.0,,
+2,harga,67,9,10,86,77.9,positif,Harga Terjangkau
+2,pelayanan,69,13,0,82,84.1,positif,Pelayanan Ramah
+2,suasana,190,7,0,197,96.4,positif,Suasana Nyaman
+2,wifi,8,2,1,11,72.7,positif,Wifi Kencang
+3,harga,2,0,0,2,100.0,,
+3,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+3,suasana,12,1,0,13,92.3,positif,Suasana Nyaman
+3,wifi,1,1,0,2,50.0,,
+4,harga,82,24,11,117,70.1,positif,Harga Terjangkau
+4,pelayanan,85,36,1,122,69.7,positif,Pelayanan Ramah
+4,suasana,242,18,1,261,92.7,positif,Suasana Nyaman
+4,wifi,7,4,10,21,33.3,,
+5,harga,4,5,2,11,36.4,negatif,Harga Kurang Bersahabat
+5,pelayanan,18,7,0,25,72.0,positif,Pelayanan Ramah
+5,suasana,38,2,1,41,92.7,positif,Suasana Nyaman
+5,wifi,0,0,1,1,0.0,,
+6,harga,15,0,1,16,93.8,positif,Harga Terjangkau
+6,pelayanan,9,6,0,15,60.0,positif,Pelayanan Ramah
+6,suasana,21,1,0,22,95.5,positif,Suasana Nyaman
+7,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+7,pelayanan,40,6,0,46,87.0,positif,Pelayanan Ramah
+7,suasana,49,0,0,49,100.0,positif,Suasana Nyaman
+7,wifi,1,0,0,1,100.0,,
+8,harga,18,0,0,18,100.0,positif,Harga Terjangkau
+8,pelayanan,19,3,0,22,86.4,positif,Pelayanan Ramah
+8,suasana,17,0,0,17,100.0,positif,Suasana Nyaman
+8,wifi,1,0,1,2,50.0,,
+9,harga,35,5,2,42,83.3,positif,Harga Terjangkau
+9,pelayanan,50,17,2,69,72.5,positif,Pelayanan Ramah
+9,suasana,103,5,0,108,95.4,positif,Suasana Nyaman
+9,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+10,harga,26,3,0,29,89.7,positif,Harga Terjangkau
+10,pelayanan,85,7,0,92,92.4,positif,Pelayanan Ramah
+10,suasana,97,0,0,97,100.0,positif,Suasana Nyaman
+10,wifi,1,0,1,2,50.0,,
+11,harga,4,0,1,5,80.0,positif,Harga Terjangkau
+11,pelayanan,19,2,0,21,90.5,positif,Pelayanan Ramah
+11,suasana,26,3,0,29,89.7,positif,Suasana Nyaman
+12,harga,29,9,3,41,70.7,positif,Harga Terjangkau
+12,pelayanan,87,8,1,96,90.6,positif,Pelayanan Ramah
+12,suasana,165,9,0,174,94.8,positif,Suasana Nyaman
+12,wifi,6,0,0,6,100.0,positif,Wifi Kencang
+13,harga,6,1,1,8,75.0,positif,Harga Terjangkau
+13,pelayanan,90,3,0,93,96.8,positif,Pelayanan Ramah
+13,suasana,70,2,0,72,97.2,positif,Suasana Nyaman
+13,wifi,0,0,1,1,0.0,,
+14,harga,43,8,0,51,84.3,positif,Harga Terjangkau
+14,pelayanan,56,21,0,77,72.7,positif,Pelayanan Ramah
+14,suasana,228,4,0,232,98.3,positif,Suasana Nyaman
+14,wifi,9,4,2,15,60.0,positif,Wifi Kencang
+15,harga,23,1,2,26,88.5,positif,Harga Terjangkau
+15,pelayanan,34,8,0,42,81.0,positif,Pelayanan Ramah
+15,suasana,80,5,1,86,93.0,positif,Suasana Nyaman
+15,wifi,3,0,2,5,60.0,positif,Wifi Kencang
+16,harga,30,14,2,46,65.2,positif,Harga Terjangkau
+16,pelayanan,32,22,0,54,59.3,positif,Pelayanan Ramah
+16,suasana,126,7,0,133,94.7,positif,Suasana Nyaman
+16,wifi,0,1,0,1,0.0,,
+17,harga,65,11,10,86,75.6,positif,Harga Terjangkau
+17,pelayanan,62,20,0,82,75.6,positif,Pelayanan Ramah
+17,suasana,211,11,1,223,94.6,positif,Suasana Nyaman
+17,wifi,14,3,4,21,66.7,positif,Wifi Kencang
+18,harga,4,1,1,6,66.7,positif,Harga Terjangkau
+18,pelayanan,7,1,0,8,87.5,positif,Pelayanan Ramah
+18,suasana,19,3,0,22,86.4,positif,Suasana Nyaman
+19,harga,1,1,0,2,50.0,,
+19,pelayanan,6,1,0,7,85.7,positif,Pelayanan Ramah
+19,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+19,wifi,1,0,0,1,100.0,,
+20,harga,34,1,0,35,97.1,positif,Harga Terjangkau
+20,pelayanan,47,1,0,48,97.9,positif,Pelayanan Ramah
+20,suasana,121,5,0,126,96.0,positif,Suasana Nyaman
+20,wifi,2,0,0,2,100.0,,
+21,harga,14,1,1,16,87.5,positif,Harga Terjangkau
+21,pelayanan,22,3,0,25,88.0,positif,Pelayanan Ramah
+21,suasana,63,2,0,65,96.9,positif,Suasana Nyaman
+21,wifi,1,0,0,1,100.0,,
+22,harga,39,6,1,46,84.8,positif,Harga Terjangkau
+22,pelayanan,23,4,0,27,85.2,positif,Pelayanan Ramah
+22,suasana,80,4,0,84,95.2,positif,Suasana Nyaman
+22,wifi,7,0,0,7,100.0,positif,Wifi Kencang
+23,harga,27,11,4,42,64.3,positif,Harga Terjangkau
+23,pelayanan,27,20,0,47,57.4,positif,Pelayanan Ramah
+23,suasana,77,6,0,83,92.8,positif,Suasana Nyaman
+23,wifi,3,1,4,8,37.5,,
+24,harga,19,3,0,22,86.4,positif,Harga Terjangkau
+24,pelayanan,16,4,2,22,72.7,positif,Pelayanan Ramah
+24,suasana,101,4,0,105,96.2,positif,Suasana Nyaman
+24,wifi,3,2,1,6,50.0,positif,Wifi Kencang
+25,harga,30,5,0,35,85.7,positif,Harga Terjangkau
+25,pelayanan,15,3,0,18,83.3,positif,Pelayanan Ramah
+25,suasana,35,6,0,41,85.4,positif,Suasana Nyaman
+25,wifi,1,3,0,4,25.0,negatif,Wifi Kurang Stabil
+26,harga,23,16,0,39,59.0,positif,Harga Terjangkau
+26,pelayanan,251,19,1,271,92.6,positif,Pelayanan Ramah
+26,suasana,173,4,0,177,97.7,positif,Suasana Nyaman
+26,wifi,3,1,0,4,75.0,positif,Wifi Kencang
+27,harga,65,16,5,86,75.6,positif,Harga Terjangkau
+27,pelayanan,122,31,1,154,79.2,positif,Pelayanan Ramah
+27,suasana,225,8,0,233,96.6,positif,Suasana Nyaman
+27,wifi,14,3,4,21,66.7,positif,Wifi Kencang
+28,harga,15,4,1,20,75.0,positif,Harga Terjangkau
+28,pelayanan,19,0,0,19,100.0,positif,Pelayanan Ramah
+28,suasana,32,5,0,37,86.5,positif,Suasana Nyaman
+28,wifi,0,4,0,4,0.0,negatif,Wifi Kurang Stabil
+29,harga,41,3,0,44,93.2,positif,Harga Terjangkau
+29,pelayanan,104,51,1,156,66.7,positif,Pelayanan Ramah
+29,suasana,175,12,0,187,93.6,positif,Suasana Nyaman
+29,wifi,7,6,4,17,41.2,positif,Wifi Kencang
+30,harga,19,2,0,21,90.5,positif,Harga Terjangkau
+30,pelayanan,47,10,0,57,82.5,positif,Pelayanan Ramah
+30,suasana,130,7,0,137,94.9,positif,Suasana Nyaman
+30,wifi,5,1,0,6,83.3,positif,Wifi Kencang
+31,harga,26,2,0,28,92.9,positif,Harga Terjangkau
+31,pelayanan,47,7,0,54,87.0,positif,Pelayanan Ramah
+31,suasana,73,3,0,76,96.1,positif,Suasana Nyaman
+31,wifi,3,2,1,6,50.0,positif,Wifi Kencang
+32,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+32,pelayanan,17,2,0,19,89.5,positif,Pelayanan Ramah
+32,suasana,37,0,0,37,100.0,positif,Suasana Nyaman
+32,wifi,5,0,2,7,71.4,positif,Wifi Kencang
+33,harga,8,1,0,9,88.9,positif,Harga Terjangkau
+33,pelayanan,16,2,0,18,88.9,positif,Pelayanan Ramah
+33,suasana,23,1,0,24,95.8,positif,Suasana Nyaman
+34,harga,1,0,0,1,100.0,,
+34,suasana,1,0,0,1,100.0,,
+35,harga,38,4,0,42,90.5,positif,Harga Terjangkau
+35,pelayanan,39,1,0,40,97.5,positif,Pelayanan Ramah
+35,suasana,104,2,0,106,98.1,positif,Suasana Nyaman
+35,wifi,1,1,0,2,50.0,,
+36,harga,34,5,1,40,85.0,positif,Harga Terjangkau
+36,pelayanan,37,26,0,63,58.7,positif,Pelayanan Ramah
+36,suasana,79,10,0,89,88.8,positif,Suasana Nyaman
+36,wifi,5,2,1,8,62.5,positif,Wifi Kencang
+37,harga,17,9,0,26,65.4,positif,Harga Terjangkau
+37,pelayanan,27,13,0,40,67.5,positif,Pelayanan Ramah
+37,suasana,65,4,0,69,94.2,positif,Suasana Nyaman
+37,wifi,1,2,0,3,33.3,negatif,Wifi Kurang Stabil
+38,harga,1,0,0,1,100.0,,
+38,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+39,harga,1,0,0,1,100.0,,
+39,pelayanan,8,0,0,8,100.0,positif,Pelayanan Ramah
+39,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+40,harga,20,13,1,34,58.8,positif,Harga Terjangkau
+40,pelayanan,68,22,1,91,74.7,positif,Pelayanan Ramah
+40,suasana,92,6,0,98,93.9,positif,Suasana Nyaman
+41,harga,21,2,0,23,91.3,positif,Harga Terjangkau
+41,pelayanan,32,7,0,39,82.1,positif,Pelayanan Ramah
+41,suasana,69,2,0,71,97.2,positif,Suasana Nyaman
+41,wifi,3,2,0,5,60.0,positif,Wifi Kencang
+42,harga,3,0,1,4,75.0,positif,Harga Terjangkau
+42,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+42,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+43,harga,8,1,0,9,88.9,positif,Harga Terjangkau
+43,pelayanan,14,2,0,16,87.5,positif,Pelayanan Ramah
+43,suasana,25,0,0,25,100.0,positif,Suasana Nyaman
+43,wifi,1,1,0,2,50.0,,
+44,harga,32,11,4,47,68.1,positif,Harga Terjangkau
+44,pelayanan,138,21,0,159,86.8,positif,Pelayanan Ramah
+44,suasana,200,5,0,205,97.6,positif,Suasana Nyaman
+44,wifi,5,0,0,5,100.0,positif,Wifi Kencang
+45,harga,14,0,1,15,93.3,positif,Harga Terjangkau
+45,pelayanan,11,0,1,12,91.7,positif,Pelayanan Ramah
+45,suasana,51,4,0,55,92.7,positif,Suasana Nyaman
+46,harga,19,1,1,21,90.5,positif,Harga Terjangkau
+46,pelayanan,30,5,0,35,85.7,positif,Pelayanan Ramah
+46,suasana,74,3,0,77,96.1,positif,Suasana Nyaman
+46,wifi,1,1,1,3,33.3,,
+47,harga,6,1,1,8,75.0,positif,Harga Terjangkau
+47,pelayanan,28,3,0,31,90.3,positif,Pelayanan Ramah
+47,suasana,22,1,0,23,95.7,positif,Suasana Nyaman
+47,wifi,1,0,1,2,50.0,,
+48,harga,23,7,1,31,74.2,positif,Harga Terjangkau
+48,pelayanan,63,21,0,84,75.0,positif,Pelayanan Ramah
+48,suasana,120,9,0,129,93.0,positif,Suasana Nyaman
+48,wifi,4,1,1,6,66.7,positif,Wifi Kencang
+49,harga,12,7,2,21,57.1,positif,Harga Terjangkau
+49,pelayanan,61,16,1,78,78.2,positif,Pelayanan Ramah
+49,suasana,134,9,0,143,93.7,positif,Suasana Nyaman
+49,wifi,2,1,1,4,50.0,positif,Wifi Kencang
+50,harga,59,30,3,92,64.1,positif,Harga Terjangkau
+50,pelayanan,57,30,0,87,65.5,positif,Pelayanan Ramah
+50,suasana,195,18,0,213,91.5,positif,Suasana Nyaman
+50,wifi,2,1,3,6,33.3,,
+51,harga,2,0,0,2,100.0,,
+51,pelayanan,2,0,0,2,100.0,,
+51,suasana,3,1,0,4,75.0,positif,Suasana Nyaman
+52,harga,161,19,7,187,86.1,positif,Harga Terjangkau
+52,pelayanan,95,29,0,124,76.6,positif,Pelayanan Ramah
+52,suasana,137,9,0,146,93.8,positif,Suasana Nyaman
+52,wifi,4,2,3,9,44.4,positif,Wifi Kencang
+53,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+53,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+53,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+54,harga,2,0,0,2,100.0,,
+54,pelayanan,2,0,0,2,100.0,,
+54,suasana,10,0,0,10,100.0,positif,Suasana Nyaman
+55,harga,11,6,2,19,57.9,positif,Harga Terjangkau
+55,pelayanan,29,4,0,33,87.9,positif,Pelayanan Ramah
+55,suasana,92,4,0,96,95.8,positif,Suasana Nyaman
+55,wifi,2,9,1,12,16.7,negatif,Wifi Kurang Stabil
+56,harga,89,19,7,115,77.4,positif,Harga Terjangkau
+56,pelayanan,53,11,0,64,82.8,positif,Pelayanan Ramah
+56,suasana,263,8,0,271,97.0,positif,Suasana Nyaman
+56,wifi,3,2,1,6,50.0,positif,Wifi Kencang
+57,harga,12,3,0,15,80.0,positif,Harga Terjangkau
+57,pelayanan,16,9,1,26,61.5,positif,Pelayanan Ramah
+57,suasana,36,1,0,37,97.3,positif,Suasana Nyaman
+57,wifi,1,0,1,2,50.0,,
+58,harga,36,14,2,52,69.2,positif,Harga Terjangkau
+58,pelayanan,68,15,0,83,81.9,positif,Pelayanan Ramah
+58,suasana,164,11,0,175,93.7,positif,Suasana Nyaman
+58,wifi,2,3,0,5,40.0,negatif,Wifi Kurang Stabil
+59,harga,87,17,5,109,79.8,positif,Harga Terjangkau
+59,pelayanan,39,25,0,64,60.9,positif,Pelayanan Ramah
+59,suasana,198,13,0,211,93.8,positif,Suasana Nyaman
+59,wifi,4,1,3,8,50.0,positif,Wifi Kencang
+60,harga,13,1,0,14,92.9,positif,Harga Terjangkau
+60,pelayanan,22,0,0,22,100.0,positif,Pelayanan Ramah
+60,suasana,28,0,0,28,100.0,positif,Suasana Nyaman
+61,harga,64,30,14,108,59.3,positif,Harga Terjangkau
+61,pelayanan,57,28,0,85,67.1,positif,Pelayanan Ramah
+61,suasana,222,13,1,236,94.1,positif,Suasana Nyaman
+61,wifi,8,5,3,16,50.0,positif,Wifi Kencang
+62,harga,4,2,0,6,66.7,positif,Harga Terjangkau
+62,pelayanan,5,2,0,7,71.4,positif,Pelayanan Ramah
+62,suasana,10,0,0,10,100.0,positif,Suasana Nyaman
+63,harga,62,15,1,78,79.5,positif,Harga Terjangkau
+63,pelayanan,50,17,0,67,74.6,positif,Pelayanan Ramah
+63,suasana,122,5,0,127,96.1,positif,Suasana Nyaman
+63,wifi,1,2,4,7,14.3,,
+64,harga,29,2,0,31,93.5,positif,Harga Terjangkau
+64,pelayanan,48,15,0,63,76.2,positif,Pelayanan Ramah
+64,suasana,95,8,0,103,92.2,positif,Suasana Nyaman
+64,wifi,0,1,0,1,0.0,,
+65,harga,2,0,0,2,100.0,,
+65,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+65,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+66,harga,10,0,2,12,83.3,positif,Harga Terjangkau
+66,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+66,suasana,20,1,0,21,95.2,positif,Suasana Nyaman
+66,wifi,1,0,0,1,100.0,,
+67,harga,25,5,5,35,71.4,positif,Harga Terjangkau
+67,pelayanan,60,42,4,106,56.6,positif,Pelayanan Ramah
+67,suasana,188,14,0,202,93.1,positif,Suasana Nyaman
+67,wifi,17,0,0,17,100.0,positif,Wifi Kencang
+68,harga,88,9,2,99,88.9,positif,Harga Terjangkau
+68,pelayanan,71,13,0,84,84.5,positif,Pelayanan Ramah
+68,suasana,212,7,1,220,96.4,positif,Suasana Nyaman
+68,wifi,3,0,2,5,60.0,positif,Wifi Kencang
+69,harga,9,0,0,9,100.0,positif,Harga Terjangkau
+69,pelayanan,7,2,0,9,77.8,positif,Pelayanan Ramah
+69,suasana,23,1,0,24,95.8,positif,Suasana Nyaman
+69,wifi,1,0,0,1,100.0,,
+70,harga,28,4,5,37,75.7,positif,Harga Terjangkau
+70,pelayanan,33,11,0,44,75.0,positif,Pelayanan Ramah
+70,suasana,84,14,0,98,85.7,positif,Suasana Nyaman
+70,wifi,4,5,0,9,44.4,negatif,Wifi Kurang Stabil
+71,harga,35,16,4,55,63.6,positif,Harga Terjangkau
+71,pelayanan,41,17,0,58,70.7,positif,Pelayanan Ramah
+71,suasana,120,5,0,125,96.0,positif,Suasana Nyaman
+72,harga,4,1,0,5,80.0,positif,Harga Terjangkau
+72,suasana,0,1,0,1,0.0,,
+73,harga,138,15,2,155,89.0,positif,Harga Terjangkau
+73,pelayanan,74,69,2,145,51.0,positif,Pelayanan Ramah
+73,suasana,210,25,0,235,89.4,positif,Suasana Nyaman
+73,wifi,0,2,2,4,0.0,negatif,Wifi Kurang Stabil
+74,harga,18,4,6,28,64.3,positif,Harga Terjangkau
+74,pelayanan,54,12,0,66,81.8,positif,Pelayanan Ramah
+74,suasana,76,5,0,81,93.8,positif,Suasana Nyaman
+74,wifi,1,0,1,2,50.0,,
+75,harga,43,8,5,56,76.8,positif,Harga Terjangkau
+75,pelayanan,37,13,0,50,74.0,positif,Pelayanan Ramah
+75,suasana,100,2,1,103,97.1,positif,Suasana Nyaman
+75,wifi,8,0,3,11,72.7,positif,Wifi Kencang
+76,harga,50,41,1,92,54.3,positif,Harga Terjangkau
+76,pelayanan,106,59,1,166,63.9,positif,Pelayanan Ramah
+76,suasana,248,15,0,263,94.3,positif,Suasana Nyaman
+76,wifi,4,1,0,5,80.0,positif,Wifi Kencang
+77,harga,32,5,1,38,84.2,positif,Harga Terjangkau
+77,pelayanan,33,1,0,34,97.1,positif,Pelayanan Ramah
+77,suasana,67,2,0,69,97.1,positif,Suasana Nyaman
+77,wifi,4,1,0,5,80.0,positif,Wifi Kencang
+78,harga,35,4,1,40,87.5,positif,Harga Terjangkau
+78,pelayanan,88,15,0,103,85.4,positif,Pelayanan Ramah
+78,suasana,230,4,1,235,97.9,positif,Suasana Nyaman
+78,wifi,1,0,1,2,50.0,,
+79,harga,13,10,0,23,56.5,positif,Harga Terjangkau
+79,pelayanan,17,5,0,22,77.3,positif,Pelayanan Ramah
+79,suasana,29,3,0,32,90.6,positif,Suasana Nyaman
+80,harga,10,2,1,13,76.9,positif,Harga Terjangkau
+80,pelayanan,5,6,0,11,45.5,negatif,Pelayanan Perlu Ditingkatkan
+80,suasana,34,7,0,41,82.9,positif,Suasana Nyaman
+80,wifi,1,0,1,2,50.0,,
+81,harga,49,4,1,54,90.7,positif,Harga Terjangkau
+81,pelayanan,22,5,0,27,81.5,positif,Pelayanan Ramah
+81,suasana,60,0,0,60,100.0,positif,Suasana Nyaman
+81,wifi,2,0,3,5,40.0,,
+82,harga,23,1,1,25,92.0,positif,Harga Terjangkau
+82,pelayanan,40,8,1,49,81.6,positif,Pelayanan Ramah
+82,suasana,55,2,0,57,96.5,positif,Suasana Nyaman
+82,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+83,harga,56,19,11,86,65.1,positif,Harga Terjangkau
+83,pelayanan,31,19,0,50,62.0,positif,Pelayanan Ramah
+83,suasana,250,18,0,268,93.3,positif,Suasana Nyaman
+83,wifi,12,3,7,22,54.5,positif,Wifi Kencang
+84,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+84,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+84,suasana,14,1,0,15,93.3,positif,Suasana Nyaman
+85,harga,23,1,0,24,95.8,positif,Harga Terjangkau
+85,pelayanan,9,4,0,13,69.2,positif,Pelayanan Ramah
+85,suasana,23,0,0,23,100.0,positif,Suasana Nyaman
+85,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+86,harga,25,5,2,32,78.1,positif,Harga Terjangkau
+86,pelayanan,32,15,0,47,68.1,positif,Pelayanan Ramah
+86,suasana,76,3,0,79,96.2,positif,Suasana Nyaman
+86,wifi,5,1,0,6,83.3,positif,Wifi Kencang
+87,harga,17,2,0,19,89.5,positif,Harga Terjangkau
+87,pelayanan,35,0,0,35,100.0,positif,Pelayanan Ramah
+87,suasana,69,0,0,69,100.0,positif,Suasana Nyaman
+88,harga,11,1,0,12,91.7,positif,Harga Terjangkau
+88,pelayanan,61,25,0,86,70.9,positif,Pelayanan Ramah
+88,suasana,23,0,0,23,100.0,positif,Suasana Nyaman
+89,harga,27,4,1,32,84.4,positif,Harga Terjangkau
+89,pelayanan,12,10,0,22,54.5,positif,Pelayanan Ramah
+89,suasana,38,6,0,44,86.4,positif,Suasana Nyaman
+89,wifi,4,2,1,7,57.1,positif,Wifi Kencang
+90,harga,39,18,2,59,66.1,positif,Harga Terjangkau
+90,pelayanan,110,5,0,115,95.7,positif,Pelayanan Ramah
+90,suasana,233,8,0,241,96.7,positif,Suasana Nyaman
+90,wifi,7,1,0,8,87.5,positif,Wifi Kencang
+91,harga,30,0,0,30,100.0,positif,Harga Terjangkau
+91,pelayanan,43,0,0,43,100.0,positif,Pelayanan Ramah
+91,suasana,12,0,0,12,100.0,positif,Suasana Nyaman
+92,harga,33,8,0,41,80.5,positif,Harga Terjangkau
+92,pelayanan,116,18,0,134,86.6,positif,Pelayanan Ramah
+92,suasana,192,9,0,201,95.5,positif,Suasana Nyaman
+92,wifi,3,2,1,6,50.0,positif,Wifi Kencang
+93,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+93,pelayanan,4,0,0,4,100.0,positif,Pelayanan Ramah
+93,suasana,7,0,0,7,100.0,positif,Suasana Nyaman
+94,harga,9,0,0,9,100.0,positif,Harga Terjangkau
+94,pelayanan,1,0,0,1,100.0,,
+94,suasana,8,1,0,9,88.9,positif,Suasana Nyaman
+95,harga,90,9,4,103,87.4,positif,Harga Terjangkau
+95,pelayanan,103,47,0,150,68.7,positif,Pelayanan Ramah
+95,suasana,128,5,0,133,96.2,positif,Suasana Nyaman
+95,wifi,0,0,4,4,0.0,,
+96,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+96,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+96,suasana,27,3,0,30,90.0,positif,Suasana Nyaman
+96,wifi,1,0,0,1,100.0,,
+97,harga,13,14,2,29,44.8,negatif,Harga Kurang Bersahabat
+97,pelayanan,18,8,0,26,69.2,positif,Pelayanan Ramah
+97,suasana,66,6,0,72,91.7,positif,Suasana Nyaman
+97,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+98,harga,2,1,0,3,66.7,positif,Harga Terjangkau
+98,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+98,suasana,7,1,0,8,87.5,positif,Suasana Nyaman
+99,harga,1,0,0,1,100.0,,
+99,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+99,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+100,harga,1,0,0,1,100.0,,
+100,suasana,2,0,0,2,100.0,,
+101,harga,51,16,3,70,72.9,positif,Harga Terjangkau
+101,pelayanan,47,32,1,80,58.8,positif,Pelayanan Ramah
+101,suasana,209,14,0,223,93.7,positif,Suasana Nyaman
+101,wifi,0,2,0,2,0.0,,
+102,harga,79,31,7,117,67.5,positif,Harga Terjangkau
+102,pelayanan,51,40,0,91,56.0,positif,Pelayanan Ramah
+102,suasana,139,6,0,145,95.9,positif,Suasana Nyaman
+102,wifi,1,4,1,6,16.7,negatif,Wifi Kurang Stabil
+103,harga,1,0,0,1,100.0,,
+103,pelayanan,12,6,0,18,66.7,positif,Pelayanan Ramah
+103,suasana,1,0,0,1,100.0,,
+105,harga,50,6,4,60,83.3,positif,Harga Terjangkau
+105,pelayanan,61,11,0,72,84.7,positif,Pelayanan Ramah
+105,suasana,182,6,0,188,96.8,positif,Suasana Nyaman
+105,wifi,1,0,4,5,20.0,,
+106,harga,2,0,0,2,100.0,,
+106,pelayanan,9,1,0,10,90.0,positif,Pelayanan Ramah
+106,suasana,12,1,0,13,92.3,positif,Suasana Nyaman
+106,wifi,0,1,0,1,0.0,,
+107,harga,48,10,1,59,81.4,positif,Harga Terjangkau
+107,pelayanan,86,12,3,101,85.1,positif,Pelayanan Ramah
+107,suasana,161,5,0,166,97.0,positif,Suasana Nyaman
+107,wifi,1,0,0,1,100.0,,
+108,harga,38,16,3,57,66.7,positif,Harga Terjangkau
+108,pelayanan,39,7,0,46,84.8,positif,Pelayanan Ramah
+108,suasana,99,2,0,101,98.0,positif,Suasana Nyaman
+109,harga,17,0,0,17,100.0,positif,Harga Terjangkau
+109,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+109,suasana,14,0,0,14,100.0,positif,Suasana Nyaman
+109,wifi,2,0,0,2,100.0,,
+110,harga,36,4,1,41,87.8,positif,Harga Terjangkau
+110,pelayanan,11,6,0,17,64.7,positif,Pelayanan Ramah
+110,suasana,20,2,0,22,90.9,positif,Suasana Nyaman
+110,wifi,0,0,1,1,0.0,,
+111,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+111,pelayanan,43,22,0,65,66.2,positif,Pelayanan Ramah
+111,suasana,85,5,0,90,94.4,positif,Suasana Nyaman
+111,wifi,1,1,0,2,50.0,,
+112,harga,10,5,0,15,66.7,positif,Harga Terjangkau
+112,pelayanan,8,4,0,12,66.7,positif,Pelayanan Ramah
+112,suasana,18,3,0,21,85.7,positif,Suasana Nyaman
+112,wifi,0,0,1,1,0.0,,
+113,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+113,pelayanan,2,0,0,2,100.0,,
+113,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+114,harga,123,14,1,138,89.1,positif,Harga Terjangkau
+114,pelayanan,78,65,2,145,53.8,positif,Pelayanan Ramah
+114,suasana,163,26,0,189,86.2,positif,Suasana Nyaman
+114,wifi,3,3,1,7,42.9,,
+115,pelayanan,2,0,0,2,100.0,,
+115,suasana,1,0,0,1,100.0,,
+116,harga,66,14,3,83,79.5,positif,Harga Terjangkau
+116,pelayanan,62,19,0,81,76.5,positif,Pelayanan Ramah
+116,suasana,173,3,1,177,97.7,positif,Suasana Nyaman
+116,wifi,11,11,1,23,47.8,,
+117,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+117,pelayanan,4,1,0,5,80.0,positif,Pelayanan Ramah
+117,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+118,harga,1,0,0,1,100.0,,
+118,pelayanan,2,0,0,2,100.0,,
+118,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+119,harga,1,0,0,1,100.0,,
+120,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+120,pelayanan,2,0,0,2,100.0,,
+120,suasana,16,0,0,16,100.0,positif,Suasana Nyaman
+121,harga,35,30,7,72,48.6,positif,Harga Terjangkau
+121,pelayanan,68,10,0,78,87.2,positif,Pelayanan Ramah
+121,suasana,274,10,1,285,96.1,positif,Suasana Nyaman
+121,wifi,10,2,2,14,71.4,positif,Wifi Kencang
+122,harga,18,0,0,18,100.0,positif,Harga Terjangkau
+122,pelayanan,7,0,0,7,100.0,positif,Pelayanan Ramah
+122,suasana,7,1,0,8,87.5,positif,Suasana Nyaman
+123,harga,1,0,0,1,100.0,,
+123,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+123,suasana,2,0,0,2,100.0,,
+124,harga,12,0,0,12,100.0,positif,Harga Terjangkau
+124,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+125,harga,18,2,0,20,90.0,positif,Harga Terjangkau
+125,pelayanan,31,24,1,56,55.4,positif,Pelayanan Ramah
+125,suasana,81,7,0,88,92.0,positif,Suasana Nyaman
+125,wifi,1,0,0,1,100.0,,
+126,pelayanan,1,0,0,1,100.0,,
+127,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+127,pelayanan,1,0,0,1,100.0,,
+127,suasana,2,0,0,2,100.0,,
+127,wifi,0,1,0,1,0.0,,
+128,harga,4,0,1,5,80.0,positif,Harga Terjangkau
+128,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+128,suasana,23,0,0,23,100.0,positif,Suasana Nyaman
+128,wifi,1,0,1,2,50.0,,
+129,harga,76,18,5,99,76.8,positif,Harga Terjangkau
+129,pelayanan,88,47,0,135,65.2,positif,Pelayanan Ramah
+129,suasana,224,24,0,248,90.3,positif,Suasana Nyaman
+129,wifi,4,3,2,9,44.4,positif,Wifi Kencang
+130,harga,89,16,5,110,80.9,positif,Harga Terjangkau
+130,pelayanan,64,17,0,81,79.0,positif,Pelayanan Ramah
+130,suasana,121,10,0,131,92.4,positif,Suasana Nyaman
+130,wifi,7,0,2,9,77.8,positif,Wifi Kencang
+131,harga,61,17,6,84,72.6,positif,Harga Terjangkau
+131,pelayanan,37,13,0,50,74.0,positif,Pelayanan Ramah
+131,suasana,144,7,1,152,94.7,positif,Suasana Nyaman
+131,wifi,3,1,3,7,42.9,positif,Wifi Kencang
+132,harga,64,20,3,87,73.6,positif,Harga Terjangkau
+132,pelayanan,194,30,0,224,86.6,positif,Pelayanan Ramah
+132,suasana,280,12,0,292,95.9,positif,Suasana Nyaman
+132,wifi,6,6,2,14,42.9,,
+133,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+133,suasana,13,0,0,13,100.0,positif,Suasana Nyaman
+133,wifi,2,0,1,3,66.7,positif,Wifi Kencang
+134,harga,6,0,0,6,100.0,positif,Harga Terjangkau
+134,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+135,harga,60,14,0,74,81.1,positif,Harga Terjangkau
+135,pelayanan,173,27,0,200,86.5,positif,Pelayanan Ramah
+135,suasana,231,7,0,238,97.1,positif,Suasana Nyaman
+135,wifi,2,6,0,8,25.0,negatif,Wifi Kurang Stabil
+136,harga,11,0,0,11,100.0,positif,Harga Terjangkau
+136,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+136,suasana,16,0,0,16,100.0,positif,Suasana Nyaman
+137,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+137,pelayanan,2,0,0,2,100.0,,
+137,suasana,5,1,0,6,83.3,positif,Suasana Nyaman
+138,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+138,suasana,2,0,0,2,100.0,,
+139,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+139,pelayanan,2,0,0,2,100.0,,
+139,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+140,harga,33,3,1,37,89.2,positif,Harga Terjangkau
+140,pelayanan,15,2,0,17,88.2,positif,Pelayanan Ramah
+140,suasana,33,1,0,34,97.1,positif,Suasana Nyaman
+140,wifi,1,0,1,2,50.0,,
+141,harga,40,1,1,42,95.2,positif,Harga Terjangkau
+141,pelayanan,37,7,0,44,84.1,positif,Pelayanan Ramah
+141,suasana,91,3,0,94,96.8,positif,Suasana Nyaman
+141,wifi,5,2,0,7,71.4,positif,Wifi Kencang
+142,harga,2,0,0,2,100.0,,
+142,pelayanan,1,0,0,1,100.0,,
+142,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+143,harga,6,1,2,9,66.7,positif,Harga Terjangkau
+143,pelayanan,4,6,1,11,36.4,negatif,Pelayanan Perlu Ditingkatkan
+143,suasana,23,3,1,27,85.2,positif,Suasana Nyaman
+143,wifi,2,3,0,5,40.0,negatif,Wifi Kurang Stabil
+144,harga,51,36,4,91,56.0,positif,Harga Terjangkau
+144,pelayanan,137,47,0,184,74.5,positif,Pelayanan Ramah
+144,suasana,202,17,0,219,92.2,positif,Suasana Nyaman
+144,wifi,5,2,1,8,62.5,positif,Wifi Kencang
+145,harga,35,3,2,40,87.5,positif,Harga Terjangkau
+145,pelayanan,34,10,0,44,77.3,positif,Pelayanan Ramah
+145,suasana,131,7,0,138,94.9,positif,Suasana Nyaman
+145,wifi,6,3,0,9,66.7,positif,Wifi Kencang
+146,harga,2,1,0,3,66.7,positif,Harga Terjangkau
+146,pelayanan,1,0,0,1,100.0,,
+146,suasana,6,0,0,6,100.0,positif,Suasana Nyaman
+147,harga,5,1,1,7,71.4,positif,Harga Terjangkau
+147,pelayanan,11,2,0,13,84.6,positif,Pelayanan Ramah
+147,suasana,30,1,0,31,96.8,positif,Suasana Nyaman
+147,wifi,1,0,0,1,100.0,,
+148,harga,0,0,1,1,0.0,,
+148,pelayanan,4,0,0,4,100.0,positif,Pelayanan Ramah
+148,suasana,2,0,0,2,100.0,,
+148,wifi,0,0,1,1,0.0,,
+149,harga,7,1,1,9,77.8,positif,Harga Terjangkau
+149,pelayanan,6,1,0,7,85.7,positif,Pelayanan Ramah
+149,suasana,13,0,0,13,100.0,positif,Suasana Nyaman
+150,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+150,pelayanan,11,2,0,13,84.6,positif,Pelayanan Ramah
+150,suasana,20,3,0,23,87.0,positif,Suasana Nyaman
+151,harga,70,10,2,82,85.4,positif,Harga Terjangkau
+151,pelayanan,23,27,0,50,46.0,negatif,Pelayanan Perlu Ditingkatkan
+151,suasana,145,12,0,157,92.4,positif,Suasana Nyaman
+151,wifi,0,1,1,2,0.0,,
+152,harga,19,16,1,36,52.8,positif,Harga Terjangkau
+152,pelayanan,51,35,1,87,58.6,positif,Pelayanan Ramah
+152,suasana,153,18,1,172,89.0,positif,Suasana Nyaman
+152,wifi,9,1,0,10,90.0,positif,Wifi Kencang
+153,harga,1,0,0,1,100.0,,
+154,harga,2,0,0,2,100.0,,
+154,pelayanan,2,0,0,2,100.0,,
+155,harga,9,0,0,9,100.0,positif,Harga Terjangkau
+155,pelayanan,2,1,0,3,66.7,positif,Pelayanan Ramah
+155,suasana,8,0,0,8,100.0,positif,Suasana Nyaman
+156,harga,106,17,12,135,78.5,positif,Harga Terjangkau
+156,pelayanan,45,17,0,62,72.6,positif,Pelayanan Ramah
+156,suasana,231,8,1,240,96.2,positif,Suasana Nyaman
+156,wifi,2,17,1,20,10.0,negatif,Wifi Kurang Stabil
+157,harga,3,1,0,4,75.0,positif,Harga Terjangkau
+157,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+157,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+158,suasana,1,0,0,1,100.0,,
+159,pelayanan,2,0,0,2,100.0,,
+160,harga,96,3,3,102,94.1,positif,Harga Terjangkau
+160,pelayanan,74,50,0,124,59.7,positif,Pelayanan Ramah
+160,suasana,165,19,2,186,88.7,positif,Suasana Nyaman
+160,wifi,10,4,5,19,52.6,positif,Wifi Kencang
+161,harga,0,1,0,1,0.0,,
+162,harga,9,22,3,34,26.5,negatif,Harga Kurang Bersahabat
+162,pelayanan,21,14,0,35,60.0,positif,Pelayanan Ramah
+162,suasana,76,13,0,89,85.4,positif,Suasana Nyaman
+162,wifi,1,6,3,10,10.0,negatif,Wifi Kurang Stabil
+163,harga,41,14,8,63,65.1,positif,Harga Terjangkau
+163,pelayanan,62,9,0,71,87.3,positif,Pelayanan Ramah
+163,suasana,215,5,0,220,97.7,positif,Suasana Nyaman
+163,wifi,6,1,3,10,60.0,positif,Wifi Kencang
+164,harga,13,1,0,14,92.9,positif,Harga Terjangkau
+164,pelayanan,13,5,0,18,72.2,positif,Pelayanan Ramah
+164,suasana,12,1,0,13,92.3,positif,Suasana Nyaman
+165,harga,29,5,1,35,82.9,positif,Harga Terjangkau
+165,pelayanan,25,27,0,52,48.1,negatif,Pelayanan Perlu Ditingkatkan
+165,suasana,20,6,0,26,76.9,positif,Suasana Nyaman
+165,wifi,1,0,0,1,100.0,,
+166,harga,2,0,0,2,100.0,,
+166,suasana,1,0,0,1,100.0,,
+167,harga,103,10,10,123,83.7,positif,Harga Terjangkau
+167,pelayanan,26,6,0,32,81.2,positif,Pelayanan Ramah
+167,suasana,155,12,0,167,92.8,positif,Suasana Nyaman
+167,wifi,2,23,3,28,7.1,negatif,Wifi Kurang Stabil
+168,harga,14,7,3,24,58.3,positif,Harga Terjangkau
+168,pelayanan,46,33,0,79,58.2,positif,Pelayanan Ramah
+168,suasana,88,5,0,93,94.6,positif,Suasana Nyaman
+168,wifi,0,4,1,5,0.0,negatif,Wifi Kurang Stabil
+169,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+169,pelayanan,1,0,0,1,100.0,,
+169,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+170,suasana,1,0,0,1,100.0,,
+171,pelayanan,4,0,0,4,100.0,positif,Pelayanan Ramah
+171,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+172,harga,9,1,0,10,90.0,positif,Harga Terjangkau
+172,pelayanan,19,4,0,23,82.6,positif,Pelayanan Ramah
+172,suasana,20,2,0,22,90.9,positif,Suasana Nyaman
+173,harga,108,9,10,127,85.0,positif,Harga Terjangkau
+173,pelayanan,52,16,1,69,75.4,positif,Pelayanan Ramah
+173,suasana,173,12,2,187,92.5,positif,Suasana Nyaman
+173,wifi,10,5,5,20,50.0,positif,Wifi Kencang
+174,harga,18,0,3,21,85.7,positif,Harga Terjangkau
+174,pelayanan,18,2,0,20,90.0,positif,Pelayanan Ramah
+174,suasana,59,4,0,63,93.7,positif,Suasana Nyaman
+174,wifi,1,1,1,3,33.3,,
+175,harga,34,8,3,45,75.6,positif,Harga Terjangkau
+175,pelayanan,24,3,0,27,88.9,positif,Pelayanan Ramah
+175,suasana,105,2,0,107,98.1,positif,Suasana Nyaman
+175,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+176,harga,108,16,11,135,80.0,positif,Harga Terjangkau
+176,pelayanan,157,19,0,176,89.2,positif,Pelayanan Ramah
+176,suasana,289,9,0,298,97.0,positif,Suasana Nyaman
+177,harga,2,0,0,2,100.0,,
+177,pelayanan,2,0,0,2,100.0,,
+177,suasana,6,0,0,6,100.0,positif,Suasana Nyaman
+178,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+178,pelayanan,4,0,0,4,100.0,positif,Pelayanan Ramah
+178,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+178,wifi,1,0,0,1,100.0,,
+179,harga,1,1,0,2,50.0,,
+179,pelayanan,17,6,0,23,73.9,positif,Pelayanan Ramah
+179,suasana,31,5,0,36,86.1,positif,Suasana Nyaman
+179,wifi,0,1,0,1,0.0,,
+180,harga,9,0,0,9,100.0,positif,Harga Terjangkau
+180,pelayanan,64,3,0,67,95.5,positif,Pelayanan Ramah
+180,suasana,164,2,0,166,98.8,positif,Suasana Nyaman
+180,wifi,4,2,0,6,66.7,positif,Wifi Kencang
+181,pelayanan,1,0,0,1,100.0,,
+181,suasana,3,1,0,4,75.0,positif,Suasana Nyaman
+182,harga,28,13,4,45,62.2,positif,Harga Terjangkau
+182,pelayanan,39,15,1,55,70.9,positif,Pelayanan Ramah
+182,suasana,80,8,1,89,89.9,positif,Suasana Nyaman
+182,wifi,0,0,2,2,0.0,,
+183,harga,49,7,0,56,87.5,positif,Harga Terjangkau
+183,pelayanan,116,19,1,136,85.3,positif,Pelayanan Ramah
+183,suasana,188,8,0,196,95.9,positif,Suasana Nyaman
+183,wifi,2,0,1,3,66.7,positif,Wifi Kencang
+184,harga,41,5,2,48,85.4,positif,Harga Terjangkau
+184,pelayanan,36,31,0,67,53.7,positif,Pelayanan Ramah
+184,suasana,87,7,1,95,91.6,positif,Suasana Nyaman
+184,wifi,2,5,2,9,22.2,negatif,Wifi Kurang Stabil
+185,harga,23,12,5,40,57.5,positif,Harga Terjangkau
+185,pelayanan,35,14,0,49,71.4,positif,Pelayanan Ramah
+185,suasana,61,9,0,70,87.1,positif,Suasana Nyaman
+185,wifi,0,0,1,1,0.0,,
+186,harga,10,1,0,11,90.9,positif,Harga Terjangkau
+186,pelayanan,37,12,0,49,75.5,positif,Pelayanan Ramah
+186,suasana,32,2,0,34,94.1,positif,Suasana Nyaman
+186,wifi,1,0,2,3,33.3,,
+187,harga,10,0,0,10,100.0,positif,Harga Terjangkau
+187,pelayanan,40,3,0,43,93.0,positif,Pelayanan Ramah
+187,suasana,49,1,0,50,98.0,positif,Suasana Nyaman
+187,wifi,1,0,0,1,100.0,,
+188,harga,6,0,0,6,100.0,positif,Harga Terjangkau
+188,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+188,suasana,14,0,0,14,100.0,positif,Suasana Nyaman
+189,harga,16,9,3,28,57.1,positif,Harga Terjangkau
+189,pelayanan,28,12,0,40,70.0,positif,Pelayanan Ramah
+189,suasana,62,5,0,67,92.5,positif,Suasana Nyaman
+189,wifi,4,0,0,4,100.0,positif,Wifi Kencang
+190,harga,2,0,0,2,100.0,,
+190,suasana,2,0,0,2,100.0,,
+191,harga,18,1,0,19,94.7,positif,Harga Terjangkau
+191,pelayanan,22,11,0,33,66.7,positif,Pelayanan Ramah
+191,suasana,43,2,0,45,95.6,positif,Suasana Nyaman
+191,wifi,4,1,0,5,80.0,positif,Wifi Kencang
+192,harga,40,19,5,64,62.5,positif,Harga Terjangkau
+192,pelayanan,71,33,0,104,68.3,positif,Pelayanan Ramah
+192,suasana,142,13,0,155,91.6,positif,Suasana Nyaman
+193,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+193,pelayanan,1,0,0,1,100.0,,
+193,suasana,2,0,0,2,100.0,,
+193,wifi,1,0,1,2,50.0,,
+194,harga,70,21,7,98,71.4,positif,Harga Terjangkau
+194,pelayanan,61,19,2,82,74.4,positif,Pelayanan Ramah
+194,suasana,219,12,1,232,94.4,positif,Suasana Nyaman
+194,wifi,29,12,11,52,55.8,positif,Wifi Kencang
+195,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+195,pelayanan,2,0,0,2,100.0,,
+195,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+196,harga,15,2,0,17,88.2,positif,Harga Terjangkau
+196,pelayanan,6,5,0,11,54.5,positif,Pelayanan Ramah
+196,suasana,27,1,0,28,96.4,positif,Suasana Nyaman
+196,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+197,harga,70,3,1,74,94.6,positif,Harga Terjangkau
+197,pelayanan,10,7,0,17,58.8,positif,Pelayanan Ramah
+197,suasana,60,5,0,65,92.3,positif,Suasana Nyaman
+197,wifi,1,0,3,4,25.0,,
+198,harga,2,0,0,2,100.0,,
+198,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+198,suasana,17,0,0,17,100.0,positif,Suasana Nyaman
+199,harga,1,0,0,1,100.0,,
+199,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+200,harga,5,1,0,6,83.3,positif,Harga Terjangkau
+200,pelayanan,30,7,0,37,81.1,positif,Pelayanan Ramah
+200,suasana,24,2,0,26,92.3,positif,Suasana Nyaman
+200,wifi,3,1,0,4,75.0,positif,Wifi Kencang
+201,harga,1,0,0,1,100.0,,
+202,harga,20,1,0,21,95.2,positif,Harga Terjangkau
+202,pelayanan,2,0,0,2,100.0,,
+202,suasana,7,1,0,8,87.5,positif,Suasana Nyaman
+203,harga,2,0,0,2,100.0,,
+203,pelayanan,2,0,0,2,100.0,,
+203,suasana,2,0,0,2,100.0,,
+204,harga,58,15,5,78,74.4,positif,Harga Terjangkau
+204,pelayanan,120,10,0,130,92.3,positif,Pelayanan Ramah
+204,suasana,274,1,0,275,99.6,positif,Suasana Nyaman
+204,wifi,2,0,0,2,100.0,,
+205,harga,8,2,1,11,72.7,positif,Harga Terjangkau
+205,pelayanan,30,10,0,40,75.0,positif,Pelayanan Ramah
+205,suasana,59,4,0,63,93.7,positif,Suasana Nyaman
+205,wifi,3,3,0,6,50.0,,
+206,harga,77,20,8,105,73.3,positif,Harga Terjangkau
+206,pelayanan,62,14,0,76,81.6,positif,Pelayanan Ramah
+206,suasana,181,8,1,190,95.3,positif,Suasana Nyaman
+206,wifi,7,0,3,10,70.0,positif,Wifi Kencang
+207,harga,22,0,0,22,100.0,positif,Harga Terjangkau
+207,pelayanan,34,2,0,36,94.4,positif,Pelayanan Ramah
+207,suasana,77,0,0,77,100.0,positif,Suasana Nyaman
+207,wifi,1,1,1,3,33.3,,
+208,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+208,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+208,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+209,harga,1,0,0,1,100.0,,
+209,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+210,harga,7,5,0,12,58.3,positif,Harga Terjangkau
+210,pelayanan,26,7,0,33,78.8,positif,Pelayanan Ramah
+210,suasana,92,2,0,94,97.9,positif,Suasana Nyaman
+211,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+211,pelayanan,52,4,0,56,92.9,positif,Pelayanan Ramah
+211,suasana,12,0,0,12,100.0,positif,Suasana Nyaman
+212,harga,14,2,0,16,87.5,positif,Harga Terjangkau
+212,pelayanan,20,5,0,25,80.0,positif,Pelayanan Ramah
+212,suasana,54,2,0,56,96.4,positif,Suasana Nyaman
+213,harga,46,19,4,69,66.7,positif,Harga Terjangkau
+213,pelayanan,85,18,0,103,82.5,positif,Pelayanan Ramah
+213,suasana,142,3,0,145,97.9,positif,Suasana Nyaman
+213,wifi,2,2,0,4,50.0,,
+214,harga,3,1,0,4,75.0,positif,Harga Terjangkau
+214,pelayanan,22,2,0,24,91.7,positif,Pelayanan Ramah
+214,suasana,22,0,0,22,100.0,positif,Suasana Nyaman
+214,wifi,1,0,0,1,100.0,,
+215,harga,21,5,3,29,72.4,positif,Harga Terjangkau
+215,pelayanan,17,11,0,28,60.7,positif,Pelayanan Ramah
+215,suasana,49,3,0,52,94.2,positif,Suasana Nyaman
+215,wifi,5,2,2,9,55.6,positif,Wifi Kencang
+216,harga,1,0,0,1,100.0,,
+216,pelayanan,6,2,0,8,75.0,positif,Pelayanan Ramah
+216,suasana,3,1,0,4,75.0,positif,Suasana Nyaman
+217,harga,7,4,1,12,58.3,positif,Harga Terjangkau
+217,pelayanan,19,15,0,34,55.9,positif,Pelayanan Ramah
+217,suasana,42,3,0,45,93.3,positif,Suasana Nyaman
+217,wifi,2,0,0,2,100.0,,
+218,harga,27,5,0,32,84.4,positif,Harga Terjangkau
+218,pelayanan,24,6,0,30,80.0,positif,Pelayanan Ramah
+218,suasana,36,0,0,36,100.0,positif,Suasana Nyaman
+218,wifi,1,0,3,4,25.0,,
+219,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+219,pelayanan,12,1,0,13,92.3,positif,Pelayanan Ramah
+219,suasana,18,0,0,18,100.0,positif,Suasana Nyaman
+219,wifi,1,0,0,1,100.0,,
+220,harga,4,1,0,5,80.0,positif,Harga Terjangkau
+220,pelayanan,1,0,0,1,100.0,,
+221,harga,23,5,0,28,82.1,positif,Harga Terjangkau
+221,pelayanan,20,3,1,24,83.3,positif,Pelayanan Ramah
+221,suasana,92,4,0,96,95.8,positif,Suasana Nyaman
+221,wifi,1,2,4,7,14.3,,
+222,harga,28,0,0,28,100.0,positif,Harga Terjangkau
+222,pelayanan,26,2,1,29,89.7,positif,Pelayanan Ramah
+222,suasana,69,1,0,70,98.6,positif,Suasana Nyaman
+222,wifi,2,0,0,2,100.0,,
+223,harga,19,0,2,21,90.5,positif,Harga Terjangkau
+223,pelayanan,15,4,0,19,78.9,positif,Pelayanan Ramah
+223,suasana,31,0,0,31,100.0,positif,Suasana Nyaman
+223,wifi,1,0,3,4,25.0,,
+224,harga,33,0,0,33,100.0,positif,Harga Terjangkau
+224,pelayanan,16,1,0,17,94.1,positif,Pelayanan Ramah
+224,suasana,26,1,0,27,96.3,positif,Suasana Nyaman
+224,wifi,2,0,0,2,100.0,,
+225,harga,18,0,0,18,100.0,positif,Harga Terjangkau
+225,pelayanan,14,1,0,15,93.3,positif,Pelayanan Ramah
+225,suasana,70,1,0,71,98.6,positif,Suasana Nyaman
+225,wifi,0,1,0,1,0.0,,
+226,pelayanan,0,2,0,2,0.0,,
+226,suasana,2,0,0,2,100.0,,
+226,wifi,0,1,0,1,0.0,,
+227,harga,55,7,3,65,84.6,positif,Harga Terjangkau
+227,pelayanan,73,27,1,101,72.3,positif,Pelayanan Ramah
+227,suasana,138,4,0,142,97.2,positif,Suasana Nyaman
+227,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+228,harga,4,4,0,8,50.0,,
+228,pelayanan,94,15,0,109,86.2,positif,Pelayanan Ramah
+228,suasana,217,1,0,218,99.5,positif,Suasana Nyaman
+228,wifi,2,2,2,6,33.3,,
+230,harga,1,0,0,1,100.0,,
+230,suasana,2,0,0,2,100.0,,
+231,harga,7,0,0,7,100.0,positif,Harga Terjangkau
+231,pelayanan,5,1,0,6,83.3,positif,Pelayanan Ramah
+231,suasana,18,1,0,19,94.7,positif,Suasana Nyaman
+231,wifi,0,0,2,2,0.0,,
+232,harga,3,1,0,4,75.0,positif,Harga Terjangkau
+232,pelayanan,12,3,0,15,80.0,positif,Pelayanan Ramah
+232,suasana,8,1,0,9,88.9,positif,Suasana Nyaman
+233,harga,30,12,2,44,68.2,positif,Harga Terjangkau
+233,pelayanan,30,15,0,45,66.7,positif,Pelayanan Ramah
+233,suasana,127,10,0,137,92.7,positif,Suasana Nyaman
+233,wifi,0,0,1,1,0.0,,
+235,harga,2,0,0,2,100.0,,
+235,pelayanan,1,0,0,1,100.0,,
+235,suasana,2,0,0,2,100.0,,
+236,harga,1,0,0,1,100.0,,
+236,pelayanan,1,0,0,1,100.0,,
+237,harga,4,4,0,8,50.0,,
+237,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+237,suasana,8,0,0,8,100.0,positif,Suasana Nyaman
+238,harga,2,0,0,2,100.0,,
+238,pelayanan,0,1,0,1,0.0,,
+238,suasana,2,0,0,2,100.0,,
+239,harga,54,7,4,65,83.1,positif,Harga Terjangkau
+239,pelayanan,109,21,0,130,83.8,positif,Pelayanan Ramah
+239,suasana,223,12,0,235,94.9,positif,Suasana Nyaman
+239,wifi,2,0,3,5,40.0,,
+240,harga,0,1,0,1,0.0,,
+241,harga,1,0,0,1,100.0,,
+242,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+242,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+243,harga,35,18,6,59,59.3,positif,Harga Terjangkau
+243,pelayanan,29,21,0,50,58.0,positif,Pelayanan Ramah
+243,suasana,140,8,0,148,94.6,positif,Suasana Nyaman
+243,wifi,1,0,0,1,100.0,,
+244,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+244,pelayanan,1,0,0,1,100.0,,
+244,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+245,harga,1,0,1,2,50.0,,
+245,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+245,wifi,1,0,0,1,100.0,,
+246,harga,1,0,0,1,100.0,,
+246,pelayanan,1,0,0,1,100.0,,
+248,harga,35,5,0,40,87.5,positif,Harga Terjangkau
+248,pelayanan,67,7,2,76,88.2,positif,Pelayanan Ramah
+248,suasana,114,5,0,119,95.8,positif,Suasana Nyaman
+248,wifi,6,1,1,8,75.0,positif,Wifi Kencang
+249,harga,60,15,2,77,77.9,positif,Harga Terjangkau
+249,pelayanan,102,9,1,112,91.1,positif,Pelayanan Ramah
+249,suasana,316,6,0,322,98.1,positif,Suasana Nyaman
+249,wifi,17,2,0,19,89.5,positif,Wifi Kencang
+250,harga,85,15,8,108,78.7,positif,Harga Terjangkau
+250,pelayanan,86,12,0,98,87.8,positif,Pelayanan Ramah
+250,suasana,268,11,1,280,95.7,positif,Suasana Nyaman
+250,wifi,23,2,11,36,63.9,positif,Wifi Kencang
+251,harga,13,0,0,13,100.0,positif,Harga Terjangkau
+251,pelayanan,26,0,0,26,100.0,positif,Pelayanan Ramah
+251,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+251,wifi,0,1,0,1,0.0,,
+252,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+252,pelayanan,13,1,0,14,92.9,positif,Pelayanan Ramah
+252,suasana,35,1,0,36,97.2,positif,Suasana Nyaman
+252,wifi,0,0,1,1,0.0,,
+253,harga,27,4,2,33,81.8,positif,Harga Terjangkau
+253,pelayanan,35,13,0,48,72.9,positif,Pelayanan Ramah
+253,suasana,116,6,0,122,95.1,positif,Suasana Nyaman
+253,wifi,4,3,0,7,57.1,positif,Wifi Kencang
+254,harga,26,3,2,31,83.9,positif,Harga Terjangkau
+254,pelayanan,21,11,1,33,63.6,positif,Pelayanan Ramah
+254,suasana,77,4,0,81,95.1,positif,Suasana Nyaman
+254,wifi,12,4,5,21,57.1,positif,Wifi Kencang
+255,harga,33,6,0,39,84.6,positif,Harga Terjangkau
+255,pelayanan,22,11,1,34,64.7,positif,Pelayanan Ramah
+255,suasana,173,6,0,179,96.6,positif,Suasana Nyaman
+255,wifi,8,3,4,15,53.3,positif,Wifi Kencang
+256,harga,29,2,2,33,87.9,positif,Harga Terjangkau
+256,pelayanan,19,12,0,31,61.3,positif,Pelayanan Ramah
+256,suasana,29,4,0,33,87.9,positif,Suasana Nyaman
+256,wifi,4,0,1,5,80.0,positif,Wifi Kencang
+257,harga,1,0,0,1,100.0,,
+257,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+257,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+258,harga,1,2,0,3,33.3,negatif,Harga Kurang Bersahabat
+258,pelayanan,13,2,0,15,86.7,positif,Pelayanan Ramah
+258,suasana,37,0,0,37,100.0,positif,Suasana Nyaman
+258,wifi,1,0,0,1,100.0,,
+259,harga,14,1,0,15,93.3,positif,Harga Terjangkau
+259,pelayanan,15,4,0,19,78.9,positif,Pelayanan Ramah
+259,suasana,62,4,0,66,93.9,positif,Suasana Nyaman
+259,wifi,4,2,1,7,57.1,positif,Wifi Kencang
+260,harga,8,1,0,9,88.9,positif,Harga Terjangkau
+260,pelayanan,8,0,0,8,100.0,positif,Pelayanan Ramah
+260,suasana,13,0,0,13,100.0,positif,Suasana Nyaman
+261,harga,5,1,0,6,83.3,positif,Harga Terjangkau
+261,pelayanan,79,19,0,98,80.6,positif,Pelayanan Ramah
+261,suasana,69,1,0,70,98.6,positif,Suasana Nyaman
+261,wifi,1,2,0,3,33.3,negatif,Wifi Kurang Stabil
+262,harga,23,13,4,40,57.5,positif,Harga Terjangkau
+262,pelayanan,40,19,0,59,67.8,positif,Pelayanan Ramah
+262,suasana,98,8,0,106,92.5,positif,Suasana Nyaman
+262,wifi,3,3,0,6,50.0,,
+263,harga,63,46,5,114,55.3,positif,Harga Terjangkau
+263,pelayanan,116,55,0,171,67.8,positif,Pelayanan Ramah
+263,suasana,209,18,0,227,92.1,positif,Suasana Nyaman
+263,wifi,7,1,2,10,70.0,positif,Wifi Kencang
+264,harga,3,1,0,4,75.0,positif,Harga Terjangkau
+264,pelayanan,5,1,0,6,83.3,positif,Pelayanan Ramah
+264,suasana,17,0,0,17,100.0,positif,Suasana Nyaman
+265,harga,4,3,0,7,57.1,positif,Harga Terjangkau
+265,pelayanan,10,1,0,11,90.9,positif,Pelayanan Ramah
+265,suasana,33,0,0,33,100.0,positif,Suasana Nyaman
+265,wifi,1,0,0,1,100.0,,
+266,harga,3,1,1,5,60.0,positif,Harga Terjangkau
+266,pelayanan,7,1,0,8,87.5,positif,Pelayanan Ramah
+266,suasana,28,1,0,29,96.6,positif,Suasana Nyaman
+267,harga,7,2,0,9,77.8,positif,Harga Terjangkau
+267,pelayanan,23,0,0,23,100.0,positif,Pelayanan Ramah
+267,suasana,48,1,1,50,96.0,positif,Suasana Nyaman
+267,wifi,4,1,2,7,57.1,positif,Wifi Kencang
+268,harga,17,1,1,19,89.5,positif,Harga Terjangkau
+268,pelayanan,15,5,0,20,75.0,positif,Pelayanan Ramah
+268,suasana,46,0,0,46,100.0,positif,Suasana Nyaman
+268,wifi,2,0,0,2,100.0,,
+269,harga,23,0,0,23,100.0,positif,Harga Terjangkau
+269,pelayanan,35,2,0,37,94.6,positif,Pelayanan Ramah
+269,suasana,81,2,0,83,97.6,positif,Suasana Nyaman
+270,pelayanan,3,1,0,4,75.0,positif,Pelayanan Ramah
+270,suasana,2,0,0,2,100.0,,
+270,wifi,1,0,0,1,100.0,,
+271,harga,24,19,2,45,53.3,positif,Harga Terjangkau
+271,pelayanan,40,25,0,65,61.5,positif,Pelayanan Ramah
+271,suasana,127,13,0,140,90.7,positif,Suasana Nyaman
+271,wifi,6,4,3,13,46.2,positif,Wifi Kencang
+272,harga,48,7,1,56,85.7,positif,Harga Terjangkau
+272,pelayanan,23,26,0,49,46.9,negatif,Pelayanan Perlu Ditingkatkan
+272,suasana,10,2,0,12,83.3,positif,Suasana Nyaman
+273,harga,6,2,2,10,60.0,positif,Harga Terjangkau
+273,pelayanan,2,0,0,2,100.0,,
+273,suasana,27,1,0,28,96.4,positif,Suasana Nyaman
+273,wifi,0,1,0,1,0.0,,
+274,harga,6,3,0,9,66.7,positif,Harga Terjangkau
+274,pelayanan,7,5,0,12,58.3,positif,Pelayanan Ramah
+274,suasana,25,2,0,27,92.6,positif,Suasana Nyaman
+275,harga,55,10,4,69,79.7,positif,Harga Terjangkau
+275,pelayanan,107,48,0,155,69.0,positif,Pelayanan Ramah
+275,suasana,114,8,0,122,93.4,positif,Suasana Nyaman
+276,harga,6,0,0,6,100.0,positif,Harga Terjangkau
+276,pelayanan,2,2,0,4,50.0,,
+276,suasana,18,1,0,19,94.7,positif,Suasana Nyaman
+276,wifi,1,1,0,2,50.0,,
+277,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+277,pelayanan,6,1,0,7,85.7,positif,Pelayanan Ramah
+277,suasana,14,0,0,14,100.0,positif,Suasana Nyaman
+277,wifi,1,0,0,1,100.0,,
+278,harga,1,0,0,1,100.0,,
+278,pelayanan,9,6,0,15,60.0,positif,Pelayanan Ramah
+278,suasana,2,0,0,2,100.0,,
+279,harga,12,0,0,12,100.0,positif,Harga Terjangkau
+279,pelayanan,108,21,0,129,83.7,positif,Pelayanan Ramah
+279,suasana,51,4,0,55,92.7,positif,Suasana Nyaman
+279,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+280,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+280,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+280,suasana,9,0,0,9,100.0,positif,Suasana Nyaman
+281,harga,130,14,0,144,90.3,positif,Harga Terjangkau
+281,pelayanan,120,28,0,148,81.1,positif,Pelayanan Ramah
+281,suasana,216,9,0,225,96.0,positif,Suasana Nyaman
+281,wifi,13,0,1,14,92.9,positif,Wifi Kencang
+282,harga,43,16,2,61,70.5,positif,Harga Terjangkau
+282,pelayanan,23,22,0,45,51.1,positif,Pelayanan Ramah
+282,suasana,44,3,0,47,93.6,positif,Suasana Nyaman
+282,wifi,4,3,3,10,40.0,positif,Wifi Kencang
+283,harga,23,12,0,35,65.7,positif,Harga Terjangkau
+283,pelayanan,83,56,1,140,59.3,positif,Pelayanan Ramah
+283,suasana,145,19,1,165,87.9,positif,Suasana Nyaman
+283,wifi,8,6,2,16,50.0,positif,Wifi Kencang
+284,harga,2,0,0,2,100.0,,
+284,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+284,suasana,2,0,0,2,100.0,,
+285,harga,120,30,6,156,76.9,positif,Harga Terjangkau
+285,pelayanan,52,15,0,67,77.6,positif,Pelayanan Ramah
+285,suasana,263,10,0,273,96.3,positif,Suasana Nyaman
+285,wifi,4,1,4,9,44.4,positif,Wifi Kencang
+286,harga,16,4,1,21,76.2,positif,Harga Terjangkau
+286,pelayanan,26,5,0,31,83.9,positif,Pelayanan Ramah
+286,suasana,53,0,0,53,100.0,positif,Suasana Nyaman
+286,wifi,4,3,0,7,57.1,positif,Wifi Kencang
+287,harga,1,0,0,1,100.0,,
+287,pelayanan,8,0,0,8,100.0,positif,Pelayanan Ramah
+287,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+288,harga,2,0,0,2,100.0,,
+288,pelayanan,4,1,0,5,80.0,positif,Pelayanan Ramah
+288,suasana,1,0,0,1,100.0,,
+290,harga,61,2,1,64,95.3,positif,Harga Terjangkau
+290,pelayanan,57,27,0,84,67.9,positif,Pelayanan Ramah
+290,suasana,106,9,0,115,92.2,positif,Suasana Nyaman
+290,wifi,0,5,2,7,0.0,negatif,Wifi Kurang Stabil
+291,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+291,pelayanan,10,0,0,10,100.0,positif,Pelayanan Ramah
+291,suasana,34,2,0,36,94.4,positif,Suasana Nyaman
+292,harga,30,1,0,31,96.8,positif,Harga Terjangkau
+292,pelayanan,28,0,0,28,100.0,positif,Pelayanan Ramah
+292,suasana,38,0,0,38,100.0,positif,Suasana Nyaman
+292,wifi,2,0,1,3,66.7,positif,Wifi Kencang
+293,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+293,pelayanan,16,0,1,17,94.1,positif,Pelayanan Ramah
+293,suasana,37,0,0,37,100.0,positif,Suasana Nyaman
+294,harga,1,0,0,1,100.0,,
+294,pelayanan,7,0,0,7,100.0,positif,Pelayanan Ramah
+294,suasana,8,0,0,8,100.0,positif,Suasana Nyaman
+295,harga,1,0,0,1,100.0,,
+295,pelayanan,1,0,0,1,100.0,,
+296,harga,17,3,1,21,81.0,positif,Harga Terjangkau
+296,pelayanan,19,14,0,33,57.6,positif,Pelayanan Ramah
+296,suasana,50,4,0,54,92.6,positif,Suasana Nyaman
+296,wifi,5,1,1,7,71.4,positif,Wifi Kencang
+297,harga,4,1,0,5,80.0,positif,Harga Terjangkau
+297,pelayanan,18,4,0,22,81.8,positif,Pelayanan Ramah
+297,suasana,13,1,0,14,92.9,positif,Suasana Nyaman
+298,harga,49,4,0,53,92.5,positif,Harga Terjangkau
+298,pelayanan,11,4,0,15,73.3,positif,Pelayanan Ramah
+298,suasana,42,4,0,46,91.3,positif,Suasana Nyaman
+298,wifi,7,4,2,13,53.8,positif,Wifi Kencang
+299,harga,0,1,0,1,0.0,,
+299,pelayanan,1,0,0,1,100.0,,
+299,suasana,16,0,0,16,100.0,positif,Suasana Nyaman
+300,harga,2,1,0,3,66.7,positif,Harga Terjangkau
+300,pelayanan,1,0,0,1,100.0,,
+300,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+301,harga,1,0,0,1,100.0,,
+302,harga,4,0,1,5,80.0,positif,Harga Terjangkau
+302,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+302,suasana,2,0,0,2,100.0,,
+302,wifi,1,0,0,1,100.0,,
+303,harga,24,4,0,28,85.7,positif,Harga Terjangkau
+303,pelayanan,42,12,0,54,77.8,positif,Pelayanan Ramah
+303,suasana,61,3,0,64,95.3,positif,Suasana Nyaman
+303,wifi,4,0,1,5,80.0,positif,Wifi Kencang
+304,harga,60,0,1,61,98.4,positif,Harga Terjangkau
+304,pelayanan,52,13,0,65,80.0,positif,Pelayanan Ramah
+304,suasana,97,3,0,100,97.0,positif,Suasana Nyaman
+304,wifi,4,0,0,4,100.0,positif,Wifi Kencang
+305,harga,114,10,8,132,86.4,positif,Harga Terjangkau
+305,pelayanan,132,24,0,156,84.6,positif,Pelayanan Ramah
+305,suasana,240,8,1,249,96.4,positif,Suasana Nyaman
+305,wifi,1,0,1,2,50.0,,
+306,harga,16,6,0,22,72.7,positif,Harga Terjangkau
+306,pelayanan,8,2,0,10,80.0,positif,Pelayanan Ramah
+306,suasana,65,3,0,68,95.6,positif,Suasana Nyaman
+306,wifi,4,1,1,6,66.7,positif,Wifi Kencang
+307,harga,13,0,0,13,100.0,positif,Harga Terjangkau
+307,pelayanan,5,1,0,6,83.3,positif,Pelayanan Ramah
+307,suasana,6,0,0,6,100.0,positif,Suasana Nyaman
+307,wifi,1,0,0,1,100.0,,
+308,harga,17,2,0,19,89.5,positif,Harga Terjangkau
+308,pelayanan,4,0,0,4,100.0,positif,Pelayanan Ramah
+308,suasana,24,1,0,25,96.0,positif,Suasana Nyaman
+308,wifi,1,0,0,1,100.0,,
+309,harga,45,2,2,49,91.8,positif,Harga Terjangkau
+309,pelayanan,84,11,0,95,88.4,positif,Pelayanan Ramah
+309,suasana,208,10,0,218,95.4,positif,Suasana Nyaman
+309,wifi,5,2,2,9,55.6,positif,Wifi Kencang
+310,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+310,pelayanan,2,1,0,3,66.7,positif,Pelayanan Ramah
+311,harga,10,0,0,10,100.0,positif,Harga Terjangkau
+311,pelayanan,7,0,0,7,100.0,positif,Pelayanan Ramah
+311,suasana,46,2,0,48,95.8,positif,Suasana Nyaman
+311,wifi,1,0,0,1,100.0,,
+312,harga,6,0,0,6,100.0,positif,Harga Terjangkau
+312,pelayanan,56,6,1,63,88.9,positif,Pelayanan Ramah
+312,suasana,83,7,0,90,92.2,positif,Suasana Nyaman
+312,wifi,3,3,0,6,50.0,,
+313,harga,6,1,0,7,85.7,positif,Harga Terjangkau
+313,pelayanan,6,0,0,6,100.0,positif,Pelayanan Ramah
+313,suasana,21,0,0,21,100.0,positif,Suasana Nyaman
+314,harga,64,5,4,73,87.7,positif,Harga Terjangkau
+314,pelayanan,122,51,0,173,70.5,positif,Pelayanan Ramah
+314,suasana,250,13,0,263,95.1,positif,Suasana Nyaman
+314,wifi,4,2,2,8,50.0,positif,Wifi Kencang
+315,harga,21,1,0,22,95.5,positif,Harga Terjangkau
+315,pelayanan,44,3,0,47,93.6,positif,Pelayanan Ramah
+315,suasana,99,3,0,102,97.1,positif,Suasana Nyaman
+315,wifi,6,2,1,9,66.7,positif,Wifi Kencang
+316,harga,49,12,0,61,80.3,positif,Harga Terjangkau
+316,pelayanan,161,9,1,171,94.2,positif,Pelayanan Ramah
+316,suasana,266,5,0,271,98.2,positif,Suasana Nyaman
+316,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+317,harga,22,3,1,26,84.6,positif,Harga Terjangkau
+317,pelayanan,15,12,1,28,53.6,positif,Pelayanan Ramah
+317,suasana,44,7,0,51,86.3,positif,Suasana Nyaman
+317,wifi,5,1,1,7,71.4,positif,Wifi Kencang
+318,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+318,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+318,suasana,1,0,0,1,100.0,,
+319,harga,163,10,2,175,93.1,positif,Harga Terjangkau
+319,pelayanan,126,62,0,188,67.0,positif,Pelayanan Ramah
+319,suasana,229,18,0,247,92.7,positif,Suasana Nyaman
+319,wifi,17,1,8,26,65.4,positif,Wifi Kencang
+320,harga,11,0,0,11,100.0,positif,Harga Terjangkau
+320,pelayanan,10,8,0,18,55.6,positif,Pelayanan Ramah
+320,suasana,9,1,0,10,90.0,positif,Suasana Nyaman
+320,wifi,1,0,0,1,100.0,,
+321,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+321,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+321,suasana,24,0,0,24,100.0,positif,Suasana Nyaman
+322,harga,105,17,0,122,86.1,positif,Harga Terjangkau
+322,pelayanan,109,61,0,170,64.1,positif,Pelayanan Ramah
+322,suasana,219,15,1,235,93.2,positif,Suasana Nyaman
+322,wifi,22,1,7,30,73.3,positif,Wifi Kencang
+323,harga,14,2,0,16,87.5,positif,Harga Terjangkau
+323,pelayanan,15,9,0,24,62.5,positif,Pelayanan Ramah
+323,suasana,32,1,0,33,97.0,positif,Suasana Nyaman
+323,wifi,1,0,0,1,100.0,,
+324,harga,44,9,2,55,80.0,positif,Harga Terjangkau
+324,pelayanan,39,8,0,47,83.0,positif,Pelayanan Ramah
+324,suasana,133,8,0,141,94.3,positif,Suasana Nyaman
+324,wifi,8,1,3,12,66.7,positif,Wifi Kencang
+325,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+325,pelayanan,2,0,0,2,100.0,,
+325,suasana,8,0,0,8,100.0,positif,Suasana Nyaman
+326,harga,64,5,4,73,87.7,positif,Harga Terjangkau
+326,pelayanan,45,5,1,51,88.2,positif,Pelayanan Ramah
+326,suasana,158,4,1,163,96.9,positif,Suasana Nyaman
+326,wifi,24,2,4,30,80.0,positif,Wifi Kencang
+327,harga,37,1,2,40,92.5,positif,Harga Terjangkau
+327,pelayanan,27,10,0,37,73.0,positif,Pelayanan Ramah
+327,suasana,59,2,0,61,96.7,positif,Suasana Nyaman
+327,wifi,1,2,0,3,33.3,negatif,Wifi Kurang Stabil
+328,harga,48,3,0,51,94.1,positif,Harga Terjangkau
+328,pelayanan,23,7,0,30,76.7,positif,Pelayanan Ramah
+328,suasana,77,6,1,84,91.7,positif,Suasana Nyaman
+328,wifi,3,2,2,7,42.9,positif,Wifi Kencang
+329,harga,89,11,4,104,85.6,positif,Harga Terjangkau
+329,pelayanan,48,12,1,61,78.7,positif,Pelayanan Ramah
+329,suasana,208,5,1,214,97.2,positif,Suasana Nyaman
+329,wifi,19,3,6,28,67.9,positif,Wifi Kencang
+330,harga,16,0,1,17,94.1,positif,Harga Terjangkau
+330,pelayanan,83,14,0,97,85.6,positif,Pelayanan Ramah
+330,suasana,65,5,0,70,92.9,positif,Suasana Nyaman
+330,wifi,1,0,0,1,100.0,,
+331,harga,3,1,1,5,60.0,positif,Harga Terjangkau
+331,pelayanan,2,0,0,2,100.0,,
+332,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+332,pelayanan,1,0,0,1,100.0,,
+333,harga,7,0,0,7,100.0,positif,Harga Terjangkau
+333,pelayanan,8,0,0,8,100.0,positif,Pelayanan Ramah
+333,suasana,1,0,0,1,100.0,,
+333,wifi,1,0,0,1,100.0,,
+334,harga,13,5,1,19,68.4,positif,Harga Terjangkau
+334,pelayanan,18,1,0,19,94.7,positif,Pelayanan Ramah
+334,suasana,62,4,0,66,93.9,positif,Suasana Nyaman
+334,wifi,1,0,0,1,100.0,,
+335,harga,32,3,2,37,86.5,positif,Harga Terjangkau
+335,pelayanan,31,18,0,49,63.3,positif,Pelayanan Ramah
+335,suasana,95,7,0,102,93.1,positif,Suasana Nyaman
+335,wifi,5,2,3,10,50.0,positif,Wifi Kencang
+336,harga,3,1,0,4,75.0,positif,Harga Terjangkau
+336,pelayanan,24,2,0,26,92.3,positif,Pelayanan Ramah
+336,suasana,12,1,0,13,92.3,positif,Suasana Nyaman
+336,wifi,1,1,0,2,50.0,,
+337,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+337,pelayanan,17,0,0,17,100.0,positif,Pelayanan Ramah
+337,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+338,harga,34,8,4,46,73.9,positif,Harga Terjangkau
+338,pelayanan,98,35,1,134,73.1,positif,Pelayanan Ramah
+338,suasana,145,10,1,156,92.9,positif,Suasana Nyaman
+339,harga,2,0,0,2,100.0,,
+339,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+339,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+340,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+340,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+340,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+340,wifi,2,0,0,2,100.0,,
+341,harga,21,2,1,24,87.5,positif,Harga Terjangkau
+341,pelayanan,23,11,0,34,67.6,positif,Pelayanan Ramah
+341,suasana,27,5,0,32,84.4,positif,Suasana Nyaman
+341,wifi,2,1,0,3,66.7,positif,Wifi Kencang
+342,harga,9,1,0,10,90.0,positif,Harga Terjangkau
+342,pelayanan,41,11,0,52,78.8,positif,Pelayanan Ramah
+342,suasana,22,4,0,26,84.6,positif,Suasana Nyaman
+342,wifi,0,2,1,3,0.0,negatif,Wifi Kurang Stabil
+343,harga,65,5,4,74,87.8,positif,Harga Terjangkau
+343,pelayanan,208,6,0,214,97.2,positif,Pelayanan Ramah
+343,suasana,326,1,0,327,99.7,positif,Suasana Nyaman
+343,wifi,5,0,3,8,62.5,positif,Wifi Kencang
+344,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+344,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+344,suasana,1,0,0,1,100.0,,
+344,wifi,0,0,1,1,0.0,,
+345,harga,1,0,0,1,100.0,,
+345,pelayanan,0,1,0,1,0.0,,
+345,suasana,0,1,0,1,0.0,,
+345,wifi,0,1,0,1,0.0,,
+346,wifi,0,0,1,1,0.0,,
+347,harga,14,1,2,17,82.4,positif,Harga Terjangkau
+347,pelayanan,11,2,0,13,84.6,positif,Pelayanan Ramah
+347,suasana,42,5,1,48,87.5,positif,Suasana Nyaman
+347,wifi,3,2,4,9,33.3,,
+348,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+348,suasana,1,0,0,1,100.0,,
+349,harga,22,9,2,33,66.7,positif,Harga Terjangkau
+349,pelayanan,8,23,0,31,25.8,negatif,Pelayanan Perlu Ditingkatkan
+349,suasana,44,5,0,49,89.8,positif,Suasana Nyaman
+349,wifi,4,2,0,6,66.7,positif,Wifi Kencang
+350,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+350,pelayanan,7,1,0,8,87.5,positif,Pelayanan Ramah
+350,suasana,10,0,0,10,100.0,positif,Suasana Nyaman
+351,harga,4,2,0,6,66.7,positif,Harga Terjangkau
+351,pelayanan,15,26,1,42,35.7,negatif,Pelayanan Perlu Ditingkatkan
+351,suasana,7,0,0,7,100.0,positif,Suasana Nyaman
+352,harga,9,5,0,14,64.3,positif,Harga Terjangkau
+352,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+352,suasana,18,0,0,18,100.0,positif,Suasana Nyaman
+353,harga,6,1,0,7,85.7,positif,Harga Terjangkau
+353,pelayanan,7,0,0,7,100.0,positif,Pelayanan Ramah
+353,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+353,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+354,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+354,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+354,suasana,10,0,0,10,100.0,positif,Suasana Nyaman
+354,wifi,1,0,0,1,100.0,,
+355,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+355,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+355,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+356,harga,1,0,0,1,100.0,,
+356,pelayanan,1,0,0,1,100.0,,
+356,suasana,1,0,0,1,100.0,,
+358,harga,1,0,2,3,33.3,,
+358,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+358,suasana,13,1,0,14,92.9,positif,Suasana Nyaman
+358,wifi,1,0,0,1,100.0,,
+359,harga,7,0,0,7,100.0,positif,Harga Terjangkau
+359,pelayanan,3,1,0,4,75.0,positif,Pelayanan Ramah
+359,suasana,1,0,0,1,100.0,,
+360,harga,4,0,0,4,100.0,positif,Harga Terjangkau
+360,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+360,suasana,1,0,0,1,100.0,,
+361,harga,24,9,4,37,64.9,positif,Harga Terjangkau
+361,pelayanan,70,17,0,87,80.5,positif,Pelayanan Ramah
+361,suasana,173,8,0,181,95.6,positif,Suasana Nyaman
+361,wifi,5,1,2,8,62.5,positif,Wifi Kencang
+362,harga,61,4,2,67,91.0,positif,Harga Terjangkau
+362,pelayanan,137,10,0,147,93.2,positif,Pelayanan Ramah
+362,suasana,257,6,0,263,97.7,positif,Suasana Nyaman
+362,wifi,2,0,2,4,50.0,positif,Wifi Kencang
+363,harga,14,0,1,15,93.3,positif,Harga Terjangkau
+363,pelayanan,13,1,0,14,92.9,positif,Pelayanan Ramah
+363,suasana,21,2,0,23,91.3,positif,Suasana Nyaman
+363,wifi,3,0,1,4,75.0,positif,Wifi Kencang
+364,harga,104,14,1,119,87.4,positif,Harga Terjangkau
+364,pelayanan,147,37,0,184,79.9,positif,Pelayanan Ramah
+364,suasana,224,12,0,236,94.9,positif,Suasana Nyaman
+364,wifi,14,1,2,17,82.4,positif,Wifi Kencang
+365,harga,111,15,1,127,87.4,positif,Harga Terjangkau
+365,pelayanan,61,54,0,115,53.0,positif,Pelayanan Ramah
+365,suasana,105,9,0,114,92.1,positif,Suasana Nyaman
+365,wifi,2,2,0,4,50.0,,
+366,harga,6,1,0,7,85.7,positif,Harga Terjangkau
+366,pelayanan,43,9,0,52,82.7,positif,Pelayanan Ramah
+366,suasana,39,5,0,44,88.6,positif,Suasana Nyaman
+366,wifi,1,0,1,2,50.0,,
+367,harga,146,30,8,184,79.3,positif,Harga Terjangkau
+367,pelayanan,94,38,0,132,71.2,positif,Pelayanan Ramah
+367,suasana,218,13,0,231,94.4,positif,Suasana Nyaman
+367,wifi,2,1,6,9,22.2,,
+368,harga,32,2,0,34,94.1,positif,Harga Terjangkau
+368,pelayanan,47,4,0,51,92.2,positif,Pelayanan Ramah
+368,suasana,5,0,0,5,100.0,positif,Suasana Nyaman
+369,harga,11,2,2,15,73.3,positif,Harga Terjangkau
+369,pelayanan,53,17,0,70,75.7,positif,Pelayanan Ramah
+369,suasana,67,4,0,71,94.4,positif,Suasana Nyaman
+369,wifi,5,6,2,13,38.5,negatif,Wifi Kurang Stabil
+370,harga,1,0,0,1,100.0,,
+370,pelayanan,3,1,0,4,75.0,positif,Pelayanan Ramah
+370,suasana,4,0,0,4,100.0,positif,Suasana Nyaman
+370,wifi,0,5,0,5,0.0,negatif,Wifi Kurang Stabil
+371,harga,35,2,3,40,87.5,positif,Harga Terjangkau
+371,pelayanan,26,20,0,46,56.5,positif,Pelayanan Ramah
+371,suasana,12,6,0,18,66.7,positif,Suasana Nyaman
+371,wifi,2,4,2,8,25.0,negatif,Wifi Kurang Stabil
+372,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+372,pelayanan,20,10,0,30,66.7,positif,Pelayanan Ramah
+372,suasana,32,3,0,35,91.4,positif,Suasana Nyaman
+372,wifi,2,0,1,3,66.7,positif,Wifi Kencang
+373,harga,1,0,0,1,100.0,,
+373,pelayanan,1,0,0,1,100.0,,
+373,suasana,2,0,0,2,100.0,,
+374,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+374,suasana,1,0,0,1,100.0,,
+375,harga,13,0,0,13,100.0,positif,Harga Terjangkau
+375,pelayanan,17,4,0,21,81.0,positif,Pelayanan Ramah
+375,suasana,28,0,0,28,100.0,positif,Suasana Nyaman
+375,wifi,3,0,0,3,100.0,positif,Wifi Kencang
+376,pelayanan,1,0,0,1,100.0,,
+376,suasana,1,0,0,1,100.0,,
+377,harga,34,58,4,96,35.4,negatif,Harga Kurang Bersahabat
+377,pelayanan,20,42,1,63,31.7,negatif,Pelayanan Perlu Ditingkatkan
+377,suasana,82,21,0,103,79.6,positif,Suasana Nyaman
+377,wifi,0,2,0,2,0.0,,
+378,harga,2,0,0,2,100.0,,
+378,pelayanan,24,14,0,38,63.2,positif,Pelayanan Ramah
+378,suasana,25,2,0,27,92.6,positif,Suasana Nyaman
+378,wifi,2,2,0,4,50.0,,
+379,harga,7,0,0,7,100.0,positif,Harga Terjangkau
+379,pelayanan,2,0,0,2,100.0,,
+379,suasana,6,0,0,6,100.0,positif,Suasana Nyaman
+380,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+380,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+380,suasana,13,0,0,13,100.0,positif,Suasana Nyaman
+381,harga,23,3,0,26,88.5,positif,Harga Terjangkau
+381,pelayanan,9,1,0,10,90.0,positif,Pelayanan Ramah
+381,suasana,42,0,0,42,100.0,positif,Suasana Nyaman
+381,wifi,0,1,2,3,0.0,,
+382,harga,1,0,0,1,100.0,,
+382,pelayanan,1,0,0,1,100.0,,
+383,harga,1,0,0,1,100.0,,
+383,pelayanan,0,2,0,2,0.0,,
+383,suasana,2,0,0,2,100.0,,
+384,pelayanan,2,0,0,2,100.0,,
+384,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+385,harga,11,0,0,11,100.0,positif,Harga Terjangkau
+385,pelayanan,11,0,0,11,100.0,positif,Pelayanan Ramah
+385,suasana,19,0,0,19,100.0,positif,Suasana Nyaman
+385,wifi,0,0,1,1,0.0,,
+386,harga,20,6,2,28,71.4,positif,Harga Terjangkau
+386,pelayanan,11,4,0,15,73.3,positif,Pelayanan Ramah
+386,suasana,28,1,0,29,96.6,positif,Suasana Nyaman
+386,wifi,1,1,0,2,50.0,,
+387,suasana,2,0,0,2,100.0,,
+387,wifi,2,0,1,3,66.7,positif,Wifi Kencang
+388,harga,2,0,0,2,100.0,,
+388,pelayanan,8,5,0,13,61.5,positif,Pelayanan Ramah
+388,suasana,0,1,0,1,0.0,,
+390,harga,10,1,0,11,90.9,positif,Harga Terjangkau
+390,suasana,3,1,0,4,75.0,positif,Suasana Nyaman
+391,harga,44,6,2,52,84.6,positif,Harga Terjangkau
+391,pelayanan,51,24,0,75,68.0,positif,Pelayanan Ramah
+391,suasana,69,4,0,73,94.5,positif,Suasana Nyaman
+392,harga,5,0,0,5,100.0,positif,Harga Terjangkau
+392,pelayanan,2,0,0,2,100.0,,
+392,suasana,1,0,0,1,100.0,,
+393,harga,13,0,0,13,100.0,positif,Harga Terjangkau
+393,pelayanan,11,2,0,13,84.6,positif,Pelayanan Ramah
+393,suasana,23,1,0,24,95.8,positif,Suasana Nyaman
+394,harga,35,0,0,35,100.0,positif,Harga Terjangkau
+394,pelayanan,14,2,0,16,87.5,positif,Pelayanan Ramah
+394,suasana,33,1,0,34,97.1,positif,Suasana Nyaman
+394,wifi,8,1,0,9,88.9,positif,Wifi Kencang
+396,harga,1,0,0,1,100.0,,
+396,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+396,suasana,3,0,0,3,100.0,positif,Suasana Nyaman
+396,wifi,1,0,0,1,100.0,,
+398,harga,15,16,2,33,45.5,negatif,Harga Kurang Bersahabat
+398,pelayanan,16,21,0,37,43.2,negatif,Pelayanan Perlu Ditingkatkan
+398,suasana,43,10,0,53,81.1,positif,Suasana Nyaman
+398,wifi,1,1,1,3,33.3,,
+399,harga,2,0,0,2,100.0,,
+399,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+399,suasana,7,0,0,7,100.0,positif,Suasana Nyaman
+400,pelayanan,9,0,0,9,100.0,positif,Pelayanan Ramah
+400,wifi,1,0,1,2,50.0,,
+401,suasana,2,0,0,2,100.0,,
+402,harga,1,0,0,1,100.0,,
+402,pelayanan,1,0,0,1,100.0,,
+403,harga,21,0,0,21,100.0,positif,Harga Terjangkau
+403,pelayanan,9,1,0,10,90.0,positif,Pelayanan Ramah
+403,suasana,27,2,0,29,93.1,positif,Suasana Nyaman
+403,wifi,5,3,12,20,25.0,,
+404,harga,2,0,1,3,66.7,positif,Harga Terjangkau
+404,suasana,2,0,0,2,100.0,,
+404,wifi,0,0,2,2,0.0,,
+406,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+406,pelayanan,1,0,0,1,100.0,,
+406,suasana,1,0,0,1,100.0,,
+407,harga,8,0,0,8,100.0,positif,Harga Terjangkau
+407,pelayanan,6,15,0,21,28.6,negatif,Pelayanan Perlu Ditingkatkan
+407,suasana,22,3,0,25,88.0,positif,Suasana Nyaman
+407,wifi,0,1,0,1,0.0,,
+409,harga,1,0,0,1,100.0,,
+409,suasana,2,0,0,2,100.0,,
+410,harga,2,0,0,2,100.0,,
+410,pelayanan,1,0,0,1,100.0,,
+411,harga,18,3,0,21,85.7,positif,Harga Terjangkau
+411,pelayanan,5,3,0,8,62.5,positif,Pelayanan Ramah
+411,suasana,22,1,0,23,95.7,positif,Suasana Nyaman
+412,harga,6,0,0,6,100.0,positif,Harga Terjangkau
+412,pelayanan,3,0,0,3,100.0,positif,Pelayanan Ramah
+412,suasana,11,0,0,11,100.0,positif,Suasana Nyaman
+412,wifi,0,0,1,1,0.0,,
+413,harga,2,0,0,2,100.0,,
+413,pelayanan,3,5,0,8,37.5,negatif,Pelayanan Perlu Ditingkatkan
+413,suasana,8,2,0,10,80.0,positif,Suasana Nyaman
+413,wifi,0,1,0,1,0.0,,
+415,harga,1,0,0,1,100.0,,
+415,pelayanan,1,0,0,1,100.0,,
+416,pelayanan,1,0,0,1,100.0,,
+417,harga,2,2,0,4,50.0,,
+417,pelayanan,3,14,0,17,17.6,negatif,Pelayanan Perlu Ditingkatkan
+417,suasana,11,1,0,12,91.7,positif,Suasana Nyaman
+417,wifi,0,3,2,5,0.0,negatif,Wifi Kurang Stabil
+418,harga,2,0,0,2,100.0,,
+418,pelayanan,3,1,0,4,75.0,positif,Pelayanan Ramah
+418,suasana,1,0,0,1,100.0,,
+419,harga,3,0,0,3,100.0,positif,Harga Terjangkau
+419,pelayanan,0,2,0,2,0.0,,
+420,harga,9,0,0,9,100.0,positif,Harga Terjangkau
+420,pelayanan,7,19,0,26,26.9,negatif,Pelayanan Perlu Ditingkatkan
+420,suasana,6,1,0,7,85.7,positif,Suasana Nyaman
+420,wifi,1,3,0,4,25.0,negatif,Wifi Kurang Stabil
+421,harga,13,1,0,14,92.9,positif,Harga Terjangkau
+421,pelayanan,35,5,0,40,87.5,positif,Pelayanan Ramah
+421,suasana,3,1,0,4,75.0,positif,Suasana Nyaman
+424,harga,122,7,2,131,93.1,positif,Harga Terjangkau
+424,pelayanan,137,10,0,147,93.2,positif,Pelayanan Ramah
+424,suasana,263,8,0,271,97.0,positif,Suasana Nyaman
+424,wifi,19,4,1,24,79.2,positif,Wifi Kencang
+426,harga,7,0,2,9,77.8,positif,Harga Terjangkau
+426,pelayanan,5,0,0,5,100.0,positif,Pelayanan Ramah
+426,suasana,20,0,0,20,100.0,positif,Suasana Nyaman
+426,wifi,1,1,0,2,50.0,,
+428,harga,141,10,5,156,90.4,positif,Harga Terjangkau
+428,pelayanan,142,13,1,156,91.0,positif,Pelayanan Ramah
+428,suasana,266,10,0,276,96.4,positif,Suasana Nyaman
+429,harga,75,23,15,113,66.4,positif,Harga Terjangkau
+429,pelayanan,81,38,1,120,67.5,positif,Pelayanan Ramah
+429,suasana,179,24,0,203,88.2,positif,Suasana Nyaman
+429,wifi,0,0,1,1,0.0,,

@@ -1,0 +1,441 @@
+id_cafe,nama_cafe,dokumen
+1,Eastman Coffee House,budget_mahal harga_positif pelayanan_positif suasana_positif
+2,Boskaf Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+3,Grew Coffee Collective,budget_sedang pelayanan_positif suasana_positif
+4,Antarakata Coffee,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+5,LITTLE PAL COFFEE,budget_sedang harga_negatif pelayanan_positif suasana_positif
+6,KOFI DJOHAR,budget_murah harga_positif pelayanan_positif suasana_positif
+7,Djournal Coffee Kota Lama Semarang,budget_mahal harga_positif pelayanan_positif suasana_positif
+8,Tripplefeeling Coffee & Eatery,budget_murah harga_positif pelayanan_positif suasana_positif
+9,On Seven Coffee Mugassari,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+10,Obsidian Specialty Coffee & Eatery,budget_mahal harga_positif pelayanan_positif suasana_positif
+11,Sure Coffee Company,budget_sedang harga_positif pelayanan_positif suasana_positif
+12,Dromma Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+13,Djournal Coffee Pollux Mall Paragon,budget_sedang harga_positif pelayanan_positif suasana_positif
+14,Kayo Coffee and Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+15,Insight coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+16,Afeto Coffee and Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif
+17,Lingkar Coffee & Idea,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+18,Kopi Bangga,budget_sedang harga_positif pelayanan_positif suasana_positif
+19,Solid Coffee & Eatery,pelayanan_positif suasana_positif
+20,Toko Kopi Pragola Urban Host,budget_sedang harga_positif pelayanan_positif suasana_positif
+21,SATUPERLIMA COFFEE & CO,budget_sedang harga_positif pelayanan_positif suasana_positif
+22,Titik Dua Kopi Kemuning,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+23,Urban Coffee and Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+24,JUBILE COZY COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+25,Teman Kerja Coffee Pekunden,budget_murah harga_positif pelayanan_positif suasana_positif wifi_negatif
+26,Dirasa Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+27,Anak Panah Kopi Gajah Mada Plus,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+28,PORTA KOPI SEMARANG,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+29,Kopi Calf Signature Poncol Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+30,Sedjenak Koffie,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+31,Hero Coffee Lights 24 Jam,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+32,SALIM COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+33,me.mo coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+34,Damai Cafe,
+35,Abad Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif
+36,JAGGAD Coffee & Co.,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+37,Ejaan Coffee House,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+38,Kopi Tuju,budget_murah suasana_positif
+39,38 Coffee Brew,budget_sedang pelayanan_positif suasana_positif
+40,Eastman Café,budget_mahal harga_positif pelayanan_positif suasana_positif
+41,Domestik Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+42,Kobis Brew,budget_sedang harga_positif pelayanan_positif suasana_positif
+43,Kitako Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+44,Strada Coffee,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+45,Toko Merekah,budget_murah harga_positif pelayanan_positif suasana_positif
+46,Koffie minor,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+47,Coffeemason,budget_sedang harga_positif pelayanan_positif suasana_positif
+48,Laiv,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+49,Steam & Brew,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+50,Serambi Eatery,budget_mahal harga_positif pelayanan_positif suasana_positif
+51,OhBa Coffee,budget_murah suasana_positif
+52,La Cerise,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+53,KALAMAYA KOFFIE CO.,budget_murah harga_positif pelayanan_positif suasana_positif
+54,W Coffee Bar,budget_sedang suasana_positif
+55,HEADROOM COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+56,Tekodeko Koffiehuis,budget_sedang harga_positif pelayanan_positif suasana_positif
+57,Point Coffee Gajah Mada180 Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+58,Levain Cafe - Artisan Sourdough & Coffee,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_negatif
+59,Tepian Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+60,Saga Coffeeshop,budget_sedang harga_positif pelayanan_positif suasana_positif
+61,Antarakata Coffee Majapahit,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+62,Jenderal Coffee & Tea Thamrin,budget_mahal harga_positif pelayanan_positif suasana_positif
+63,RV cafe 24 hours & Swingle Bar,budget_mahal harga_positif pelayanan_positif suasana_positif
+64,Kafe Gethe,budget_murah harga_positif pelayanan_positif suasana_positif
+65,Anonimcoffeehouse,budget_sedang pelayanan_positif suasana_positif
+66,Balcony Coffee & Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif
+67,Cold 'N Brew - D.I. Panjaitan,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+68,Kafe HOC Pleburan,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+69,Miles Cafe & Eatery (RELX),budget_sedang harga_positif pelayanan_positif suasana_positif
+70,Semasa Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+71,Stasiun Kopi Joglo,budget_sedang harga_positif pelayanan_positif suasana_positif
+72,Kopi pasien,budget_murah harga_positif
+73,KOV KOFFIE HERITAGE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+74,AGAYA Eatery and Coffee,budget_mahal harga_positif pelayanan_positif suasana_positif
+75,Temani Coffee & Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+76,Tanatap Coffee Semarang,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+77,Borrel coffee & eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+78,Lentera Eatery & Pastry Puri Anjasmoro,budget_mahal harga_positif pelayanan_positif suasana_positif
+79,LE cafe and view,budget_sedang harga_positif pelayanan_positif suasana_positif
+80,Hideout Corner,budget_sedang harga_positif pelayanan_negatif suasana_positif
+81,Skenario Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif
+82,TOMORO COFFEE - Anjasmoro,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+83,Moment Coffee & Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+84,Selera Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif
+85,MONKEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+86,Ruang Interaksi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+87,Habitat Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif
+88,POINT COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif
+89,Noms Kopi Simongan,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+90,work food happy,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+91,Thoriqoffie Pamularsih,budget_murah harga_positif pelayanan_positif suasana_positif
+92,ARAH Coffee Kota Lama,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+93,Redline Coffee and More,budget_sedang harga_positif pelayanan_positif suasana_positif
+94,wisata pungkruk,budget_murah harga_positif suasana_positif
+95,Laoban Kopitiam By Uncle Osh,budget_sedang harga_positif pelayanan_positif suasana_positif
+96,Imajinary Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+97,AHEAD,budget_mahal harga_negatif pelayanan_positif suasana_positif wifi_positif
+98,Coffeecamp 18+,harga_positif pelayanan_positif suasana_positif
+99,Pheran Coffee,budget_murah pelayanan_positif suasana_positif
+100,Kedai Kopi Sahabat,
+101,Kopi Susu Bu Lurah Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+102,Terikat Kopi,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_negatif
+103,Point Coffee Pleburan Semarang,budget_sedang pelayanan_positif
+104,HYUN COFFEE & EATERY,
+105,BAKE UP Bakery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+106,Hide&Seek,budget_sedang pelayanan_positif suasana_positif
+107,REDSOUL,budget_sedang harga_positif pelayanan_positif suasana_positif
+108,WARBUN,budget_sedang harga_positif pelayanan_positif suasana_positif
+109,Pondok Daun: Traditional Food and Coffee,budget_murah harga_positif pelayanan_positif suasana_positif
+110,Double C Foodcourt and View,budget_murah harga_positif pelayanan_positif suasana_positif
+111,Starbucks DT Puri Anjasmoro Semarang,budget_mahal harga_positif pelayanan_positif suasana_positif
+112,Dje'Gank Cafe & Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+113,Angon Kopi,harga_positif suasana_positif
+114,KOV KOFFIE,budget_sedang harga_positif pelayanan_positif suasana_positif
+115,Point Coffee PUSPONJOLO SELATAN,
+116,Sora Kafe,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+117,Beana Roastery,harga_positif pelayanan_positif suasana_positif
+118,The EYECONIC Cafe,budget_murah suasana_positif
+119,Mir Coffee,budget_murah
+120,Jepun Coffee,harga_positif suasana_positif
+121,Makabana All-Day Café,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+122,KOPIKU.CRIT,budget_murah harga_positif pelayanan_positif suasana_positif
+123,POINT COFFEE PURI EKSEKUTIF,budget_sedang pelayanan_positif
+124,WAYOUT SEMARANG,harga_positif pelayanan_positif
+125,November Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+126,Kopi Krebo Semarang,
+127,Reda Coffee,budget_murah harga_positif
+128,Lappie and Co. by Unitek Solusi,budget_sedang harga_positif pelayanan_positif suasana_positif
+129,ANANTARI COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+130,Casa Del Caffe,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+131,Siblings Coffee Semarang,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+132,Kopitagram - Dr. Cipto,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_negatif
+133,Cohort coffee and space,budget_sedang pelayanan_positif suasana_positif wifi_positif
+134,Langgeng Cafe Upgris,budget_murah harga_positif pelayanan_positif
+135,Kopi Nako Semarang Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+136,HEXAGON CAFE,budget_sedang harga_positif pelayanan_positif suasana_positif
+137,Kangen Kamu Semarang,harga_positif suasana_positif
+138,Kopi Boost,pelayanan_positif
+139,Kaofee,budget_murah harga_positif suasana_positif
+140,KHO-PHI,budget_sedang harga_positif pelayanan_positif suasana_positif
+141,Home Coffee Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+142,Kopi Tepi Cerita,budget_murah suasana_positif
+143,EDMUND Coffee and Meals,budget_sedang harga_positif pelayanan_negatif suasana_positif wifi_negatif
+144,Embun senja coffee n Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+145,Mitsu Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+146,KOPI REVOLUSI SEMARANG,budget_sedang harga_positif suasana_positif
+147,November Coffee Reserve,budget_sedang harga_positif pelayanan_positif suasana_positif
+148,Kopi molo purwosari raya semarang,pelayanan_positif
+149,Madaz Cafe,budget_mahal harga_positif pelayanan_positif suasana_positif
+150,Mekar Eatery & Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+151,Kopi Klotok Tjap Sebeh Semeh,budget_sedang harga_positif pelayanan_negatif suasana_positif
+152,Cold 'N Brew - Majapahit,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+153,Regol Coffee,
+154,KOPI TUMBAS,
+155,Kedai Kobii Semarang,harga_positif pelayanan_positif suasana_positif
+156,Old Kettle,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_negatif
+157,Infinity Cafe,budget_mahal harga_positif pelayanan_positif suasana_positif
+158,Dulangplus Coffee,
+159,Cuan Coffee,
+160,Noms Kopi,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+161,Runding Kopi,budget_murah
+162,Peacockoffie Gombel,budget_sedang harga_negatif pelayanan_positif suasana_positif wifi_negatif
+163,The Blue Lotus Coffee House & Restaurant,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+164,Crunch & Sip-Pemuda-Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+165,Toko Kopi Djuara - Pleburan,budget_murah harga_positif pelayanan_positif suasana_positif
+166,Kapal Api Coffee Corner - RS Panti Wilasa,budget_murah
+167,Encycoffeedia,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+168,J.CO Central City Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+169,KEDAI PAKULARGAN,budget_murah harga_positif suasana_positif
+170,Kopi Sudut Chapter 1,
+171,MOBLIKOPI,budget_murah pelayanan_positif suasana_positif
+172,Amoora Coffee House,budget_sedang harga_positif pelayanan_positif suasana_positif
+173,Apros Craft Coffee Bar,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+174,ASHA Backyard,budget_sedang harga_positif pelayanan_positif suasana_positif
+175,Waroeng Kopi Alam,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+176,OLIFANT,budget_mahal harga_positif pelayanan_positif suasana_positif
+177,Emerald Cafe Boutique,budget_mahal suasana_positif
+178,Gage Kopi : Junction (Wonodri),budget_murah harga_positif pelayanan_positif suasana_positif
+179,Fore Coffee - Graha Rimba Semarang,budget_sedang pelayanan_positif suasana_positif
+180,"GOFFEÈ Doughnuts & Coffee, Semarang,Basudewo",budget_sedang harga_positif pelayanan_positif suasana_positif
+181,Quayside Coffee Corner,budget_sedang suasana_positif
+182,LAMIAO CAT CAFE,budget_sedang harga_positif pelayanan_positif suasana_positif
+183,Casa Grande,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+184,Kopi Rejeki,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+185,ToasTea,budget_sedang harga_positif pelayanan_positif suasana_positif
+186,TOMORO COFFEE - Java Supermall,budget_murah harga_positif pelayanan_positif suasana_positif
+187,Dharma Boutique Roastery,harga_positif pelayanan_positif suasana_positif
+188,Koffee Talk Radja Hotel,budget_murah harga_positif pelayanan_positif suasana_positif
+189,Asra Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+190,Merah Saga Coffe,
+191,Lingkar Coffee and Idea Pleburan,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+192,Levure Bakehouse,budget_sedang harga_positif pelayanan_positif suasana_positif
+193,Cuddle Coffee,budget_murah harga_positif
+194,Antarakata Coffee & Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+195,SIDEBREEZE COFFEE,budget_murah harga_positif suasana_positif
+196,The Homecafe,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+197,Jakwier Coffe,budget_murah harga_positif pelayanan_positif suasana_positif
+198,Make Coffee & Tobacco,budget_sedang pelayanan_positif suasana_positif
+199,Kopi Glass,suasana_positif
+200,TOMORO COFFEE - Singosari,harga_positif pelayanan_positif suasana_positif wifi_positif
+201,Teras Putih Coffee Semarang,
+202,Moshi Moshi Pleburan,budget_murah harga_positif suasana_positif
+203,Balabur Chocolate & Coffee Space,
+204,Posin Bakery & Cafe,budget_mahal harga_positif pelayanan_positif suasana_positif
+205,ARAH Coffee Kalimas,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+206,Loko Cafe - Semarang Tawang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+207,Kopi Lain Hati,budget_murah harga_positif pelayanan_positif suasana_positif
+208,Amano coffee & tea,budget_murah harga_positif pelayanan_positif suasana_positif
+209,Mamamatcha Ori Hasanudin,budget_murah pelayanan_positif
+210,One Day Atelier,budget_mahal harga_positif pelayanan_positif suasana_positif
+211,Otten Coffee Semarang,harga_positif pelayanan_positif suasana_positif
+212,Temarasa Coffee & Garden,budget_sedang harga_positif pelayanan_positif suasana_positif
+213,Bloomery Cake & Patisserie Kota Lama Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+214,Kopi Kenangan - Ruko Telagamas Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+215,Tatap Muka Coffee & Work,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+216,Point Coffee Hasanudin,budget_sedang pelayanan_positif suasana_positif
+217,Autohaus-Brew,budget_sedang harga_positif pelayanan_positif suasana_positif
+218,Koffee Talk,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+219,Toko Kopi Purun,budget_sedang harga_positif pelayanan_positif suasana_positif
+220,No Brand Coffee,budget_murah harga_positif
+221,Anak Panah Kopi Bizz,budget_sedang harga_positif pelayanan_positif suasana_positif
+222,Tentang Kopi Tanah Mas ( TKTM ),budget_sedang harga_positif pelayanan_positif suasana_positif
+223,Kopi Ruang Hati Tanah Mas,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+224,KODARO,budget_murah harga_positif pelayanan_positif suasana_positif
+225,Hestag kopi & roasteri,budget_sedang harga_positif pelayanan_positif suasana_positif
+226,Andespa,budget_murah
+227,Latar Kota by Banaran,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+228,Starbucks Kota Lama,budget_mahal pelayanan_positif suasana_positif
+229,More Coffee,
+230,Naraya Coffee Shop & Beyond,
+231,Twelve Cafe,budget_mahal harga_positif pelayanan_positif suasana_positif
+232,Panna Coffee,harga_positif pelayanan_positif suasana_positif
+233,Oud En Nieuw by Toko Oen,harga_positif pelayanan_positif suasana_positif
+234,POS COFFEE,
+235,The Corner Coffee,
+236,Academy Coffee,
+237,Loko Cafe - Semarang Pancol,budget_sedang pelayanan_positif suasana_positif
+238,Headquarter Cafe,
+239,"Sukajaya, Kopi dan Kuliner Nusantara",budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+240,TEMPAT Coffee & Go,
+241,Kopi Pagi Semarang,
+242,dasa cafe,budget_mahal pelayanan_positif suasana_positif
+243,Linds Ice Cream Cafe & Resto,harga_positif pelayanan_positif suasana_positif
+244,Kopi Kanna,budget_murah harga_positif
+245,"""KORA"" Kopi Rakyat Semarang",budget_mahal suasana_positif
+246,Unggul home n cafe,
+247,Socialist Coffee,
+248,ON7 Coffee & Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+249,Treetales Coffee & Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+250,Folkafe Setiabudi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+251,KOLU COFFEE NGESREP,budget_murah harga_positif pelayanan_positif suasana_positif
+252,BARAMPA COFFEE - Banyumanik Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+253,Ka.Ma Coffee Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+254,Adhum Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+255,Banaran Coffee & Art CoWorking Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+256,Cemara Coffee & Kitchen,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+257,Jam 5 Space,budget_murah pelayanan_positif suasana_positif
+258,Hoop Brewing Space,budget_sedang harga_negatif pelayanan_positif suasana_positif
+259,Nycto Coffee Brewers,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+260,CERITA'KAN COFFEESHOP,budget_murah harga_positif pelayanan_positif suasana_positif
+261,TOMORO COFFEE - Jati Raya Banyumanik,budget_sedang harga_positif pelayanan_positif suasana_positif
+262,AKASA SPACE,budget_sedang harga_positif pelayanan_positif suasana_positif
+263,Atap Langit Cofee n Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+264,KPENAK,budget_sedang harga_positif pelayanan_positif suasana_positif
+265,Tanajiwa Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+266,Kopium Koffie,budget_murah harga_positif pelayanan_positif suasana_positif
+267,Tentang Kita Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+268,Sippers Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif
+269,SOUL CAFE feat HAWKER'S STEAK BANYUMANIK Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+270,Union Home Roastery,budget_sedang pelayanan_positif
+271,Semasa Kopi Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+272,BELIKOPI. BANYUMANIK SEMARANG,budget_murah harga_positif pelayanan_negatif suasana_positif
+273,Kopi Teman Alam,budget_sedang harga_positif suasana_positif
+274,HO Cafe Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+275,tigasurya Cafe & Eatery,budget_mahal harga_positif pelayanan_positif suasana_positif
+276,Tasih,budget_sedang harga_positif suasana_positif
+277,"TERAKOPIE - Coffee, Brunch, Dinner & Roastery Semarang",budget_murah harga_positif pelayanan_positif suasana_positif
+278,POINT COFFEE KARANGREJO BANYUMANIK,pelayanan_positif
+279,Kopi Kenangan - Ruko Banyumanik Semarang,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+280,Kopi Tua semarang,budget_murah harga_positif pelayanan_positif suasana_positif
+281,Bento Kopi Tembalang,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+282,Stako Kopi Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+283,Fore Coffee - Setiabudi Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+284,Corner Coffee Semarang,budget_murah pelayanan_positif
+285,Tower Cafe Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+286,Pijar.srg,budget_sedang harga_positif pelayanan_positif suasana_positif
+287,Kopi dari nol × Secret Beauty Studio,budget_murah pelayanan_positif suasana_positif
+288,Kafee Lab Coffee,pelayanan_positif
+289,Urban Coffee,
+290,Kopi Kemenangan,budget_murah harga_positif pelayanan_positif suasana_positif wifi_negatif
+291,Nami Coffee and Plants,budget_sedang harga_positif pelayanan_positif suasana_positif
+292,BeJoy Cafe,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+293,Besok Pagi,budget_murah harga_positif pelayanan_positif suasana_positif
+294,Padha Cofee,budget_sedang pelayanan_positif suasana_positif
+295,klawd.coffee,
+296,Kopi Maju 57 Tusam,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+297,Lawson Binaremaja,budget_sedang harga_positif pelayanan_positif suasana_positif
+298,Golden Brown Cafe,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+299,Sigma House Bar,budget_sedang suasana_positif
+300,Arsa Coffee House,budget_murah harga_positif suasana_positif
+301,Literally Coffee,
+302,Rindu_Coffee,harga_positif pelayanan_positif
+303,Kedai Robinhood,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+304,BURJO BAE,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+305,Cafe PiBee Pizza & Rice - Fast - Affordable (Setiabudi),budget_sedang harga_positif pelayanan_positif suasana_positif
+306,Parama Cafe Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+307,ANGKRINGAN PAK MAN kedai kopi hik,budget_murah harga_positif pelayanan_positif suasana_positif
+308,Torte Cafe & Bakery,harga_positif pelayanan_positif suasana_positif
+309,Kopi Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+310,Dahaga Coffee Tea and Toast,budget_murah harga_positif pelayanan_positif
+311,PIMA Coffee - Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif
+312,Kopi Kenangan - Ruko Tembalang Semarang,budget_murah harga_positif pelayanan_positif suasana_positif
+313,Pixel Coffeeshop,budget_sedang harga_positif pelayanan_positif suasana_positif
+314,The Ambaru Coffee And Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+315,PALETTE COFFEE,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+316,Kopi Nako Semarang Candi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+317,Ejaankoffie,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+318,Toko Kopi Madame Tembalang,budget_murah harga_positif pelayanan_positif
+319,Bento Kopi Semarang,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+320,Aswana Social Space,budget_sedang harga_positif pelayanan_positif suasana_positif
+321,Arche Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif
+322,Nilu Kopi Undip,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+323,Arunika Coffee and Space,budget_murah harga_positif pelayanan_positif suasana_positif
+324,KM02 Coffee & Workingspace,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+325,Teras Binar,budget_sedang harga_positif suasana_positif
+326,Titik Dua Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+327,Ki Demang Eatery,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+328,Dasaran Kopi,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+329,Wayang Kofie,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+330,Kopi Calf To Go Tembalang,budget_sedang harga_positif pelayanan_positif suasana_positif
+331,Hay Coffee Tembalang,budget_murah harga_positif
+332,Coffee Jawa,harga_positif
+333,Golf Tembakau,harga_positif pelayanan_positif
+334,Kedai Nyamin,budget_sedang harga_positif pelayanan_positif suasana_positif
+335,Lingkar Coffee and Idea Sirojudin,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+336,Disapa Kopi Kedungmundu,budget_sedang harga_positif pelayanan_positif suasana_positif
+337,Astina Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+338,Asatu Cafe and Resto,budget_sedang harga_positif pelayanan_positif suasana_positif
+339,Maeru Coffee & Roastery,budget_murah pelayanan_positif suasana_positif
+340,Senja Coffe and Resto,budget_murah harga_positif pelayanan_positif suasana_positif
+341,Fajar Senja,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+342,Kopi Kenangan - Ruko Kedungmundu Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_negatif
+343,Mak-Mak Coffee & Kitchen,budget_mahal harga_positif pelayanan_positif suasana_positif wifi_positif
+344,COFFERIA,budget_murah harga_positif pelayanan_positif
+345,Lupa Waktu Coffee,budget_murah
+346,Omah Coffee n Tea Semarang,
+347,Teman Kerja Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+348,Garasi Kopi,harga_positif
+349,Urbanplus Skyview,budget_sedang harga_positif pelayanan_negatif suasana_positif wifi_positif
+350,Rasi Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif
+351,Point Coffee Undip Tembalang,budget_sedang harga_positif pelayanan_negatif suasana_positif
+352,SACHI SWEET CAFE,budget_sedang harga_positif pelayanan_positif suasana_positif
+353,Dreeps Coffee,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+354,Mr. Ken Coffee & Eatery,budget_murah harga_positif pelayanan_positif suasana_positif
+355,Antawirya Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif
+356,sawargi coffee,budget_mahal
+357,WalK.in Coffee (Coffee Shop),
+358,Kenewae Kopi,harga_positif pelayanan_positif suasana_positif
+359,Aneka Camilan OLALA “Klipang”,harga_positif pelayanan_positif
+360,SURYA TO GO,harga_positif pelayanan_positif
+361,Folkafe Ngaliyan,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+362,Yuffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+363,Pygmy Owl Coffee,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+364,Kopi Nuri Ngaliyan,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+365,Saroengan Cafe,budget_murah harga_positif pelayanan_positif suasana_positif
+366,TOMORO COFFEE - Ngaliyan Semarang,budget_sedang harga_positif pelayanan_positif suasana_positif
+367,Semilir Cafe,budget_sedang harga_positif pelayanan_positif suasana_positif
+368,KOLU NGALIYAN,budget_murah harga_positif pelayanan_positif suasana_positif
+369,Kopi Kenangan - Ruko Ngaliyan,budget_sedang harga_positif pelayanan_positif suasana_positif
+370,Toko Kopi Djuara - Ngaliyan,budget_sedang pelayanan_positif suasana_positif wifi_negatif
+371,Belikopi. Ngaliyan Semarang,budget_murah harga_positif pelayanan_positif suasana_positif
+372,Fore Coffee - Citadel Square Ngaliyan,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+373,Fasty Coffee,
+374,Point Coffee Raya Ngaliyan,pelayanan_positif
+375,Kokoro Coffee,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+376,Point Coffee SPBU NGALIYAN,
+377,Kairos coffee,budget_sedang harga_negatif pelayanan_negatif suasana_positif
+378,Janji Jiwa & Jiwa Toast Ruko Ngaliyan,budget_sedang pelayanan_positif suasana_positif
+379,Outside Coffee Holic,harga_positif suasana_positif
+380,PAPACI Coffee,budget_murah harga_positif pelayanan_positif suasana_positif
+381,Cafe Carsen (Semarang Lantai 2),budget_murah harga_positif pelayanan_positif suasana_positif
+382,Alfa coffee ngaliyan semarang,
+383,LaMika coffeshop,budget_murah
+384,Sensasi.Kopi,budget_murah suasana_positif
+385,Ruang Cerita cafe & podcast,budget_sedang harga_positif pelayanan_positif suasana_positif
+386,Panci Cafe,budget_murah harga_positif pelayanan_positif suasana_positif
+387,PERJALANAN KOPI,budget_murah wifi_positif
+388,Beli Smoothies Ngaliyan,budget_murah pelayanan_positif
+389,SEDUH CERITA Coffee and Matcha,
+390,KOPI DULU,budget_murah harga_positif suasana_positif
+391,Kedai Saerah Ngaliyan,budget_sedang harga_positif pelayanan_positif suasana_positif
+392,Mas Bro Beverages Ngaliyan,harga_positif
+393,SUDUT KAMI,budget_murah harga_positif pelayanan_positif suasana_positif
+394,Warlook: Warkop dan Makan,budget_murah harga_positif pelayanan_positif suasana_positif wifi_positif
+395,Day Coffee,
+396,SANTARA CAFE,budget_murah pelayanan_positif suasana_positif
+397,Go Coffee Keliling,
+398,ARD Cafe and View,budget_sedang harga_negatif pelayanan_negatif suasana_positif
+399,Kedai Kopi NaDi,budget_mahal pelayanan_positif suasana_positif
+400,Dianka Coffee,pelayanan_positif
+401,P'De Coffee,
+402,"Sekian kopi Semarang ,Ngaliyan",
+403,Angkringan Semar Ngaliyan Kliwonan,budget_murah harga_positif pelayanan_positif suasana_positif
+404,Kedai Candi,harga_positif
+405,KOPILAAN,budget_sedang
+406,JWL Coffee Shop,budget_murah harga_positif
+407,KOPI NGELAK,budget_murah harga_positif pelayanan_negatif suasana_positif
+408,Zona Waktu coffee Ngaliyan,
+409,Warkop_walisongo,
+410,Walk In Coffee,budget_murah
+411,Bukit Senja,budget_sedang harga_positif pelayanan_positif suasana_positif
+412,Han Han Kost & Cafe,budget_murah harga_positif pelayanan_positif suasana_positif
+413,Kota Kayu Coffee,budget_sedang suasana_positif
+414,Chocochiz Ngaliyan,
+415,Sudut Kreasi Ngaliyan,
+416,Tobadream Kopi Ngaliyan,
+417,Burjo Pantry Ngaliyan +,budget_murah pelayanan_negatif suasana_positif wifi_negatif
+418,Teras Kita,budget_murah pelayanan_positif
+419,Langgeng Cafe Ngaliyan,budget_murah harga_positif
+420,Warung Kopi Jon,budget_murah harga_positif pelayanan_negatif suasana_positif wifi_negatif
+421,KEBUL MANIA NGALIYAN,harga_positif pelayanan_positif suasana_positif
+422,YiSan Coffee Shop,
+423,EL LOCO COFFEE,
+424,Ideologist Coffee And Social Space,budget_sedang harga_positif pelayanan_positif suasana_positif wifi_positif
+425,coffeshop,
+426,Keizai Coffee & Garden MD3,budget_sedang harga_positif pelayanan_positif suasana_positif
+427,CERITA.COFFE,
+428,Dapur Mama Cafe & Resto,budget_sedang harga_positif pelayanan_positif suasana_positif
+429,Pelangi cafe singosari,budget_mahal harga_positif pelayanan_positif suasana_positif
+430,Lajoer Coffee,
+431,Tawa Coffee,
+432,Mbah Imam / Smith,
+433,Coffee Shop Kopirasi,
+434,0812 Coffee and Space,
+435,Maucafe Ngaliyan,
+436,matcha kocok ngaliyan,
+437,Wedang Uwuh Ngaliyan Semarang,
+438,SEGARA NGALIYAN,
+439,esteh aja Ngaliyan,
+440,SUSUQUE susu sapi segar di Ngaliyan,

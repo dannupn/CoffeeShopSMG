@@ -1,0 +1,988 @@
+id_aspek_kalimat,id_kalimat,aspek,kata_kunci,kalimat_asli,penilai_1,penilai_2,penilai_3,n_penilai_valid,label_gold,status
+27248,64688,harga,mahal,"tapi menunggu lama, mahal, qris minimal 50 ribu",negatif,negatif,negatif,3,negatif,sepakat_semua
+53898,125514,harga,worth_it,Untuk makanan dan minuman tidak worth it,negatif,negatif,negatif,3,negatif,sepakat_semua
+34802,84189,harga,mahal,"Mahal banget untuk tempat yang tidak ada servicenya dan tempat smoking roomnya seperti tidak menggunakan exhaust yang proper untuk orang sebanyak itu, masa untuk segelas matcha saja harus menunggu 30 menit untuk pengunjung yang tidak seramai itu",negatif,negatif,negatif,3,negatif,sepakat_semua
+24857,59215,harga,harga,"tapi sangat di ragukan di minumannya ada rambutnya lalu di sajikan pakai cup yang tidak ada tutupnya dengan harga segitu porsi yang di berikan tidak sesuai dengan harganya, lalu rasa gorengannya pun seperti makan rasa tepung",negatif,negatif,negatif,3,negatif,sepakat_semua
+6380,14827,harga,overprice,"Tempat cenderung kecil, ac kurang dingin, makanan dan minuman sedikit overprice dibanding kafe kafe yang lain",negatif,negatif,negatif,3,negatif,sepakat_semua
+14926,36733,harga,mahal,Mahal banget PBnya,negatif,negatif,negatif,3,negatif,sepakat_semua
+21674,52434,harga,mahal,dan lumayan mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+38122,92127,harga,mahal,"Tolong dong makanan mahal sekelas kafe gini pakainya jangan beras strawberry atau beras jatah deh, kempal banget keras tidak enak dimakan",negatif,negatif,negatif,3,negatif,sepakat_semua
+26774,63731,harga,mahal,Mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+14465,35599,harga,pricey,"A bit pricey, small place dan kembalian 1",negatif,negatif,negatif,3,negatif,sepakat_semua
+25127,59728,harga,harga,Harga tidak sepadan dengan produknya,negatif,negatif,negatif,3,negatif,sepakat_semua
+7483,17613,harga,mahal,Menunya juga mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+26254,62383,harga,harga,"Sayangnya, makanannya tidak sepadan dengan harganya",negatif,negatif,negatif,3,negatif,sepakat_semua
+25222,59933,harga,worth_it,"Kentang keras, ayam sedikit nasinya banyak tidak worth it banget wkwkwk minuman juga sepertinya pakai instan instan semua mbaknya nyolot banget lagi pas ditanya password wifi",negatif,negatif,negatif,3,negatif,sepakat_semua
+17076,41431,harga,harga,"Ini nyaman bgd sih tempatnya, dari segi makanan enak, walaupun harganya agak high",negatif,positif,negatif,3,negatif,mayoritas
+37085,89929,harga,harga,harga menengah keatas sih ya,negatif,netral,netral,3,netral,mayoritas
+19719,48069,harga,"harga, pricey",tempatnya bagus lt 1 bistro tempatnya cocok untui nongki kumpul keluarga lt 2 ada billiardnya harganya cukup pricey sih kalau tidak promo,negatif,positif,negatif,3,negatif,mayoritas
+20457,49706,harga,harga,Harga tidak sebanding dengan rasa,negatif,negatif,negatif,3,negatif,sepakat_semua
+17595,42682,harga,mahal,"mana keluarin motor tidak di bantu sama sekali, percuma bayar parkir mahal-mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+42567,102058,harga,mahal,"Pelayanan standard, makanan standard minumannya yang agak mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+7873,18597,harga,"harga, mahal","untuk makanan rasa tidak sesuai harga,kurang citarasa,harga agak mahal ya,suasana nyaman,mbk pelayan agak jutek,toilet yang seharusnya kering juga becek,parkir sempit",negatif,negatif,negatif,3,negatif,sepakat_semua
+56470,131572,harga,"harga, mahal",Harga lumayan mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+20009,48684,harga,mahal,tapi terkesan mahal karena seperti makan di warung,negatif,negatif,negatif,3,negatif,sepakat_semua
+40966,98555,harga,"harga, mahal","mana menunya yang ready dikit saja lagi, kok pada menyajikan makanan dengan harga mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+27358,64968,harga,harga,Espresso harganya 33 ribu,negatif,netral,netral,3,netral,mayoritas
+42093,101339,harga,harga,"Kopinya tidak enak, harga dan kualitas serta kuantitas makanannya tidak sepadan",negatif,negatif,negatif,3,negatif,sepakat_semua
+20219,49166,harga,"harga, mahal","Tempat nyaman, sayang pelayanannya, terlalu lama, makanan, minuman lumayan, harga sdk mahal, trimakasih",negatif,positif,negatif,3,negatif,mayoritas
+22378,54252,harga,"harga, mahal","Tempatnya unik, harganya kalau bisa dibilang agak mahal ya soalnya rasa kopinya aga kurang",negatif,positif,negatif,3,negatif,mayoritas
+1148,3010,harga,harga,Harga per orang +-50k,negatif,netral,netral,3,netral,mayoritas
+41566,100098,harga,harga,Harga 75k kok rasanya manis banget dan isinya cuma,negatif,negatif,negatif,3,negatif,sepakat_semua
+24891,59291,harga,"harga, mahal","Tempat kotor, pegawai cowok pakai celana pendek dan kaki kotor (tidak rapih) Harga terlalu mahal dengan kualitas produk yang seperti itu Teh sudah terlalu lama disimpan, makanan terlalu mahal dengan kualitas seperti itu",negatif,negatif,negatif,3,negatif,sepakat_semua
+31877,76957,harga,pricey,"Lumayan pricey, latte dan pastrynya enak",negatif,positif,negatif,3,negatif,mayoritas
+24877,59264,harga,"harga, murah","sad food banget menu ramadhan bundlingnya, demi apapun kecewa:((( tolong dong kalau bikin menu itu yang proper biar customer juga bisa puas dengan makanan yang disajikan, padahal tempatnya comfy loh, harganya juga tidak murah murah banget untuk sekelas kafe",negatif,negatif,negatif,3,negatif,sepakat_semua
+26552,63200,harga,harga,tapi tolonglah di menu kalau bisa dikasih harganya biar cust bisa kira-kira dokunya aman tidak ngopi atau sekadar makan di situ,negatif,negatif,negatif,3,negatif,sepakat_semua
+13492,33523,harga,"harga, mahal",cuma di daerah yang mumpet mumpet begitu dengan harga segitu menurutku terlalu mahal yaa,negatif,negatif,negatif,3,negatif,sepakat_semua
+2380,5943,harga,harga,"sudah pesan tempat dengan harga 500k untuk 5 orang, dan kelebihannya dikenakan 75k per pax",negatif,netral,negatif,3,negatif,mayoritas
+47970,113743,harga,harga,yang katanya baby octopus harga 20K ternyata cma sosis dikasih kepala tepung,negatif,negatif,negatif,3,negatif,sepakat_semua
+4994,11970,harga,harga,Harga sangat tidak sesuai dengan rasa dan tempat,negatif,negatif,negatif,3,negatif,sepakat_semua
+52632,123364,harga,"harga, pricey","Pesan ceremoni matcha isinya dikit rasanya gaenak b saja harga pricey,enakan matcha yang biasa",negatif,negatif,negatif,3,negatif,sepakat_semua
+4503,10745,harga,harga,"Jus pisangnya sama sekali tidak manis, kurang enak dengan harga 20k",negatif,negatif,negatif,3,negatif,sepakat_semua
+32996,79703,harga,"harga, mahal",harga mahal mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+56236,131067,harga,worth_it,"Piring terlalu kecil, meja kotor tidak segera di bersihin, menu telur terlalu berminyak, tidak worth it porsinya",negatif,negatif,negatif,3,negatif,sepakat_semua
+49693,116970,harga,"harga, pricey","pesan es teh 4 dan beberapa makanan, ternyata black tea dengan harga @15rb agak pricey sih untuk kelasnya menurut saya, gelas kecil pula",negatif,negatif,negatif,3,negatif,sepakat_semua
+7334,17144,harga,mahal,tapi agak terlalu mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+27320,64868,harga,"harga, mahal","untuk tempat oke,dari segi rasa lumayan dan dari segi harga lumayan mahal sudah gtu saja",negatif,netral,negatif,3,negatif,mayoritas
+12094,29956,harga,harga,karena harga yang dibayarkan dan makanan yang diperoleh tidak berbanding lurus,negatif,negatif,negatif,3,negatif,sepakat_semua
+37077,89892,harga,mahal,Lebih mahal 3x lipat,negatif,negatif,negatif,3,negatif,sepakat_semua
+4499,10733,harga,"harga, terjangkau",Harga masih terjangkau,negatif,positif,positif,3,positif,mayoritas
+15049,37000,harga,mahal,"tempatnya baguss cuma varian makananya sedikit,mahal dan tidak enak",negatif,negatif,negatif,3,negatif,sepakat_semua
+52377,122795,harga,"harga, mahal","deket rumah juga, harganya agak mahal hehe",negatif,netral,negatif,3,negatif,mayoritas
+48343,114400,harga,worth_it,"tapi overall tidak worth it, 35k dapat esteh sama ayam taliwang yang tidak ada rasa taliwang, tidak mateng dan masih ada darahnya, ayam dan esteh disiapin jauh",negatif,negatif,negatif,3,negatif,sepakat_semua
+23001,55720,harga,"harga, pricey",cuma harganya super pricey untuk ukuran UMR semarang,negatif,negatif,negatif,3,negatif,sepakat_semua
+56865,132483,harga,harga,pesan teh tarik 8k di meja via barcode sudah bayar terus teh tariknya habis digantilah sama kopi hitam pahit 6k terus pegawainya bilang harganya sama,negatif,negatif,netral,3,negatif,mayoritas
+25917,61445,harga,harga,"roti panggangnya nga sesuai dengan harga, bisa diperbaiki lagi",negatif,negatif,negatif,3,negatif,sepakat_semua
+23915,57363,harga,mahal,tapi makanannya relatif mahal dan rasanya kurang sih,negatif,negatif,negatif,3,negatif,sepakat_semua
+53975,125689,harga,harga,Cuma untuk makanannya kurang sesuai dengan harga,negatif,negatif,negatif,3,negatif,sepakat_semua
+14709,36282,harga,harga,Hanya harganya agak pricely,negatif,negatif,negatif,3,negatif,sepakat_semua
+4493,10724,harga,overprice,overprice jugak,negatif,negatif,negatif,3,negatif,sepakat_semua
+14982,36875,harga,"harga, mahal","Tempatnya keren sayang sekali masakannya kurang enak, terlalu asin, harga juga mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+40402,97234,harga,mahal,"Menu, rasa standard hargany termasuk mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+1393,3608,harga,harga,harga sedikit diatas rata rata kafe sekelas dia,negatif,netral,negatif,3,negatif,mayoritas
+40200,96843,harga,"harga, mahal",tidak sesuai dengan harganya yang mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+57632,134013,harga,harga,Harga main course up to 30 ribuan,negatif,netral,netral,3,netral,mayoritas
+55641,129521,harga,worth_it,kurang worth it sih sorry ya sebelumnya,negatif,negatif,negatif,3,negatif,sepakat_semua
+26051,61811,harga,pricey,"pricey, panas banget ruangan yang non smokingnya, gapaham kenapa, apa antara volume ruangnya tidak sebanding sama Kpa ACnya atau bagaimana, akhirnya cuma mampir minum, gajadi lama lama terus out, cukup sekali si ke sini, syg banget, padahal aesthetic banget tempatnya",negatif,negatif,negatif,3,negatif,sepakat_semua
+13114,32491,harga,harga,Antara kopi yang disajikan dengan cara diseduh secara manual dan harganya tidak seimbang,negatif,negatif,negatif,3,negatif,sepakat_semua
+50246,118179,harga,mahal,Non coffeenya mahal,negatif,negatif,negatif,3,negatif,sepakat_semua
+21578,52231,harga,mahal,"Tempat menyepi asyik untuk yang butuh ketenangan, meski lil bit mahal untuk ukuran kafe yang nyelempit",negatif,positif,negatif,3,negatif,mayoritas
+20438,49671,harga,"harga, mahal","dan menurut saya rasanya flat dan harganya mahal, bahkan",negatif,negatif,negatif,3,negatif,sepakat_semua
+5055,12064,harga,overprice,tapi memang benar overprice buat tempat yang menurutku yang sering pindah” kafe kalau mau nugas perlu di crosscheck untuk menunya juga untuk snacknya mix platter yang aku kira isinya sosis dan,negatif,negatif,negatif,3,negatif,sepakat_semua
+16368,39885,harga,worth_it,"Bad service, v60 35k, tidak worth it sama sekali",negatif,negatif,negatif,3,negatif,sepakat_semua
+17365,42056,harga,"harga, mahal","tetapi rasanya tidak ada yang istimewa, harganya relatif lebih mahal untuk kualitas makanan di kelasnya",negatif,negatif,negatif,3,negatif,sepakat_semua
+1398,3612,harga,"harga, mahal","tapi kamar mandi sangat sempit, harga agak mahal",negatif,negatif,negatif,3,negatif,sepakat_semua
+37286,90428,harga,"harga, mahal",Harga makanan terlalu mahal dengan porsi yang di sajikan,negatif,negatif,negatif,3,negatif,sepakat_semua
+26633,63378,harga,"harga, mahal","Menang di harga (mahal), kalah di rasa (makanan), setara warteg, malah mungkin lebih enak warteg",negatif,negatif,negatif,3,negatif,sepakat_semua
+32063,77458,harga,harga,"Makanan dan minumannya enak, harga di atas rata-rata, tidak bisa take out, tidak menerima pembayaran kartu debit/credit",negatif,netral,negatif,3,negatif,mayoritas
+39798,95880,harga,harga,Harga terbilang lumayan,netral,netral,positif,3,netral,mayoritas
+29049,69643,harga,worth_it,"Untuk snack/kudapan seperti mendoan dan Pisang gorengnya, worth it buat menemani ngobrol karena",netral,positif,positif,3,positif,mayoritas
+55660,129569,harga,harga,Buat makanan dan minuman biasa saja dengan harga segitu,netral,netral,netral,3,netral,sepakat_semua
+32824,79308,harga,harga,"Aku nyobain steak iga, kalau tidak salah harga Rp 98",netral,netral,positif,3,netral,mayoritas
+49418,116352,harga,"harga, murah","Ada colokan, wifi, smooking area, ac, harga lumayan murah ketimbang sebelah dan rasa juga enak",netral,positif,positif,3,positif,mayoritas
+14161,34886,harga,harga,untuk harga tersebut,netral,netral,netral,3,netral,sepakat_semua
+22704,55059,harga,harga,Masakan enak tempat nyaman harga,netral,positif,positif,3,positif,mayoritas
+44905,107508,harga,worth_it,worth it untuk bukber,netral,positif,positif,3,positif,mayoritas
+13262,32893,harga,harga,Harga 25-an dan kurang nyaman saja duduknya,netral,negatif,negatif,3,negatif,mayoritas
+50541,118922,harga,harga,Terus pesan chicken steak harga 25k ternyata mungkin ekspetasi kita terlalu tinggi apa,netral,netral,negatif,3,netral,mayoritas
+30224,72221,harga,harga,"Kebetulan kita sama² suka kucing, dan mas pacar juga suka explore jenis² kucing beserta harga dan keunikannya HAHA",netral,positif,netral,3,netral,mayoritas
+16254,39661,harga,murah,Makanannya terhitung lumayan murah sekitar 25rb an,positif,positif,positif,3,positif,sepakat_semua
+3962,9580,harga,harga,"tapi lucu,baristanya ramah banget,kopi enak harga whort it juga,jangan lupa mampir",positif,positif,positif,3,positif,sepakat_semua
+32564,78569,harga,murah,"Tempat nongkrongnya anak anak gaol, murah juga tersedia shisha",positif,positif,positif,3,positif,sepakat_semua
+57520,133795,harga,"harga, murah",tempatnya cozy betah buat foto foto dengan pemandangan yang indah makanannya pum harganya murah dan enak cuma minyaknya banyak banget sih,positif,positif,positif,3,positif,sepakat_semua
+22960,55639,harga,"harga, mahal",Harga oke tidak terlalu mahal even rasanya so so,positif,positif,positif,3,positif,sepakat_semua
+48127,114016,harga,"affordable, harga","tempatnya luas, pilihan menu beragam dan harga affordable, bisa sekadar ngemil, bisa makan berat sambil ngopi, sambil nugas dan kerja juga bisa",positif,positif,positif,3,positif,sepakat_semua
+4417,10535,harga,"harga, terjangkau","Lokasi oke, suasana nyaman, bersih, harga masih terjangkau, untuk rasa minuman redvelvet not bad, pancake tipis rasa lumayan",positif,positif,positif,3,positif,sepakat_semua
+16965,41214,harga,harga,"Makanannya enak, harganya ramah dikantong, pelayanannya juga oke",positif,positif,positif,3,positif,sepakat_semua
+29248,70142,harga,"harga, terjangkau","Makanan oke, porsinya banyak, harga masih terjangkau",positif,positif,positif,3,positif,sepakat_semua
+50134,117925,harga,harga,Harganya not bad untuk kopinya,positif,positif,positif,3,positif,sepakat_semua
+36559,88738,harga,harga,"tempatnya cozyy banget adem, habis panas panasan dari kota lama masuk sini langsung ademm harganya standarr kafe kafe, enak",positif,positif,positif,3,positif,sepakat_semua
+50401,118542,harga,"harga, terjangkau",Kopinya harga terjangkau keren konsep penyajiannya,positif,positif,positif,3,positif,sepakat_semua
+7515,17710,harga,"harga, mahal",Harganya juga tidak terlalu mahal,positif,positif,positif,3,positif,sepakat_semua
+28728,68877,harga,"harga, murah","Salah satu tempat kopi yang paling sering saya kunjungi karena baristanya cantik cantik hehe tertutama Lucy dan harga kopi susunya murah , tempatnya juga luas enak buat nongkrong",positif,positif,positif,3,positif,sepakat_semua
+42883,102942,harga,harga,"tbh fore tempatnya nyaman, servicenya bagus, harga dan rasanya juga oke",positif,positif,positif,3,positif,sepakat_semua
+461,1182,harga,"harga, worth_it",Worth it sama harganya,positif,positif,positif,3,positif,sepakat_semua
+11914,29487,harga,harga,lokasinya strategis dengan varian makanan dengan beragam harga menjadi spot favorite untuk hangout makan siang atau setelah kerja,positif,positif,positif,3,positif,sepakat_semua
+17436,42230,harga,"harga, terjangkau","Enak, Segar, Harga terjangkau, recommended",positif,positif,positif,3,positif,sepakat_semua
+9127,22289,harga,harga,harga standar,positif,netral,positif,3,positif,mayoritas
+14717,36294,harga,harga,"Makanan & minumannya enak, harga masih wajar",positif,positif,positif,3,positif,sepakat_semua
+50154,117979,harga,"harga, mahal","Kopi dan minumannya enak, harga tidak terlalu mahal",positif,positif,positif,3,positif,sepakat_semua
+11934,29541,harga,harga,"Tempat yang menyenangkan untuk nongkrong karena ada live musicnya, untuk makanan enak, harga standard, semoga wifinya bisa diperbaiki ya kak, terimakasih",positif,positif,positif,3,positif,sepakat_semua
+26382,62773,harga,harga,Harga sebanding sama porsi kalau menurut aku,positif,positif,positif,3,positif,sepakat_semua
+11898,29441,harga,"harga, murah",Masalah harga terbilang murah dibandingkan dengan kafe yanv lain hitungan tengah kota,positif,positif,positif,3,positif,sepakat_semua
+40988,98617,harga,harga,"tempat nyaman, harga mhs, red velvetnya enak, pelayanan oke",positif,positif,positif,3,positif,sepakat_semua
+17853,43227,harga,"harga, terjangkau","dengan harga yang terjangkau bisa menikmati pemandangan semarang,makanannya komplit harga juga oke tidak nyesel ke sini",positif,positif,positif,3,positif,sepakat_semua
+33891,81633,harga,"harga, mahal",Harganya tidak mahal,positif,positif,positif,3,positif,sepakat_semua
+27115,64356,harga,kantong,"Rekomendasi, untuk yang pengen santai, dan makanannya enak sesuai kantong, yaa kapan kapan menunya ditambahin",positif,netral,positif,3,positif,mayoritas
+20145,48994,harga,"harga, murah",Tempat yang tidak cuma ada makanan dan minuman yang enak dengan harga yang murah meriah,positif,positif,positif,3,positif,sepakat_semua
+54099,125952,harga,harga,"View bagus, harga standar, recommended",positif,positif,positif,3,positif,sepakat_semua
+54172,126071,harga,harga,"Segi tempat oke,pelayanan cukup ramah,harga standart,rasa makanan dan minuman mengecewakan",positif,positif,positif,3,positif,sepakat_semua
+53869,125476,harga,murah,"tempat nyaman, menu tergolong murah",positif,positif,positif,3,positif,sepakat_semua
+12456,30951,harga,harga,Harganya juga oke,positif,positif,positif,3,positif,sepakat_semua
+11199,27646,harga,worth_it,Enak & worth it makanannya tidak bosen bosen ke sini,positif,positif,positif,3,positif,sepakat_semua
+48846,115229,harga,murah,Murah sih murah,positif,positif,netral,3,positif,mayoritas
+38299,92535,harga,"harga, mahal","harga makanan sama minumannya juga tidak mahal mahal banget, standar kafe lah",positif,netral,positif,3,positif,mayoritas
+15906,38842,harga,"harga, terjangkau","Harga terjangkau, kalau dibanding coffe sebelah beda diharga kualitas dan kenyamanan design tempat",positif,positif,positif,3,positif,sepakat_semua
+32433,78253,harga,"harga, worth_it",untuk harga yaa lumayan worth it dengan rasa makanannya,positif,positif,positif,3,positif,sepakat_semua
+49210,115941,harga,"harga, murah","Harga murah, nyaman, seperti di rumah sendiri, sangat menyukainya",positif,positif,positif,3,positif,sepakat_semua
+49455,116402,harga,harga,"Tempat enak, harga standar, wifi ngebut, mantap lah",positif,positif,positif,3,positif,sepakat_semua
+58067,134812,harga,"harga, terjangkau",Makananya enak enak semua dan harganya juga sangat terjangkau,positif,positif,positif,3,positif,sepakat_semua
+35449,85605,harga,harga,"Harga bersahabat, tempatnya warm dan cozy",positif,positif,positif,3,positif,sepakat_semua
+56283,131188,harga,murah,Murah meriah,positif,positif,positif,3,positif,sepakat_semua
+21823,52801,harga,"harga, terjangkau",harga masih terjangkau,positif,positif,positif,3,positif,sepakat_semua
+44789,107298,harga,"harga, murah",makanannya enak enak banget variatif murah harga mahasiswa,positif,positif,positif,3,positif,sepakat_semua
+49942,117497,harga,"harga, terjangkau","Tempat indoor, untuk smooking ada ruangan khususnya, harga standard, nyaman buat nugas dan ngobrol, ada pilihan snack dan makanan yang enak dengan harga yang terjangkau, lokasi strategis",positif,positif,positif,3,positif,sepakat_semua
+27108,64352,harga,"harga, terjangkau","Tempat nyantai buat ngopi dan ngobrol ,,harga relatif aman dan terjangkau",positif,positif,positif,3,positif,sepakat_semua
+30347,72610,harga,affordable,makanannya enak dan affordable,positif,positif,positif,3,positif,sepakat_semua
+37184,90291,harga,harga,Soal harga biasa saja dan rasanya juga B saja,positif,netral,netral,3,netral,mayoritas
+48692,115003,harga,"affordable, harga",Harga juga affordable buat mahasiswa,positif,positif,positif,3,positif,sepakat_semua
+47307,112484,harga,harga,"makanannya enak dan harga ramah, pelayanan super baik dan sangat sopan santun",positif,positif,positif,3,positif,sepakat_semua
+56936,132697,harga,harga,Angkringan harga aman banyak pilihan sate,positif,positif,netral,3,positif,mayoritas
+51468,120987,harga,"affordable, harga","Best resto dan tempat nongki di Kedungmundu raya Makanan enak, tempat cozy dan estetik, harga affordable",positif,positif,positif,3,positif,sepakat_semua
+9505,23205,harga,"harga, terjangkau","pagi pagi ke sini cuma buat beli pastry, rasanya enak, harga terjangkau, pilihannya banyak dan pelayanannya juga baik lo",positif,positif,positif,3,positif,sepakat_semua
+53309,124570,harga,"harga, terjangkau","Kopinya enak 8/10 dengan harga terjangkau, pilihannya juga banyak",positif,positif,positif,3,positif,sepakat_semua
+17190,41676,harga,harga,Untuk harga masih dalam angka wajar,positif,positif,positif,3,positif,sepakat_semua
+24716,58828,harga,"harga, terjangkau","kopinya enak, harga terjangkau, tempat nongkrong nyaman, bersih",positif,positif,positif,3,positif,sepakat_semua
+8302,19832,harga,pricey,"makanan enak, datangnya cepet, minumannya yaa standar sih not bad, not too pricey, playlistnya juga enak enak, kakak2nya ramah",positif,positif,positif,3,positif,sepakat_semua
+15892,38805,harga,terjangkau,"tapi tetap terjangkau, apalagi Tomoro Aren Lattenya, enak banget",positif,positif,positif,3,positif,sepakat_semua
+16908,41061,harga,murah,"Tempat bising, tidak ada tempat sholat, walaupun makanan/minumannya murah",positif,negatif,positif,3,positif,mayoritas
+32505,78478,harga,harga,"Haha :):) Tempatnya sederhana, menunya banyak variatif, buat harga nongkrong ya lumayanlah",positif,positif,positif,3,positif,sepakat_semua
+13271,32915,harga,harga,Harga standar,positif,netral,netral,3,netral,mayoritas
+12203,30299,harga,harga,untuk harga dan rasa makanan cenderung enak,positif,positif,positif,3,positif,sepakat_semua
+2840,6931,harga,worth_it,tapi worth it,positif,positif,positif,3,positif,sepakat_semua
+39403,95109,harga,"harga, kantong",jujur tempat nyaman banget terus harganya pas di kantong,positif,positif,positif,3,positif,sepakat_semua
+48500,114702,harga,terjangkau,Kopinya enak dan terjangkau buat mahasiswa,positif,positif,positif,3,positif,sepakat_semua
+23367,56422,harga,harga,"Untuk harga relatif ya, buat nongkrong atau WFC oke banget karena ada wifi dan bisa minta sepuasnya per 3 jam, ada live music juga tiap weekend",positif,positif,positif,3,positif,sepakat_semua
+4795,11480,harga,murah,murah,positif,positif,positif,3,positif,sepakat_semua
+24485,58372,harga,"harga, terjangkau","Harga terjangkau, rasa enak, Tempat enak",positif,positif,positif,3,positif,sepakat_semua
+44842,107387,harga,"murah, terjangkau","tempatnya nyaman dan makanan minum murah terjangkau, sangat rekomendasi",positif,positif,positif,3,positif,sepakat_semua
+20846,50553,harga,"harga, murah",harganya tergolong murah,positif,positif,positif,3,positif,sepakat_semua
+48420,114581,harga,"harga, murah","tempatnya enak luas, parkirannya juga luas banget, harga makanan dan minumannya murah murah cocok buat mahasiswa",positif,positif,positif,3,positif,sepakat_semua
+20524,49879,harga,"harga, murah",Harga termasuk murah,positif,positif,positif,3,positif,sepakat_semua
+1477,3845,harga,murah,Memberikan promo kopi murah,positif,positif,positif,3,positif,sepakat_semua
+44530,106877,harga,harga,Ya harga standart,positif,netral,positif,3,positif,mayoritas
+436,1132,harga,"harga, terjangkau","Tempat makan dan minum kopi yang nyaman buat keluarga maupun dengan sahabat, pelayanan yang ramah dengan kualitas yang baik, suasana yang berkelas dengan harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+48471,114672,harga,murah,"Tempat enak banget buat nongkrong , pelayannya ramah murah lagi cocok buat mahasiswa nongkrong",positif,positif,positif,3,positif,sepakat_semua
+38632,93288,harga,harga,"Mix platter OK lah untuk harga segitu, buat satnite enak tempatnya",positif,positif,positif,3,positif,sepakat_semua
+19883,48358,harga,harga,"yang aesthetic bagian smoking roomnya, buat harga segini di sekitar kota lama sangat afoordable parkirnya juga cuma 3k saja tidak semahal di tempat lain, kopinya enak juga",positif,positif,positif,3,positif,sepakat_semua
+18098,43972,harga,murah,"Es Coklat Lao Ban , juga worst banget kayak es coklat murah sachet an merk",positif,negatif,negatif,3,negatif,mayoritas
+53843,125425,harga,affordable,"Tempat nongkrong yang asyik banget, aesthetics banget buat anak muda, affordable banget dikantong anak muda",positif,positif,positif,3,positif,sepakat_semua
+42588,102107,harga,"harga, murah",cuma 2 (kalau ndak salah) Harga lebih murah dari yang sebelah Tempatnya sudah pasti bising ya,positif,positif,positif,3,positif,sepakat_semua
+27035,64233,harga,murah,"murah, pelayanan cepat , kwetiaunya rekomend , toplaah",positif,positif,positif,3,positif,sepakat_semua
+57955,134620,harga,"affordable, harga","sudah beberapa kali ke sini, makanannya oke, harganya juga affordable",positif,positif,positif,3,positif,sepakat_semua
+57491,133725,harga,harga,"tapi harganya standar Cocok untuk nongkrong, kumpul bersama teman ditambah makan yang enak dan disuguhi langit kota Semarang Mantap semoga sukses terus ideologist",positif,positif,positif,3,positif,sepakat_semua
+51102,120115,harga,worth_it,"untuk makanannya worth it, pemandangannya bagus",positif,positif,positif,3,positif,sepakat_semua
+53733,125201,harga,"harga, murah",Harganya murah meriah tempatnya estetik,positif,positif,positif,3,positif,sepakat_semua
+47139,112196,harga,harga,"Tempatnya bagus, bisa lihat citylight, enak buat ngobrol sama teman, masakanya sesuai dengan harga, cozy juga dan luass, ada live musik, banyak cogannya wkwk, sangat recomend buat ngopi cantik",positif,positif,positif,3,positif,sepakat_semua
+54786,127395,harga,harga,"Tempat oke, pemandangan bagus, makanan oke, harga juga standart kafe, pelayanan pas awal datang ramah banget",positif,positif,positif,3,positif,sepakat_semua
+5342,12455,harga,harga,"Tempat ngopi yang cukup ramai didaerah ini, menu juga masih standar harganya dan banyak pilihan mulai cofe dan nom coffe",positif,positif,netral,3,positif,mayoritas
+15640,38255,harga,harga,Harga minuman sama seperti kafe kafe yang lain,positif,positif,positif,3,positif,sepakat_semua
+13879,34271,harga,harga,"Menurutku ramai, harga makanannya murce",positif,positif,positif,3,positif,sepakat_semua
+3521,8526,harga,harga,"makanan enak banget, harga normal tempat nyaman, ada musholanya looh gais",positif,positif,positif,3,positif,sepakat_semua
+47623,113132,harga,"harga, murah",harganya pun lumayan murah,positif,positif,positif,3,positif,sepakat_semua
+36557,88737,harga,harga,"Tempat cozy buat breakfast dan ngopi tipis di deket gereja blenduk, makanannya ok, harganya juga ok, boleh lah di coba",positif,positif,positif,3,positif,sepakat_semua
+57900,134507,harga,"harga, terjangkau","Makanan enak, harga relatif terjangkau, dan suasananya nyaman banget",positif,positif,positif,3,positif,sepakat_semua
+33459,80628,harga,"harga, terjangkau","Suasananya enak, AC cukup, pelayanan ramah, makanan enak dan harga terjangkau banget",positif,positif,positif,3,positif,sepakat_semua
+156,411,harga,harga,Buat harganya standard coffee shop,positif,netral,positif,3,positif,mayoritas
+44102,105787,harga,"harga, murah","Harganya murah banget, Tempat nyaman banget pula, best kafe si",positif,positif,positif,3,positif,sepakat_semua
+16484,40142,harga,terjangkau,"nyaman, cocok buat nongki/nugas sama teman, vibesnya oke, menunya terjangkau, enak",positif,positif,positif,3,positif,sepakat_semua
+15120,37130,harga,"harga, mahal, murah",Untuk harga tidak murah dan tidak mahal,positif,netral,netral,3,netral,mayoritas
+32266,77884,harga,harga,"Tempatnya enak buat tongkrongan, menunya juga keren, harga tidak bikin bokek deh",positif,positif,positif,3,positif,sepakat_semua
+54516,126863,harga,harga,"View cakep, makanan enak, harganya juga standar",positif,positif,positif,3,positif,sepakat_semua
+38033,91936,harga,"harga, terjangkau",Harga terjangkau,positif,netral,positif,3,positif,mayoritas
+5066,12079,harga,harga,"Pelayanan ramah, harga so so, tempat bersih",positif,positif,netral,3,positif,mayoritas
+19063,46541,harga,"harga, terjangkau","Tempatnya asyik, baik siang maupun malam dan harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+25663,60925,harga,"harga, murah","hidden gem, tempat nyaman, harga murah cocok juga buat WFC",positif,positif,positif,3,positif,sepakat_semua
+24905,59324,harga,harga,Makanan enak dengan harga standardnya kafe di Semarang,positif,positif,positif,3,positif,sepakat_semua
+15845,38713,harga,murah,Murah santai,positif,positif,positif,3,positif,sepakat_semua
+7118,16524,harga,terjangkau,"Makanannya juga enak, terjangkau, pelayanannya juga baik, ramah dan cepat dabest deh JA66AD Coffe & Co",positif,positif,positif,3,positif,sepakat_semua
+167,427,harga,harga,Crombolinua enak sesuai sih sama harganya cmn agak kecewa sama minumannya,positif,netral,netral,3,netral,mayoritas
+4003,9684,harga,harga,"Minuman standard, foodnya limited, harga sesuai",positif,netral,positif,3,positif,mayoritas
+15048,36998,harga,"harga, kantong","Kopi dan makanannya juga enak-enak, dan harganya tidak bikin kantong bolong",positif,positif,positif,3,positif,sepakat_semua
+49968,117550,harga,"harga, kantong","Tempatnya nyaman, menu variatif, dan harga oke banget di kantong plus free wifi",positif,positif,positif,3,positif,sepakat_semua
+56731,132189,harga,harga,Tempatnya luas ramai nyaman kalau buat nongkrong santai harga merakyat jangan lupa mampir pokoknya,positif,positif,positif,3,positif,sepakat_semua
+15151,37177,harga,"harga, terjangkau",Harga terjangkau,positif,positif,positif,3,positif,sepakat_semua
+38468,92921,harga,murah,Makanan enak dan murah,positif,positif,positif,3,positif,sepakat_semua
+18099,43973,harga,"harga, terjangkau","enak banget, harga terjangkau semua",positif,positif,positif,3,positif,sepakat_semua
+47609,113100,harga,harga,"kopinya enak banget harga ramah dikantong, sukses selalu madame",positif,positif,positif,3,positif,sepakat_semua
+57330,133475,harga,"harga, terjangkau",Makanan dan minumannya enak dengan harga terjangkau cocok untuk anak kuliahan dan pekerja kantoran,positif,positif,positif,3,positif,sepakat_semua
+52246,122385,harga,"harga, terjangkau","Aq kasi bintang lima ,sukaa makanannya harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+13137,32548,harga,"harga, terjangkau","Tempat nyaman, wifi cepat, harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+35796,86498,harga,"harga, murah","Harga murah, nuansa mewah",positif,positif,positif,3,positif,sepakat_semua
+3570,8621,harga,harga,Harga standart coffe shop,positif,netral,positif,3,positif,mayoritas
+49048,115632,harga,murah,"andalan kalau lagi butuh place buat zoom atau meeting karena punya workspace, murah dan enak",positif,positif,positif,3,positif,sepakat_semua
+26435,62917,harga,harga,"Harga bersahabat, porsi bikin kenyang, rasa oke, tempatnya bagus, recommended deh",positif,positif,positif,3,positif,sepakat_semua
+32504,78476,harga,harga,Untuk harga normal,positif,netral,positif,3,positif,mayoritas
+14405,35474,harga,harga,"pelayanannya okee mbak/masnya ramah, untuk harga menunya juga ramah dikantong parkirannya luas dan ada bapak parkir yang ngerapihin begitu jadi tidak berantakan",positif,positif,positif,3,positif,sepakat_semua
+23023,55771,harga,harga,Untuk harga standard kafe lah,positif,netral,positif,3,positif,mayoritas
+20787,50430,harga,"affordable, harga","Admin ramah, makanan enak enak, harganya affordable banget, recommended buat nugas bareng teman",positif,positif,positif,3,positif,sepakat_semua
+14130,34803,harga,"harga, terjangkau","Makanannya enak, harganya cukup terjangkau dengan suasana yang nyaman",positif,positif,positif,3,positif,sepakat_semua
+21354,51686,harga,harga,harga pelajar,positif,netral,positif,3,positif,mayoritas
+24537,58467,harga,harga,"kafe favorit, harga bersahabat",positif,netral,positif,3,positif,mayoritas
+3541,8571,harga,harga,"sebenernya tempatnya nyaman untuk nongkrong,rasa kopi susunya oke juga,tapi milkshakenya kurang one agak kemanisan - kurang soft rasanya dengan harga 20rb+,untuk makanan standar ya, tidak special",positif,netral,netral,3,netral,mayoritas
+32506,78480,harga,"harga, murah","Menu makanan ckp variatif harga murah , suasana dan penataan tempat baik",positif,positif,positif,3,positif,sepakat_semua
+33554,80869,harga,"harga, terjangkau","kafe loko didekat stasiun yang recommended untuk di cobain, aku pesan nasi goreng teri, enak rasanya, sama pesan milk tea, oke rasanya, harga terjangkau, nuansa kafenya ok untuk menunggu kereta datang juga",positif,positif,positif,3,positif,sepakat_semua
+28878,69218,harga,harga,Harga masyarakat,positif,netral,positif,3,positif,mayoritas
+45139,108033,harga,"harga, terjangkau","Tempatnya nyaman, pelayannya ramah, harganya juga terjangkau, makanannya enak, tidak nyesel deh datang ke sini",positif,positif,positif,3,positif,sepakat_semua
+18041,43810,harga,harga,"Rasa masakan lumayan, harga standart",positif,netral,positif,3,positif,mayoritas
+30764,73368,harga,harga,Harga kompetitif,positif,netral,positif,3,positif,mayoritas
+16702,40617,harga,murah,"Makanan & minumannya murah murah, cuma hati-hati saja buat yang kurang suka tempat panas, datangnya pas malem saja, biar lebih adem",positif,netral,positif,3,positif,mayoritas
+28672,68744,harga,"harga, murah",Makanan rasa oke dengan harganya yang tergolong murah untuk kelas kafe,positif,positif,positif,3,positif,sepakat_semua
+12271,30442,harga,murah,"tapi puas banget, makmin murah, pelayanannya baik dan ramah, walaupun letak di tengah kampung",positif,positif,positif,3,positif,sepakat_semua
+54844,127519,harga,harga,"Bagus banget buat anak anak hits nih foto foto biar bisa post di sosial media, makanan dan minumannya juga enak harganya juga terjangakau",positif,positif,positif,3,positif,sepakat_semua
+43077,103384,harga,"harga, terjangkau","Tempat ngopi harga terjangkau , rasanya juara",positif,netral,positif,3,positif,mayoritas
+43795,105023,harga,"harga, murmer",Harganya juga murmer,positif,netral,positif,3,positif,mayoritas
+13641,33833,harga,"harga, terjangkau","Cozy & tertata rapi karena datang saat bulan puasa, siang² tidak terlalu ramai Harga minum & snack masih terjangkau Para staff harus lebih informatif jika ditanyain sesuatu",positif,positif,positif,3,positif,sepakat_semua
+46284,110368,harga,"harga, kantong",minumannya enak enak dan harganya ramah di kantong,positif,positif,positif,3,positif,sepakat_semua
+21842,52851,harga,"harga, terjangkau","Harganya terjangkau dan bukan hanya kopi, ada juga makanan",positif,netral,positif,3,positif,mayoritas
+1971,4945,harga,"harga, terjangkau","Tempat Ternyaman untuk #kopipagibor Dengan makanan yang enak dan harga terjangkau, cocok untuk sendiri atau pun bersama teman dan keluarga",positif,positif,positif,3,positif,sepakat_semua
+3543,8572,harga,harga,"tapi masih layak dikonsumsi dan harganya juga masih wajar,es krimnya kurang worth banget karena buat harga 25rb terkesan ala kadarnya",positif,netral,positif,3,positif,mayoritas
+31113,74315,harga,harga,"Tempat favoritku di pagi hari Makanannya enak dengan harga normal, canai gula atau kari sangat lezat",positif,netral,positif,3,positif,mayoritas
+14238,35107,harga,worth_it,"Worth it banget buat acara acara kumpul kumpul, makanannya enak, pelayanan ramah siip",positif,positif,positif,3,positif,sepakat_semua
+28807,69043,harga,murah,"Enak rasanya, tempat nyaman & murah",positif,positif,positif,3,positif,sepakat_semua
+52764,123691,harga,harga,Harga lumayan,positif,netral,netral,3,netral,mayoritas
+26966,64124,harga,"harga, kantong","Enak banget makanannya, harganya pas banget di kantong mahasiswa, dan tempatnya juga nyaman banget",positif,positif,positif,3,positif,sepakat_semua
+44101,105785,harga,murah,murah pol,positif,netral,positif,3,positif,mayoritas
+11467,28359,harga,harga,"Kemarin ke sini buat beli minuman saja karena pas itu kebetulan nongkrong untuk belajar bareng, untuk harga standar dengan kafe pada umumnya",positif,positif,positif,3,positif,sepakat_semua
+26104,61977,harga,harga,Harga masuk akal,positif,netral,positif,3,positif,mayoritas
+2943,7101,harga,harga,"Tempat nyaman, wifi kencang, harga makanan standar, cocok buat nugas/kerja",positif,positif,positif,3,positif,sepakat_semua
+20494,49802,harga,"harga, terjangkau","24 jam, harga terjangkau banget, bersih, luas, area smoking terpisah, wifi kurang kenceng bisa diperbaiki ini sih",positif,positif,positif,3,positif,sepakat_semua
+28497,68281,pelayanan,pelayanan,"pelayanan tidak banget, sekadar pesan air mineral saja harus menunggu untuk di ambil, sudah 15 menit an lebih juga belum bunyi, sbeelumnya pesan kopi dan lain lain juga lama, tolong di evaluasi lagi",negatif,negatif,positif,3,negatif,mayoritas
+5624,13085,pelayanan,kasir,"tapi ada pengalaman tidak enak waktu saya ke sana , ada mba mba di kasir ngelayanin saya beli kopi",negatif,negatif,positif,3,negatif,mayoritas
+46517,110884,pelayanan,"kasir, ramah",tapi bagian kasir aga di perbaiki ya ramah dikit,negatif,negatif,positif,3,negatif,mayoritas
+7021,16263,pelayanan,pelayanan,Makanan rasanya biasa saja dan cukup dikasih bintang 1 buat rasanya dan pelayanannya,negatif,negatif,positif,3,negatif,mayoritas
+27822,66361,pelayanan,"barista, pelayanan",Pelayanan buruk cetus banget baristanya Barista tidak ada yang senyum sama sekali,negatif,negatif,positif,3,negatif,mayoritas
+20619,50080,pelayanan,barista,"Kemarin tidak sengaja lewat di beranda akun media sosial, oknum barista kafe ini sedang melakukan live streaming di tempat kerja sambil diam-diam mengonsumsi minuman beralkohol",negatif,negatif,positif,3,negatif,mayoritas
+5947,13790,pelayanan,"pelayanan, ramah",tapi sangat disayangkan pelayanan mbak kasirnya sangat tidak ramah,negatif,negatif,positif,3,negatif,mayoritas
+34756,84054,pelayanan,ramah,staffnya tidak ramah (mbak mbak kacamata yang ada di ruangan antara tangga dan smoking indoor),negatif,negatif,positif,3,negatif,mayoritas
+48929,115347,pelayanan,karyawan,Karyawan ne klowor,negatif,negatif,negatif,3,negatif,sepakat_semua
+55610,129438,pelayanan,"pelayanan, sigap","tapi sayang karyawanya kurang sigap ketika customer cari tempat duduk kursi basah tidak di bersihkan, meja basah, pesan snack hanya di beri 1 harus di ingatkan lagi dan menunggu lama, tolong owner di training lagi untuk pelayanan",negatif,negatif,negatif,3,negatif,sepakat_semua
+13876,34256,pelayanan,service,"Pertama msuk langsung kena asap rokok karena depannya ternyata smoking room juga, kasian yang bayi, untuk self service sih agak pricey , byar qris kena rounding wkwk",negatif,negatif,negatif,3,negatif,sepakat_semua
+29215,70066,pelayanan,"pelayan, pelayanan, ramah","Pelayanan lambat, pelayan tidak ramah, daftar harga tidak diperbarui",negatif,negatif,negatif,3,negatif,sepakat_semua
+15028,36960,pelayanan,pelayanan,tapi sayang pelayanan sangat buruk sekali,negatif,negatif,negatif,3,negatif,sepakat_semua
+56524,131691,pelayanan,pelayanan,Tapi sayang pelayanannya sangat sangat lama banget,negatif,negatif,negatif,3,negatif,sepakat_semua
+7388,17304,pelayanan,staff,"Staff juga tidak atentif, anti kritik, dapur bilang ini matang",negatif,negatif,negatif,3,negatif,sepakat_semua
+41657,100288,pelayanan,pelayanan,Pelayanan tidak memuaskan,negatif,negatif,negatif,3,negatif,sepakat_semua
+27048,64254,pelayanan,"judes, pelayan, pelayanan",Pelayanan sangat judes(pelayan wanitanya) minumannya terlalu manis,negatif,negatif,negatif,3,negatif,sepakat_semua
+40178,96798,pelayanan,pelayanan,Kecewa banget sama pelayanannya,negatif,negatif,negatif,3,negatif,sepakat_semua
+35679,86227,pelayanan,pelayanan,"pelayanannya kurang memuaskan , pesan makanan tidak di antar, setelah menunggu 2 jam",negatif,negatif,negatif,3,negatif,sepakat_semua
+56729,132181,pelayanan,ramah,"Makanan datangnya lama, pelanyanya tidak ramah , pesan duluan",negatif,negatif,negatif,3,negatif,sepakat_semua
+34751,84045,pelayanan,"jutek, pelayanan",pelayanannya JELEK BANGET & workernya jutek jutek mampuss,negatif,negatif,negatif,3,negatif,sepakat_semua
+41212,99270,pelayanan,pelayanan,pelayanan lama sekali pdhal beli cuma es 1 pcs saja,negatif,negatif,negatif,3,negatif,sepakat_semua
+39297,94908,pelayanan,"pelayanan, ramah","menunggu lama 2 jam ,Pelayanan Tidak Ramah ,sudah ditunggu malah lupa sama pesanan Tidak recommended di sini pegawainya tidak professional dan tidak niat kerja",negatif,negatif,negatif,3,negatif,sepakat_semua
+28053,67054,pelayanan,staf,"hati hati yang mau main ke kafe ini agar menjaga barang bawaannya, tadi sore saya main ke kafe ini dan setelah pulang helm saya hilang dan staf kafenya bodoamat atas hilangnya helm saya, tolong ditingkatkan lagi untuk keamannya",negatif,negatif,negatif,3,negatif,sepakat_semua
+26074,61885,pelayanan,jutek,KASIRNYA YANG CEWEK JUTEK BANGET DI TANYA CUMA NGANGGUK saja tidak di jawab ngmng dri awal beli sampai psen lagi mukanya judess cuek banget,negatif,negatif,negatif,3,negatif,sepakat_semua
+19022,46448,pelayanan,service,Konsep self service ra masuk belas,negatif,negatif,negatif,3,negatif,sepakat_semua
+1592,4205,pelayanan,"pelayanan, ramah","Tolong pelayanan ke cust lebih ramah lagi ya kak, kemarin sabtu sudah sampai sana",negatif,negatif,negatif,3,negatif,sepakat_semua
+31014,74029,pelayanan,pelayanan,"Orderan online proses lama poll Orderan cuma 1 item menunggu hampir 1jam, Posisi resto tidak ada pembeli, Di perbaiki pelayanannya",negatif,negatif,negatif,3,negatif,sepakat_semua
+54247,126239,pelayanan,pelayanan,Pelayanan terlalu lama banget,negatif,negatif,negatif,3,negatif,sepakat_semua
+7020,16262,pelayanan,"pelayanan, ramah","pelayanannya kurang ramah buat kasirnya, dan waktu dipanggil buat ambil minumannya juga kurang enak kurleb bilang ""woy"" ke customernya",negatif,negatif,negatif,3,negatif,sepakat_semua
+1833,4654,pelayanan,kasir,Itupun harus nyamperin kasir sampai 2x,negatif,negatif,negatif,3,negatif,sepakat_semua
+49168,115855,pelayanan,"pelayanan, ramah",Pelayanan buruk dan tidak ramah sama sekali,negatif,negatif,negatif,3,negatif,sepakat_semua
+26920,64026,pelayanan,pelayanan,"tetapi untuk ketepatan pelayanan bisa di tingkatkan lagi, soalnya tadi saya pesan nasi goreng tidak pedas",negatif,negatif,negatif,3,negatif,sepakat_semua
+54081,125916,pelayanan,pelayanan,dari makanan dan pelayanan tidak recommended banget,negatif,negatif,negatif,3,negatif,sepakat_semua
+44314,106268,pelayanan,jutek,Jutek banget,negatif,negatif,negatif,3,negatif,sepakat_semua
+55969,130411,pelayanan,"pelayan, pelayanan, responsif","Pengalaman berkunjung kemari untuk tempat cukup nyaman dan bersih, pelayanan kurang jika menurut saya karena pelayan kurang responsif",negatif,netral,negatif,3,negatif,mayoritas
+4449,10604,pelayanan,ramah,kasirnya tidak ramah,negatif,negatif,negatif,3,negatif,sepakat_semua
+10520,25780,pelayanan,barista,Barista tidak paham manner Menjengkelkan,negatif,negatif,negatif,3,negatif,sepakat_semua
+41173,99119,pelayanan,pelayanan,"sumpah sudah pelayanan lelet, pesan lewat ojol menunggu sejam lebih tidak sesuai ekspektasi pas datang, pas nyampe minuman takaran tidak samaa, kecewa sih",negatif,negatif,negatif,3,negatif,sepakat_semua
+36832,89251,pelayanan,pelayanan,"tapi pelayanannya lama banget, rasanya so so laa",negatif,negatif,negatif,3,negatif,sepakat_semua
+26947,64080,pelayanan,waiter,"Waiter cuma menyarankan pindah setelah didudukin, gatel dan ruam ruam, ketika disenterin kursinya, wow ratusan kutu siap menggigit anda",negatif,negatif,negatif,3,negatif,sepakat_semua
+50310,118348,pelayanan,karyawan,"karyawannya hanya seorang diri, kasihan saat kondisi ramai ngasirin dan buat menu, capek pasti dia dan konsumen menunggu kelamaan, tambah karyawan dong",negatif,negatif,negatif,3,negatif,sepakat_semua
+5926,13729,pelayanan,kasir,"Untung makanan & minumannya enak enak, jadi bisa mengurangi rasa sebal karena antrian order yang panjang, mbokya kalau sudah tahu ramai, tambah kek kasirnya biar customer tuh tidak kelamaan berdiri hanya untuk menunggu order + bayar ke kasir",negatif,negatif,negatif,3,negatif,sepakat_semua
+10510,25735,pelayanan,jutek,"Mba ayu tolong ya servicenya, promo juga bukan dari situ, mana tidak ada maaf tidak ada terima kasih, minum jadi juga ngasih jutek banget sudah ky saya minta situ saja",negatif,negatif,negatif,3,negatif,sepakat_semua
+39156,94579,pelayanan,pelayanan,Tempat enak sih cuma pelayanan kurang memuaskan,negatif,negatif,negatif,3,negatif,sepakat_semua
+23025,55779,pelayanan,pelayan,"baru pertama datang, tidak dikasih tahu prosedur pesannya bgmn, sudah duduk lama tidak juga ada inisiatif dari pelayan untuk ksh tahu bagaimana pesannya, akhirnya harus tanya sendiri baru diksh tahu, pdhal saat itu",negatif,negatif,negatif,3,negatif,sepakat_semua
+38858,93938,pelayanan,service,"Bahkan tidak minta maaf, it’s a 0 for the service",negatif,negatif,negatif,3,negatif,sepakat_semua
+32066,77465,pelayanan,pelayanan,"Tapi sangat disayangkan pelayanannya cukup lama untuk sebuah minuman, apalagi pesan cake untuk di take away yang harusnya cuma tinggal",negatif,negatif,negatif,3,negatif,sepakat_semua
+32252,77842,pelayanan,"karyawan, sopan","Namun sayang, ada karyawan yang kurang sopan dan memperlakukan pelanggan seperti orang yang lagi numpang minum",negatif,negatif,negatif,3,negatif,sepakat_semua
+48760,115114,pelayanan,pelayanan,"pelayanan lama, mau bukber alhasil tidak buka puasa di situ, menunggu beberapa jam akhirnya di kabarin stok ayam habis, slow respond banget, masa mau reservasi di jawab 2 hari kemudian",negatif,negatif,negatif,3,negatif,sepakat_semua
+20430,49659,pelayanan,jutek,Mana pelayannya jutek semua,negatif,negatif,negatif,3,negatif,sepakat_semua
+41607,100193,pelayanan,"pelayan, responsif","Sangat mengecewakan sudah reservasi sampai lokasi tidak ada respon dari pelayan, di tanyapun tidak responsif",negatif,negatif,negatif,3,negatif,sepakat_semua
+7102,16499,pelayanan,pelayanan,tapi maaf pelayanannya kurang tolong diperbaiki,negatif,negatif,negatif,3,negatif,sepakat_semua
+12596,31312,pelayanan,ramah,Maaf min kasirnya yang cowo kurang ramah,negatif,negatif,negatif,3,negatif,sepakat_semua
+55544,129280,pelayanan,"helpful, pelayanan","Indomie sambal matah enak banget si worth it, kalau kopinya standar lah ya, pelayanan bisa ditingkatin lagi karyawannya kurang helpful, kebersihan juga kurang masih ada beberapa spot yang berantakan , tempatnya mungkin bisa di perluas lagi biar makin ok, viewnya cantik banget overall sudah bagus",negatif,netral,negatif,3,negatif,mayoritas
+36904,89417,pelayanan,"pelayanan, ramah",pelayanannya kurang ramah,negatif,negatif,negatif,3,negatif,sepakat_semua
+1450,3793,pelayanan,service,"COFFEESHOP MAKSAIN BUKA YA GINI, bad service banget",negatif,negatif,negatif,3,negatif,sepakat_semua
+13861,34235,pelayanan,service,"antri pesan self service 45 menit, pas mau pesan makanan ternyata closed untuk makanan, akhirnya cuma pesan kopi daan ternyataa harus menunggu sejamm lebih 1 JAM LEBIH",negatif,negatif,negatif,3,negatif,sepakat_semua
+56540,131721,pelayanan,"jutek, kasir",Makanan dan minumannya mahal** dan rasanya b saja dan pelayannya jutek pas ke kasir,negatif,negatif,negatif,3,negatif,sepakat_semua
+54888,127610,pelayanan,pelayanan,"Pelayanan mengecewakan, harga murah",negatif,negatif,negatif,3,negatif,sepakat_semua
+8646,20799,pelayanan,ramah,agak agak kurang ramah waktu pembeli memastikan pesanan yang diantar,negatif,negatif,negatif,3,negatif,sepakat_semua
+3390,8173,pelayanan,pelayanan,pelayanannya mengecewakan,negatif,negatif,negatif,3,negatif,sepakat_semua
+36328,88044,pelayanan,karyawan,Tapi karyawan membuat tidak nyaman,negatif,negatif,negatif,3,negatif,sepakat_semua
+52338,122632,pelayanan,ramah,mba uswiyat minimal ramah dikit kalau ngelayanin,negatif,negatif,negatif,3,negatif,sepakat_semua
+25264,60021,pelayanan,"pelayanan, ramah, staff","Pelayanan tidak ramah terutama staff wanita, datang langsung taruh makanan langsung pergi",negatif,negatif,negatif,3,negatif,sepakat_semua
+22353,54205,pelayanan,sopan,“diusir dengan cara yang sopan”,negatif,negatif,negatif,3,negatif,sepakat_semua
+12157,30163,pelayanan,pelayanan,"pelayanan lama banget, hati hati yang ke sini",negatif,negatif,negatif,3,negatif,sepakat_semua
+38340,92637,pelayanan,"kasir, ramah",tapi pelayannya (terutama kasir) tidak ada yang ramah,negatif,negatif,negatif,3,negatif,sepakat_semua
+20862,50593,pelayanan,pelayanan,"36 makanan belum ada yang datang satupun, pelayanan lelet banget",negatif,negatif,negatif,3,negatif,sepakat_semua
+4507,10751,pelayanan,pelayanan,tlg di tingkatkan pelayanannya,negatif,negatif,negatif,3,negatif,sepakat_semua
+41076,98863,pelayanan,karyawan,tapi tolong untuk karyawan yang perempuan lebih diperhatikan lagi ya sikapnya,negatif,negatif,negatif,3,negatif,sepakat_semua
+20927,50730,pelayanan,pelayanan,"dapurnya kotor, pelayanannya lambat, orang orang dapurnya tidak beres, pada minum minum",negatif,negatif,negatif,3,negatif,sepakat_semua
+40175,96794,pelayanan,sopan,"Untuk pakaian pelayannya menurut saya agak kurang sopan sich, yang perempuan pakai celana pendek ada yang pendek banget, bgitu ngirim makanan (kbtulan kami lesehan) otomatis dia jongkok, kira kira sopan tidak ya penampakannya",negatif,negatif,negatif,3,negatif,sepakat_semua
+41041,98783,pelayanan,pelayanan,"Mohon maaf kasih bintang 1, karena pelayanannya kurang baik",negatif,negatif,negatif,3,negatif,sepakat_semua
+16601,40398,pelayanan,service,"Management kafe dan admin perlu dibenerin lagi, biar kata admin sama yang di kafe tidak beda beda :) for service",negatif,negatif,negatif,3,negatif,sepakat_semua
+14752,36379,pelayanan,"pelayanan, ramah","Untuk makanannya big no,pelayanan juga kurang ramah,sangat kecewa jauh jauh dari solo sangat mengecewakan",negatif,negatif,negatif,3,negatif,sepakat_semua
+10344,25276,pelayanan,pelayanan,Cukup kecewa dengan pelayanan yang lama dan kurang baik,negatif,negatif,negatif,3,negatif,sepakat_semua
+30050,71790,pelayanan,pelayanan,"PELAYANAN BURUK, PEMBOHONG",negatif,negatif,negatif,3,negatif,sepakat_semua
+20713,50270,pelayanan,"jutek, pelayanan",tapi pelayanan kasirnya agak jutek,negatif,negatif,negatif,3,negatif,sepakat_semua
+58520,136099,pelayanan,"pegawai, sigap",sayang pegawai yang kurang sigap saat kondisi ramai,negatif,negatif,negatif,3,negatif,sepakat_semua
+4419,10536,pelayanan,"kasir, pegawai, ramah","tapi presentasinya kurang banget, tahu cabe garam enak, pegawai kurang ramah dan tidak tersenyum, product knowledge kasir kurang, parkiran cukup luas",negatif,negatif,negatif,3,negatif,sepakat_semua
+7300,17049,pelayanan,pelayanan,pelayanannya jelek,negatif,negatif,negatif,3,negatif,sepakat_semua
+4466,10656,pelayanan,ramah,"bisa bisanya pesenannya kelewat gadibuat padahal kondisi tidak ramai cs, giliran ditanya malah bingung sendiri dan terkesan tidak ramah, bahkan minta maaf pun tidak",negatif,negatif,negatif,3,negatif,sepakat_semua
+44149,105893,pelayanan,barista,Beberapa barista yang ok,netral,netral,negatif,3,netral,mayoritas
+13738,34001,pelayanan,pelayanan,Pelayanan oke,netral,positif,positif,3,positif,mayoritas
+51053,120010,pelayanan,pelayanan,"Bagus suasananya saja, next ditingkatkan kualitas pelayanan makanan",netral,netral,positif,3,netral,mayoritas
+6585,15270,pelayanan,service,"Ada service charge padahal self service, kalau siang panas ac tidak kerasa, lantainya plesteran plusnya wifi myan cpet",netral,negatif,negatif,3,negatif,mayoritas
+11032,27234,pelayanan,ramah,"cuma lokasi kurang ramah untuk difabel, karena lokasinya naik tangga",netral,negatif,negatif,3,negatif,mayoritas
+36132,87242,pelayanan,pelayanan,Terima kasih atas pelayanannya,netral,negatif,negatif,3,negatif,mayoritas
+18837,45948,pelayanan,"barista, karyawan, kasir","punya momen jelek pas ngopi di indoor space 1x sama teman 1x sama pasangan, ketika keluar pintu banyak karyawan grombol di meja kasir or barista",netral,negatif,negatif,3,negatif,mayoritas
+31032,74084,pelayanan,waiter,Tapi nanti dilihatkan gambarnya oleh waiter,netral,negatif,negatif,3,negatif,mayoritas
+18938,46247,pelayanan,kasir,"Pertama datang sih Pesan americano hot last sugar Dari kasir bilang ""pakai es ya kak""",netral,negatif,negatif,3,negatif,mayoritas
+20581,49998,pelayanan,service,Self service,netral,netral,negatif,3,netral,mayoritas
+54031,125794,pelayanan,ramah,Terus ramah muslim juga ada mushola,netral,positif,positif,3,positif,mayoritas
+46202,110218,pelayanan,barista,"aku mau saran saja ya, pintu kamar mandi cewe di cek/dibenerin, kemarin banget 14/10/26 aku lagi buang air pintunya kebuka sama baristanya (barista gatau ada orang) pintunya sudah aku tutup dorong sesuai tulisan yang nempel di pintu dan aku kunci, sempet",netral,negatif,netral,3,netral,mayoritas
+47128,112182,pelayanan,waitress,tapi ada juga mbak mbak waitress,netral,negatif,netral,3,netral,mayoritas
+30588,73028,pelayanan,kasir,harus lsg byr di kasir,netral,negatif,netral,3,netral,mayoritas
+47705,113324,pelayanan,kasir,"Pas di kasir minta dada tidak ada, bilangnya semua paha atas, pas datang paha bawah",netral,negatif,negatif,3,negatif,mayoritas
+36193,87440,pelayanan,barista,"Kopinya manteb manteb, valuenya cakep, barista + roasterynya jadi satu sehingga paham banget sama produk dan latar balakang kopinya, mantap",netral,positif,positif,3,positif,mayoritas
+14675,36189,pelayanan,"kasir, pegawai, ramah","diantara belasan pegawai cuma 1 kasir dan 1 server yang ramah (semua cowo, yang cewe rumpi semua) 2",netral,netral,negatif,3,netral,mayoritas
+30278,72382,pelayanan,kasir,Kalau mau kasih snack bisa beli di kasir,netral,netral,positif,3,netral,mayoritas
+47063,112035,pelayanan,ramah,"kopi nako cabang candi ini ambiencenya cozy banget apalagi buat nugas lama lama, parkirnya luas, mushollanya nyaman dan bersih, indoornya juga dingin, mas-masnya lucu lucu dan ramah-ramah, wifinya juga oke banget",positif,positif,positif,3,positif,sepakat_semua
+44753,107239,pelayanan,pelayanan,untuk pelayanan minum cepat,positif,positif,positif,3,positif,sepakat_semua
+45841,109434,pelayanan,"pelayanan, ramah","Alhamdulillah makanan dan minuman enak enak, pelayanan baik dan ramah, suasana nyaman, tempat ibadah musholanya bersih, kamar mandi bersih cmn tempat sampah yang dibawah wastafel penempatannya terlalu ke dalam jadi tisuenya berjatuhan",positif,positif,positif,3,positif,sepakat_semua
+6127,14284,pelayanan,pelayanan,"minuman dan makanan oke, pelayanan juga bagus",positif,positif,positif,3,positif,sepakat_semua
+13643,33833,pelayanan,"informatif, staff","Cozy & tertata rapi karena datang saat bulan puasa, siang² tidak terlalu ramai Harga minum & snack masih terjangkau Para staff harus lebih informatif jika ditanyain sesuatu",positif,positif,positif,3,positif,sepakat_semua
+21633,52345,pelayanan,pelayanan,Pelayanan mantap ok,positif,positif,positif,3,positif,sepakat_semua
+32947,79600,pelayanan,"pelayanan, ramah","Posin Bakery & kafe, tempatnya nyaman, makanan enak², bakerynya juga enak, tempat parkir mudah, pelayanan Waiters yang ramah",positif,positif,positif,3,positif,sepakat_semua
+21687,52470,pelayanan,pelayanan,Baguss pelayanannya,positif,positif,positif,3,positif,sepakat_semua
+15873,38769,pelayanan,friendly,"Comfortable place banget buat sekadar ngopi, ngadem, dan workplace friendly",positif,positif,positif,3,positif,sepakat_semua
+17449,42293,pelayanan,pelayanan,Pelayanan baik,positif,positif,positif,3,positif,sepakat_semua
+5290,12374,pelayanan,"pelayanan, ramah, responsif","Suka banget sama pelayanannya, ramah dan responsif banget",positif,positif,positif,3,positif,sepakat_semua
+14724,36304,pelayanan,"pelayanan, ramah","Variasi menu sedikit , pelayanan lumayan ramah",positif,positif,positif,3,positif,sepakat_semua
+13178,32649,pelayanan,pelayanan,"first time mampir ke sini, pelayanannya oke banget",positif,positif,positif,3,positif,sepakat_semua
+1921,4824,pelayanan,pelayanan,Aku suka suasana di sana dan pelayanannya sangat bagus,positif,positif,positif,3,positif,sepakat_semua
+47497,112793,pelayanan,kasir,Tersedia juga free drink untuk pengunjung di dekat meja kasir,positif,positif,positif,3,positif,sepakat_semua
+54481,126761,pelayanan,cekatan,"Makanan oke minuman oke, bisa datang ramai ramai pegawainya cekatan untuk carikan tempat",positif,positif,positif,3,positif,sepakat_semua
+7622,17993,pelayanan,pelayanan,"Pelayanan : dari mulai tukang parkir, waiters, helpfull smuanya",positif,positif,positif,3,positif,sepakat_semua
+54277,126338,pelayanan,pelayanan,pelayanannya sangat membantu sekali bagi aku yang gaptek,positif,positif,positif,3,positif,sepakat_semua
+15947,38944,pelayanan,"pelayanan, ramah",Coffe shop ter recommended sih inii Temptanya nyaman pelayanannya ramah Kopinya dabes,positif,positif,positif,3,positif,sepakat_semua
+17487,42427,pelayanan,barista,"selebihnya oke, barista oke, sambutan oke, AC oke, musik oke, wifi 5g kenceng",positif,positif,positif,3,positif,sepakat_semua
+697,1749,pelayanan,"pelayanan, ramah",Makanannya enak enak pelayanannya ramah,positif,positif,positif,3,positif,sepakat_semua
+49546,116619,pelayanan,pelayanan,Bukber ke sini tempat dideket tikungan makanan lumayan enak pelayanan ok,positif,positif,positif,3,positif,sepakat_semua
+50584,118995,pelayanan,ramah,"Manual brewnya enak, baristanya ramah banget",positif,positif,positif,3,positif,sepakat_semua
+29657,70974,pelayanan,pelayanan,Pelayanan cepat,positif,positif,positif,3,positif,sepakat_semua
+37554,90993,pelayanan,"pelayanan, ramah",pelayanannya ramah,positif,positif,positif,3,positif,sepakat_semua
+23648,56859,pelayanan,pelayanan,"tempat nyaman buat nongki, nugas dan lain lain pelayanannya juga sat set menunya juga cepet tidak menunggu lama",positif,positif,positif,3,positif,sepakat_semua
+34350,82990,pelayanan,"pelayanan, ramah","pelayanannya juga ramah, wajib ke sini kalau ke kota lama semarang",positif,positif,positif,3,positif,sepakat_semua
+51116,120144,pelayanan,"pelayanan, ramah","pelayanannya ramah kak dhioreza ramah banget, saya senang sekali",positif,positif,positif,3,positif,sepakat_semua
+43787,104994,pelayanan,service,all good service,positif,positif,positif,3,positif,sepakat_semua
+9782,23748,pelayanan,pelayanan,"Pelayanan baik, harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+11952,29593,pelayanan,"pelayanan, ramah",pelayanannya baik dan ramah,positif,positif,positif,3,positif,sepakat_semua
+54914,127670,pelayanan,pelayanan,"Keren, pelayanan cepat sabar",positif,positif,positif,3,positif,sepakat_semua
+41333,99550,pelayanan,ramah,"Ownernya ramah banget,welcome sampai bantu natain tempat parkir(berhub ke sini lagi renov), terima kasih Om",positif,positif,positif,3,positif,sepakat_semua
+4893,11737,pelayanan,service,The service was superb,positif,positif,positif,3,positif,sepakat_semua
+37078,89894,pelayanan,pelayanan,Pelayanan oke sih,positif,positif,positif,3,positif,sepakat_semua
+12454,30940,pelayanan,ramah,"Suasana tenang, pagawai ramah , cold brew berrynya mantap, cocok buat nongkrong ataupun meeting",positif,positif,positif,3,positif,sepakat_semua
+54252,126254,pelayanan,layanan,layanan baik,positif,positif,positif,3,positif,sepakat_semua
+48526,114737,pelayanan,pelayanan,"makanannya enak banget, pelayanannya juga oke, atmosfer suasananya juga ngedukung banget buat nongkrong atau belajarr",positif,positif,positif,3,positif,sepakat_semua
+34848,84273,pelayanan,pelayanan,"Makanan enak oke , free playground untuk min pembelian 30rb , suasana nyaman, pelayanannya kak raya baik",positif,positif,positif,3,positif,sepakat_semua
+43001,103207,pelayanan,ramah,Baristanya ramah ramah,positif,positif,positif,3,positif,sepakat_semua
+38685,93475,pelayanan,pelayanan,"Tempatnya nyaman, bersih, dan pelayanannya oke",positif,positif,positif,3,positif,sepakat_semua
+243,632,pelayanan,pelayanan,"Harganya standar, pelayanan memuaskan",positif,positif,positif,3,positif,sepakat_semua
+51219,120407,pelayanan,"pelayanan, ramah",pelayanannya ramah,positif,positif,positif,3,positif,sepakat_semua
+43930,105341,pelayanan,pelayanan,Kopi + pelayanannya top,positif,positif,positif,3,positif,sepakat_semua
+45033,107825,pelayanan,"pelayanan, ramah","Tempatnya enak, nyaman, cocok buat nongkrong sama teman, ada indoor outdoor, waitersnya juga ramah sama pelayanannya ramah",positif,positif,positif,3,positif,sepakat_semua
+1387,3598,pelayanan,pelayanan,"Direkom teman untuk ke sini dan memang enak banget, kopinya mantap, cakenya juga, pelayanannya juga mantap pol",positif,positif,positif,3,positif,sepakat_semua
+56182,130977,pelayanan,ramah,"pelayannya ramah, ambiencenya",positif,positif,positif,3,positif,sepakat_semua
+5445,12732,pelayanan,"pelayanan, ramah",tempatnya nyaman buat nongkrong & pelayanan cukup cepat baik & ramah,positif,positif,positif,3,positif,sepakat_semua
+15403,37754,pelayanan,"pelayanan, ramah",pelayanan ramah,positif,positif,positif,3,positif,sepakat_semua
+7081,16448,pelayanan,pelayanan,Suasana dan pelayanan mba ya oke,positif,positif,positif,3,positif,sepakat_semua
+13955,34437,pelayanan,"pelayanan, servis","pelayanan dan servis sangat memuaskan, ingin kembali ke sana",positif,positif,positif,3,positif,sepakat_semua
+5867,13570,pelayanan,ramah,baristanya ramah ramah,positif,positif,positif,3,positif,sepakat_semua
+1897,4766,pelayanan,"pelayanan, ramah","tempatnya cozy, pelayanan ramah, makanan enak, dan parkir tidak susah",positif,positif,positif,3,positif,sepakat_semua
+12993,32215,pelayanan,pelayanan,pelayanan oke banget 11/10,positif,positif,positif,3,positif,sepakat_semua
+40769,98122,pelayanan,"pelayanan, ramah","nyaman banget buat nongki gais menunya super enak, pelayanannya super ramah",positif,positif,positif,3,positif,sepakat_semua
+29699,71074,pelayanan,pelayanan,"pelayanannya oke banget, sama minuman enak overall recommended",positif,positif,positif,3,positif,sepakat_semua
+42540,101995,pelayanan,pelayanan,"mas ikhsan keren, pelayanannya manyap dan baik banget",positif,positif,positif,3,positif,sepakat_semua
+8876,21563,pelayanan,ramah,"Baristanya ramah, kopinya enak",positif,positif,positif,3,positif,sepakat_semua
+54347,126466,pelayanan,ramah,karyawannya sangat ceria ramah baik hati,positif,positif,positif,3,positif,sepakat_semua
+44150,105898,pelayanan,barista,"sekadar ngopi, sambil ngobrol ringan dengan owner atau barista",positif,netral,positif,3,positif,mayoritas
+50847,119599,pelayanan,"pelayanan, ramah",pelayanannya juga sangat ramah,positif,positif,positif,3,positif,sepakat_semua
+35670,86199,pelayanan,"ramah, staff","Luas banget yah lokasi maupun parkiranya dan ada macem macem pilihan indoor outdoor, staff ramah komunikatif dan jumlahnya banyak",positif,positif,positif,3,positif,sepakat_semua
+23730,56972,pelayanan,pelayanan,Sistem pelayanannya oke banget,positif,positif,positif,3,positif,sepakat_semua
+4568,10891,pelayanan,"pelayanan, ramah",Pelayanan ramah,positif,positif,positif,3,positif,sepakat_semua
+24004,57558,pelayanan,"pelayanan, ramah","tapi overall pelayanan ok,waiternya ramah dan gercep buat bersihin meja meja yang sudah ditinggal customernya",positif,positif,positif,3,positif,sepakat_semua
+29989,71711,pelayanan,"pelayanan, ramah","Tempat nyaman, pelayanan cepat, kopi enak, baristanya juga ramah, yang paling penting parkirnya gratis",positif,positif,positif,3,positif,sepakat_semua
+47668,113236,pelayanan,layanan,Makanan : Standard kafe Harga : Terjangkau Layanan : baik,positif,positif,positif,3,positif,sepakat_semua
+14805,36492,pelayanan,"pelayanan, ramah",Tempat sangat luas dan yang terpenting pelayanannya sangat sangat ramah,positif,positif,positif,3,positif,sepakat_semua
+7723,18200,pelayanan,pelayanan,"Kopi yang enak, dekorasi yang indah, produk yang bagus, dan pelayanan yang baik",positif,positif,positif,3,positif,sepakat_semua
+51573,121184,pelayanan,"pelayanan, ramah",Selain masakannya yang enak pelayanannya juga ramah sekali,positif,positif,positif,3,positif,sepakat_semua
+6471,14994,pelayanan,ramah,ngkohnya ramah,positif,positif,positif,3,positif,sepakat_semua
+15209,37312,pelayanan,ramah,"tempatnya nyaman, minumannya enak, makanannya enak, sepi, asyik buat wfc, pelaynannya super ramah",positif,positif,positif,3,positif,sepakat_semua
+29669,70995,pelayanan,"pelayan, ramah","Baru datang disambut dengan baik pelayan sangat ramah Tempat luas, estetik, pilihan menu banyak dan pastinya rasanya juga enak",positif,positif,positif,3,positif,sepakat_semua
+36352,88104,pelayanan,pelayanan,pelayanannya bagus,positif,positif,positif,3,positif,sepakat_semua
+56757,132263,pelayanan,pelayanan,pelayanan bintang lima,positif,positif,positif,3,positif,sepakat_semua
+23979,57505,pelayanan,"pelayanan, ramah","untuk indoornya nyaman, pelayanannya oke banget sumpah mas-masnya ramah semua",positif,positif,positif,3,positif,sepakat_semua
+47350,112548,pelayanan,ramah,"tempatnya luas banget, staffnya juga ramah ramah, bakal ke sini lagii soon",positif,positif,positif,3,positif,sepakat_semua
+53458,124806,pelayanan,"pelayanan, ramah","Tempatnya enak buat nongkrong, makanan dan minuman enak, pelayanannya ramah",positif,positif,positif,3,positif,sepakat_semua
+8920,21717,pelayanan,ramah,"Kopinya enak, para karyawannya ramah",positif,positif,positif,3,positif,sepakat_semua
+41408,99710,pelayanan,"pelayanan, ramah",Pelayanan baik dan ramah,positif,positif,positif,3,positif,sepakat_semua
+36834,89252,pelayanan,"ramah, staff","Tempatnya asyik, staff ramah²,, harga kantongable",positif,positif,positif,3,positif,sepakat_semua
+15025,36953,pelayanan,"pelayanan, ramah",pelayanannya baik ramah² Suasana menyenangkan Rasanya juga enak sekali,positif,positif,positif,3,positif,sepakat_semua
+18192,44177,pelayanan,"pelayanan, ramah",Makanannya enak dan pelayanannya ramah,positif,positif,positif,3,positif,sepakat_semua
+55735,129853,pelayanan,pelayanan,"Overall semuanya bagus dari segi pelayanannya, rasanya juga standar janjiw si",positif,positif,positif,3,positif,sepakat_semua
+46054,109950,pelayanan,"pelayanan, ramah",Pelayanan sangat ramah dan cepat,positif,positif,positif,3,positif,sepakat_semua
+56703,132127,pelayanan,ramah,"Ini menunya, siapa tahu mau lihat² dulu Harganya ramah dikantong mahasiswa Beli mie dokdok, manis banget",positif,positif,positif,3,positif,sepakat_semua
+10285,25121,pelayanan,"pegawai, ramah","Tempat bersih dan nyaman, pegawai ramah, mungkin toilet di lantai 1 saja yang perlu dirapihkan lagi",positif,positif,positif,3,positif,sepakat_semua
+15340,37622,pelayanan,"pelayanan, ramah","Makanannya tidak ada yang fail Croissantnya sih best pelayanannya super cepet, ramah, baristanya humble semua Tempatnya juga cozy parahh, kebersihannya top",positif,positif,positif,3,positif,sepakat_semua
+16746,40697,pelayanan,"pelayanan, ramah","Demi apapun ramah sekali pemiliknya, recommended banget kafe ini, no 1 pelayanannya gaes",positif,positif,positif,3,positif,sepakat_semua
+28430,68097,pelayanan,pelayanan,"Pelayanan memuaskan, Donuts enak",positif,positif,positif,3,positif,sepakat_semua
+51292,120533,pelayanan,"pelayan, pelayanan, ramah","pelayan yang cowo rambut pendek pelayanannya baik dan ramah, harus dinaikan gajinya",positif,positif,positif,3,positif,sepakat_semua
+50425,118605,pelayanan,pelayanan,Pelayanan baik,positif,positif,positif,3,positif,sepakat_semua
+50385,118507,pelayanan,"pelayanan, ramah",kopinya enaak pelayanannya ramah dan oke,positif,positif,positif,3,positif,sepakat_semua
+34086,82104,pelayanan,"informatif, pelayanan, ramah",Tersedia berbagai biji & alat kopi terlengkap Pelayanan ramah sales sangat informatif,positif,positif,positif,3,positif,sepakat_semua
+41898,100939,pelayanan,"ramah, staf","Creamy lattenya enak beut, staf ramah pesenan cpt jadi",positif,positif,positif,3,positif,sepakat_semua
+44249,106133,pelayanan,ramah,"Free wifi juga, karyawannya ramah",positif,positif,positif,3,positif,sepakat_semua
+36194,87459,pelayanan,"barista, friendly",Coffee barnya intimate sekali di temani dengan barista yang sekaligus roaster yang sangat friendly,positif,positif,positif,3,positif,sepakat_semua
+50493,118797,pelayanan,pelayanan,Komplit harga kompetitif pelayanan jos,positif,positif,positif,3,positif,sepakat_semua
+27827,66369,pelayanan,"pelayanan, ramah",Untuk pelayanan ramah,positif,positif,positif,3,positif,sepakat_semua
+5092,12110,pelayanan,"pelayanan, ramah",pelayanan ramah & kopi enak banget,positif,positif,positif,3,positif,sepakat_semua
+36583,88774,pelayanan,"pelayanan, ramah","Tempatnya bagus, Kopinya enak dan pelayanannya ramah",positif,positif,positif,3,positif,sepakat_semua
+30597,73041,pelayanan,ramah,cashier rini ramah,positif,positif,positif,3,positif,sepakat_semua
+55859,130095,pelayanan,service,"Tempatnya dengan view gemerlap kota Semarang, makanan dan minuman enak, good service, pelayannya ramah ramah, harga sangat cocok di kantong mahasiswa",positif,positif,positif,3,positif,sepakat_semua
+31956,77193,pelayanan,pelayanan,Pelayanan yang sangat bagus,positif,positif,positif,3,positif,sepakat_semua
+53139,124296,pelayanan,ramah,"mbak mbak kasirr sama ibu ibu yang bersih bersih baik banget ramah poll, naikin gajinya plis owner yuffee",positif,positif,positif,3,positif,sepakat_semua
+55377,128873,pelayanan,barista,"sudah sering beli di sini,Barista yang jaga tgl 8 agt malam terbaik, rsanya mantep sesuai kerakter fore yang kukenal",positif,positif,positif,3,positif,sepakat_semua
+51513,121052,pelayanan,pelayanan,"Tempatnya cozy dan enak buat ngobrol sama teman dan keluarga, pelayanannya ramah banget pokoknya",positif,positif,positif,3,positif,sepakat_semua
+35665,86176,pelayanan,"pelayanan, ramah",Pelayanan ramah,positif,positif,positif,3,positif,sepakat_semua
+50376,118482,pelayanan,pelayanan,keren banget sih pelayanannya,positif,positif,positif,3,positif,sepakat_semua
+44095,105773,pelayanan,service,"Good Service, makanannya #eumendyul",positif,positif,positif,3,positif,sepakat_semua
+44693,107149,pelayanan,"pelayanan, ramah","suasana sangat nyaman dan tenang, pelayanan juga ramah, bintang lima",positif,positif,positif,3,positif,sepakat_semua
+22700,55045,pelayanan,pelayanan,"Makanannya enak , tempatnya lucu , pelayanan oke banget (sipa)",positif,positif,positif,3,positif,sepakat_semua
+15736,38466,pelayanan,ramah,adem & kopi susu sedjenaknya enak banget baristanya yang namanya Vanka cantik plus ramah banget,positif,positif,positif,3,positif,sepakat_semua
+54382,126550,pelayanan,pelayanan,Pelayanan yang sangat baik,positif,positif,positif,3,positif,sepakat_semua
+45190,108101,pelayanan,"pelayanan, ramah","Tempatnya nyaman ,makanan enak,pelayanannya ramah ramah",positif,positif,positif,3,positif,sepakat_semua
+1928,4844,pelayanan,ramah,Area barnya rapi banget dan stafnya juga ramah,positif,positif,positif,3,positif,sepakat_semua
+12923,32064,pelayanan,pelayanan,"tapi cukup mengenang,, harga murah rasa wah,, pelayanan juga mantap,, kombinasi yang jarang bisa di temukan akhir akhir ini di kawasan Semarang",positif,positif,positif,3,positif,sepakat_semua
+24050,57642,pelayanan,pelayanan,"Pelayanan bagus, makanan enak",positif,positif,positif,3,positif,sepakat_semua
+16028,39103,pelayanan,"pelayanan, ramah","Pelayanan ramah, sayang toiletnya kurang bersih",positif,positif,positif,3,positif,sepakat_semua
+23655,56869,pelayanan,"pelayanan, ramah","makanannya enak whort it buat di datengin, pelayanannya juga cepet dan ramah",positif,positif,positif,3,positif,sepakat_semua
+5261,12328,pelayanan,pelayanan,"pelayanan oke, tempat cozy overall goodd",positif,positif,positif,3,positif,sepakat_semua
+9442,23075,pelayanan,"karyawan, service","Tempat nyaman bersih, semua karyawan melakukan customer service dengan baik & full senyum, makanan dan minuman enak dengan harga yang terjangkau",positif,positif,positif,3,positif,sepakat_semua
+31808,76681,pelayanan,"pelayanan, ramah",pelayanannya ramah tempat cozy cuma yang lntai 2 trllu curam tangganya pas trun pusing sketika hehe dn parkirnya terbatas banget,positif,positif,positif,3,positif,sepakat_semua
+46102,110054,pelayanan,ramah,"baristanya ramah, kopinya enak, paling enak kalau datang pas pagi hari, view rooftopnya cakep banget",positif,positif,positif,3,positif,sepakat_semua
+8465,20218,pelayanan,ramah,kakaknya ramah,positif,positif,positif,3,positif,sepakat_semua
+12780,31743,pelayanan,"pelayanan, ramah",Harganya murah untuk sebuah tempat yang nyaman dengan pelayanan ramah,positif,positif,positif,3,positif,sepakat_semua
+43782,104971,pelayanan,ramah,walaupun ramai tetap ramah sekali,positif,positif,positif,3,positif,sepakat_semua
+20962,50820,pelayanan,pelayanan,"Tempat nyaman, pelayanan oke",positif,positif,positif,3,positif,sepakat_semua
+53399,124734,pelayanan,"pelayanan, ramah","pelayanannya ramah dan cepat, serta area tempat makan terlihat bersih dan nyaman",positif,positif,positif,3,positif,sepakat_semua
+43024,103254,pelayanan,"ramah, staff",Staff ramah dan cepat,positif,positif,positif,3,positif,sepakat_semua
+23444,56554,pelayanan,ramah,"suasananyaa enak, tempatnya cozy ++ nyaman banget, pelayananannyaa oke banget semua pelayannya padaa ramah dann cepet, terus makanannya cepet datangnya + ada photobooth yang lucu banget",positif,positif,positif,3,positif,sepakat_semua
+5020,12016,pelayanan,"kasir, ramah","tempatnya cozzy banget, laavv kaka kasir ramah lucu",positif,positif,positif,3,positif,sepakat_semua
+27961,66817,pelayanan,service,Service juga oke bahkan bapak parkirnya juga baik,positif,positif,positif,3,positif,sepakat_semua
+22833,55338,pelayanan,pelayanan,pelayanan oke,positif,positif,positif,3,positif,sepakat_semua
+29859,71394,pelayanan,ramah,"ramah ramah baristanya, kopinya selalu enak kalau fore, cuma buat matchanya kurang sih",positif,positif,positif,3,positif,sepakat_semua
+18637,45483,pelayanan,pelayanan,"tempatnya nyaman, kopinya enak, pelayanan juga bagus",positif,positif,positif,3,positif,sepakat_semua
+41209,99257,pelayanan,"pelayanan, ramah, sopan","Rasa milonya terlalu manis buat saya, dan bobanya nothing special terlalu lembek menurut saya untuk harganya sudah cocok, saran saya kalau bisa menyediakan pilihan gula berapa % untuk pelayanan bagus ramah dan sopan, lumayan cepet menangani pesanannya thanks",positif,netral,positif,3,positif,mayoritas
+24133,57787,pelayanan,ramah,"Stafnya ramah""tempatnya bagus bersih view nyaa bagus poll kalau malam buat ngerjain tugas atau nongki""cantik bareng teman,tidak bakal nyesel si pokoknyaa mau ke sini lagii",positif,positif,positif,3,positif,sepakat_semua
+11482,28399,pelayanan,pelayanan,"untuk suasana dan pelayanan sangat baik, minuman juga enak, saya sering pesan americano, makanan untuk pertama kalinya beli makanan nasi goreng abang abang pakai sate, di",positif,positif,positif,3,positif,sepakat_semua
+35913,86760,pelayanan,ramah,Staffnya sangat ramah,positif,positif,positif,3,positif,sepakat_semua
+12970,32165,pelayanan,"pelayanan, ramah","tempatnya nyaman pelayanannya memuaskan , tidak nyesel datang kesni, dan bosnya juga ramah turun tangan sendiri",positif,positif,positif,3,positif,sepakat_semua
+41527,99997,pelayanan,"pelayanan, ramah","Pemandangan oke, suasana nyaman, pelayanan ramah",positif,positif,positif,3,positif,sepakat_semua
+40363,97173,pelayanan,"pelayanan, ramah","tempatnya baik, makannya enak enak, pelayanannya ramah, wow, good, mantap, keren sekali",positif,positif,positif,3,positif,sepakat_semua
+8531,20462,pelayanan,"friendly, informatif","hari ini kami ketemu dengan mas adam, deni dan firman yang semuanya friendly dan informatif",positif,positif,positif,3,positif,sepakat_semua
+5215,12274,pelayanan,"pelayanan, ramah",kafe dengan pelayanan ramah banget waktu masuk,positif,positif,positif,3,positif,sepakat_semua
+36473,88578,pelayanan,pelayanan,"pelayanannya bagus, untuk yang suka kopi susu yang strong pasti bakalan suka, acnya dingin, bisa juga buat wfc sekalian main di kotalama",positif,positif,positif,3,positif,sepakat_semua
+20277,49314,pelayanan,"ramah, staff","Staff sangat membantu & ramah, saya dibantu saat kesulitan bawa barang-barang bawaan menuju meja saya",positif,positif,positif,3,positif,sepakat_semua
+1595,4211,pelayanan,"pelayanan, ramah","Tempatnya cakep banget, instagramable, pelayanannya juga sangat ramah",positif,positif,positif,3,positif,sepakat_semua
+29676,71022,pelayanan,pelayanan,"Tempat nyaman , bersih Pelayanan memuaskan",positif,positif,positif,3,positif,sepakat_semua
+13612,33782,suasana,ramai,"tetapi juga sangat ramai karena buka 24 jam, terkadang",negatif,positif,positif,3,positif,mayoritas
+56847,132451,suasana,sepi,"pesan latte dan americano, posisi tempat lagi sepi dan tidak sibuk, sudah menunggu satu jam dan baru datang americano, ekspresi kasir tidak ramah dan tidak welcoming, seharusnya untuk kafe baru harus mengendepankan keramahan dan kenyamanan",negatif,negatif,positif,3,negatif,mayoritas
+58626,136420,suasana,ramai,"Ramai banget sampai waiting list untuk weekend, mungkin konsep toko dan kafe restoran yang digabung kurang pas",negatif,positif,positif,3,positif,mayoritas
+3311,7983,suasana,nyaman,"tidak nyaman deh, pengen pindah ke kafe lain",negatif,negatif,positif,3,negatif,mayoritas
+1328,3456,suasana,"bising, desain, interior, ramai, tenang","Jarak antarmeja kurang jauh, makanan dan minuman tidak semurah kafe yang lain belum termasuk tax 10%nya, desain interior ruangan tidak mendukung akustik yang tenang sehingga gampang bising ketika ramai",negatif,negatif,positif,3,negatif,mayoritas
+34777,84103,suasana,ramai,"pelayanannya tidak banget, kesitu pas tidak ramai ramai amat",negatif,negatif,positif,3,negatif,mayoritas
+51127,120162,suasana,ramai,"pelayananx lama pol, minum dh habis makanan belum datang, padahal tidak begitu ramai",negatif,negatif,positif,3,negatif,mayoritas
+13259,32882,suasana,nyaman,tapi diperbolehkan merokok jujur sangat tidak nyaman,negatif,negatif,positif,3,negatif,mayoritas
+48175,114079,suasana,nyaman,"nyaman sekali untuk tempatnya,pelayanannya juga sangat ramah²",negatif,positif,positif,3,positif,mayoritas
+18002,43700,suasana,ramai,"hanya saja pelayanan yang diberikan kurang memuaskan, pesan makanan hampir 1 jam dengan alasan kalau resto sedang ramai, padahal orang disebelah yang baru datang sudah mendapatkan pesananannya dalam",negatif,negatif,positif,3,negatif,mayoritas
+13274,32924,suasana,sepi,"Menurut saya lama banget prosesnya, padahal cuma 4 orderan dan saat itu kondisi sepi ndak ada orang yang order",negatif,negatif,positif,3,negatif,mayoritas
+23536,56702,suasana,nyaman,"Pelayanan buruk sekali, terlalu ribet dan tidak nyaman karena dilihatin terus, untuk kafe sebesar itu dengan kualitas pelayanan yang kaya gini bikin pengunjung tidak nyaman banget",negatif,negatif,positif,3,negatif,mayoritas
+11118,27444,suasana,ramai,Ramai sekali di sini,negatif,positif,negatif,3,negatif,mayoritas
+55248,128562,suasana,sepi,"pelayanan lemot banget,karyawan 4 di dalam cuma ngrumpit,bikin kopi 3 saja hampir 30menit padahal sepi tidak ada antrian",negatif,negatif,negatif,3,negatif,sepakat_semua
+3621,8744,suasana,nyaman,"cuma tempat duduknya kurang nyaman ntah knapa untuk lantai dua, balkon, dan halaman depan(penilaian saya",negatif,negatif,negatif,3,negatif,sepakat_semua
+20603,50042,suasana,ramai,"mentang"" lagi ramai saya dimintain uang parkir langsung, terus waktu saya balik karena gajadi pesan (fully seated) dia sok"" an tidak lihat sama tidak mau nyebrangin, dan tidak mau refund pula",negatif,negatif,negatif,3,negatif,sepakat_semua
+47897,113629,suasana,"ramai, sepi",Eh pesan roti bakar sama pisang sampai sejam tidak dianter dianter alhasil saya ke kasir nanyain pesenan saya ternyata belum dibuatin padahal itu keadaan sepi tidak ramai,negatif,negatif,negatif,3,negatif,sepakat_semua
+26782,63764,suasana,nyaman,"kukira tempat indoor bakal nyaman ternyata masih banyak yang ngevape didalem, ruangan banyak nyamuknya, terus waktu pembayaran tidak ada kembaliannya, minta tlg dianter karena sibuk juga ehh tahunya memang tidak dikasih",negatif,negatif,negatif,3,negatif,sepakat_semua
+27068,64291,suasana,nyaman,jadi tidak nyaman mau ngkrong lama#,negatif,negatif,negatif,3,negatif,sepakat_semua
+18496,45162,suasana,suasana,Cuma rasanya suasana outdoornya kayak kurang terawat saja,negatif,negatif,negatif,3,negatif,sepakat_semua
+14082,34704,suasana,nyaman,"tukang parkirnya tidak banget, sukanya catcall orang, sudah 2 kali di catcall, padahal masih pakai seragam sma wkwwkwkke, temenku juga di catcall, so disturbing dan bikin tidak nyaman",negatif,negatif,negatif,3,negatif,sepakat_semua
+43538,104301,suasana,nyaman,namun di lantai 2 tempatnya kurang nyaman karena kursinya kecil dan pendek,negatif,negatif,negatif,3,negatif,sepakat_semua
+41245,99358,suasana,sepi,Proses kok lama banget sudah musiknya kenceng banget padahal sepi,negatif,negatif,negatif,3,negatif,sepakat_semua
+10130,24672,suasana,berisik,Kalau untuk bekerja atau baca buku kurang recommended karena sangat berisik,negatif,negatif,negatif,3,negatif,sepakat_semua
+26184,62180,suasana,ramai,"tempat oke, kopi oke, pelayanan parah, lama banget kopinya, tidak siap ramai, keteteran, minim pegawai dengan area yang seluas itu",negatif,netral,negatif,3,negatif,mayoritas
+43230,103724,suasana,sepi,"Buruk banget ini resto kapok buka puasa di sini, karena kepepet saja kebetulan masih sepi",negatif,netral,negatif,3,negatif,mayoritas
+22146,53671,suasana,"bising, suasana","tapi suasana sangat bising, pelayanan kurang ramah seperti nyolot kalau melayani, suara karyawan juga terdengar sampai ke customer, apakah pada saat interview karyawan tidak menilai dari attitudenya ya, kapok banget bad experience",negatif,negatif,negatif,3,negatif,sepakat_semua
+13424,33402,suasana,ramai,tidak siap buat ramai,negatif,negatif,negatif,3,negatif,sepakat_semua
+1128,2938,suasana,"berisik, ramai","Dessertnya kurang banyak, berisik (mungkin karena pengunjungnya ramai ditambah musiknya kenceng), kasirnya kurang ramah, tidak boleh bawa makanan dari luar, kesel aku",negatif,negatif,negatif,3,negatif,sepakat_semua
+16862,40978,suasana,nyaman,"Mohon maaf mungkin buat kursinya agar di ganti semuanya saja karena banyak tinggi/tungau bikin gatel, bentol² buat nongkrong tidak nyaman",negatif,negatif,negatif,3,negatif,sepakat_semua
+7108,16510,suasana,ramai,Tempatnya sempit tidak enak buat nongkrong terlalu ramai,negatif,negatif,negatif,3,negatif,sepakat_semua
+52233,122352,suasana,"nyaman, suasana","Makanan dan minuman tidak ada rasa/hambar, suasana tempat panaass dan sumuk membuat tidak nyaman",negatif,negatif,negatif,3,negatif,sepakat_semua
+40666,97905,suasana,suasana,"suasana modern, area parkir kecil untuk mobil, musik agak terlalu keras",negatif,positif,negatif,3,negatif,mayoritas
+19432,47485,suasana,"berisik, nyaman","Kurang nyaman tempatnya, berisik, bercampur dengan suara mesin pembuat minuman",negatif,negatif,negatif,3,negatif,sepakat_semua
+17474,42394,suasana,berisik,"Dan salah satu staff/baristanya berisik, dia tidak sdg membuat kopi/other drinks",negatif,negatif,negatif,3,negatif,sepakat_semua
+3632,8766,suasana,nyaman,Nyaman,netral,positif,positif,3,positif,mayoritas
+16016,39077,suasana,aesthetic,Tempatnya aesthetic dan banyak spot buat foto,netral,positif,positif,3,positif,mayoritas
+25356,60229,suasana,ramai,Malam minggu cek lokasi ke sini lumayan ramai,netral,positif,positif,3,positif,mayoritas
+20035,48743,suasana,nyaman,nyaman,netral,positif,positif,3,positif,mayoritas
+45364,108475,suasana,adem,"Barusan datang untuk buka bareng keluarga, lama banget makanan maupun minumannya, teh anget yang harusnya anget datang sudah adem, datang jam 17",netral,netral,positif,3,netral,mayoritas
+2385,5959,suasana,nyaman,Nyaman,netral,positif,positif,3,positif,mayoritas
+43962,105432,suasana,nyaman,Nyaman,netral,positif,positif,3,positif,mayoritas
+9512,23228,suasana,ramai,Sayangnya kalau datang pas hari libur ramai banget,netral,positif,positif,3,positif,mayoritas
+8839,21450,suasana,nyaman,tapi nyaman,netral,positif,positif,3,positif,mayoritas
+6899,15999,suasana,nyaman,tapi nyaman,netral,positif,positif,3,positif,mayoritas
+5964,13827,suasana,"desain, suasana","Rak besi putih dengan desain simpel dan pencahayaan biru memberi sentuhan modern tanpa berlebihan, menciptakan karakter yang kuat dan suasana",netral,positif,positif,3,positif,mayoritas
+55013,127892,suasana,ramai,"Tadi ramai, yang jualan sudah ngelihat aku dan bilang sebentar",netral,positif,positif,3,positif,mayoritas
+14939,36781,suasana,suasana,"Design modern, suasana oke buat santai santai , makanan kurang enak Kami ber6 disuggest take order di kasir",positif,positif,positif,3,positif,sepakat_semua
+34284,82763,suasana,nyaman,"rasa enak g terlalu manis paling enak dimakan pas masih dingin, harga lumayan mahal 2 potong 56rb, tempat bersih nyaman asyik buat kongkow",positif,positif,positif,3,positif,sepakat_semua
+33192,80052,suasana,nyaman,"Tempatnya nyaman untuk yang private room bisa untuk sekeluarga atau cuma buat kumpul makan berdua, untuk rasa jangan ditanya karena imperial merupakan pionir",positif,positif,positif,3,positif,sepakat_semua
+48281,114247,suasana,"nyaman, tenang","Lokasinya nylempit dibelakang warmindo , tempatnya sih enak nyaman tenang , makanannya tergolong murah dan rasanya lumayan",positif,positif,positif,3,positif,sepakat_semua
+17034,41336,suasana,"adem, nyaman","Makanannya enak enak, tempatnya nyaman, adem",positif,positif,positif,3,positif,sepakat_semua
+13108,32477,suasana,nyaman,Kafe yang nyaman,positif,positif,positif,3,positif,sepakat_semua
+25517,60592,suasana,ramai,Tidak terlalu ramai dan Anda bisa menenangkan diri di sini,positif,positif,positif,3,positif,sepakat_semua
+26892,63984,suasana,nyaman,"Pertama kali ke sini penasaran pengen cobain kek tempatnya nyaman buat nongkrong begitu kan coba lah kesitu, ceritanya datang nih jam 9 pesan es kopi susu klotok sama rokok LA purple saja, bla bla bla bayar tuh pesenan dan di tanyain namanya",positif,netral,positif,3,positif,mayoritas
+13196,32700,suasana,"ramai, suasana",Pelayanan: Ramah dan cepat Suasana: Ramai dikunjungi saat event karena pada penasaran dengan rasa,positif,positif,positif,3,positif,sepakat_semua
+35720,86325,suasana,nyaman,Sayang banget tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+551,1406,suasana,nyaman,"tapi lumayan nyaman buat nongkrong dan kerja, ada wifi yang kenceng",positif,positif,positif,3,positif,sepakat_semua
+48827,115199,suasana,nyaman,"Tempat nyaman, harga sesuai dengan rasa",positif,positif,positif,3,positif,sepakat_semua
+211,556,suasana,cozy,"Tempatnya okey, cozy",positif,positif,positif,3,positif,sepakat_semua
+30014,71746,suasana,cozy,"Super cozy pelayanan ramah dapat free eskrim, thankyou",positif,positif,positif,3,positif,sepakat_semua
+53695,125130,suasana,nyaman,"Tempatnya nyaman, tempatnya bersih enak buat nugas",positif,positif,positif,3,positif,sepakat_semua
+46559,110988,suasana,suasana,Sebenernya makanan dan suasananya oke,positif,positif,positif,3,positif,sepakat_semua
+16222,39595,suasana,sejuk,"Tempat cocok buat nyendiri, ngerjain tugas maupun meet up, tempatnya sejuk, bersih dan minumannya masuk lah buat kita yang suka kopi maupun non kopi",positif,positif,positif,3,positif,sepakat_semua
+54028,125787,suasana,suasana,"suasananya enak, makanan juga worth it",positif,positif,positif,3,positif,sepakat_semua
+39861,96049,suasana,nyaman,Tempatnya bagus enak nyaman pelayanannya ramah makananya enak,positif,positif,positif,3,positif,sepakat_semua
+10388,25408,suasana,nyaman,Tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+26273,62467,suasana,nyaman,Tempat yang nyaman,positif,positif,positif,3,positif,sepakat_semua
+28875,69212,suasana,nyaman,Nyaman tempatnya,positif,positif,positif,3,positif,sepakat_semua
+23488,56634,suasana,nyaman,"Overall, tempatnya nyaman, minumannya enak, harga bersahabat",positif,positif,positif,3,positif,sepakat_semua
+34917,84410,suasana,nyaman,tapi nyaman dan kopinya enak,positif,positif,positif,3,positif,sepakat_semua
+43095,103424,suasana,adem,"Adem, enak buat nongkrong di siang hari",positif,positif,positif,3,positif,sepakat_semua
+5675,13186,suasana,nyaman,"Nyaman, terbuka, cocok untuk tempat nongkrong anak muda",positif,positif,positif,3,positif,sepakat_semua
+20485,49785,suasana,ramai,Tempat ngopi yang selalu ramai di Semarang,positif,positif,negatif,3,positif,mayoritas
+15135,37147,suasana,nyaman,Tempat bagus dan nyaman,positif,positif,positif,3,positif,sepakat_semua
+50174,118020,suasana,nyaman,"Tempatnya enak, nyaman, menu lumayan",positif,positif,positif,3,positif,sepakat_semua
+43356,103975,suasana,nyaman,tempat dan makanannya enak poll nyaman apalagi buat kumpul kumpul keluarga,positif,positif,positif,3,positif,sepakat_semua
+37756,91452,suasana,adem,buat nugas enak karena adem,positif,positif,positif,3,positif,sepakat_semua
+14617,36030,suasana,estetik,Comeback with another kafe kekinian estetik,positif,positif,positif,3,positif,sepakat_semua
+40745,98075,suasana,nyaman,"staffnya friendly, sopan, dan helpful banget service cepat jadi makin nyaman nongki di sini",positif,positif,positif,3,positif,sepakat_semua
+24169,57836,suasana,"ramai, suasana",Makanan dan minuman bukan selera saya ( tiap orang berbeda ) Suasananya terlalu ramai ( karena weekend ),positif,positif,positif,3,positif,sepakat_semua
+12825,31830,suasana,tenang,"Tempatnya tenang walaupun datang di jam makan siang, nice",positif,positif,positif,3,positif,sepakat_semua
+29993,71715,suasana,nyaman,Tempatnya nyaman harga ok,positif,positif,positif,3,positif,sepakat_semua
+39302,94912,suasana,nyaman,"Nyaman untuk maksi, tempat bersih harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+33641,81096,suasana,nyaman,"Kopinya enak makanan juga enak, harga tidak terlalu mahal, tempatnya nyaman",positif,positif,positif,3,positif,sepakat_semua
+14852,36587,suasana,suasana,"oke suasana bagus, tempat bagus, makanan biasa saja, service jelek banget",positif,positif,positif,3,positif,sepakat_semua
+8188,19528,suasana,"nyaman, tenang",Tempatnya nyaman banget+tenang,positif,positif,positif,3,positif,sepakat_semua
+34351,82995,suasana,nyaman,"tapi nyaman kok,pelayanan memuaskan staff yang ramah ,tempat juga nyaman ada indoor maupun outdoor,cakenya juga enak",positif,positif,positif,3,positif,sepakat_semua
+58357,135627,suasana,instagramable,"Tempatnya bagus instagramable, cocok buat acara bareng teman-teman",positif,positif,positif,3,positif,sepakat_semua
+57016,132862,suasana,nyaman,"Tempatnya nyaman parah buat nugas, WFC, atau sekadar nongkrong sambil ngopi",positif,positif,positif,3,positif,sepakat_semua
+14915,36707,suasana,"estetik, instagramable","Tempatnya estetik & instagramable Kopi & makanan standar, untuk harga termasuknya mahal ya Wc bersih, ada musholanya juga ok",positif,positif,positif,3,positif,sepakat_semua
+35172,85008,suasana,cozy,"Tempat cozy enak buat nongki berlama lama, cocok juga bawa kids, mealsnya enak",positif,positif,positif,3,positif,sepakat_semua
+10656,26235,suasana,nyaman,"tempat cukup nyaman, simple, rasa makanan dan minumannya oke",positif,positif,positif,3,positif,sepakat_semua
+20110,48898,suasana,nyaman,Sangat nyaman buat nyantai,positif,positif,positif,3,positif,sepakat_semua
+7027,16296,suasana,"nyaman, ramai","Tempatnya juga nyaman dan cocok untuk nongkrong ramai-ramai di tengah malam, terutama di area Jalan Gajahmada",positif,positif,positif,3,positif,sepakat_semua
+26053,61812,suasana,"cozy, nyaman, suasana","Parkir ok, ada sendiri di dalam, suasana cozy nyaman buat ngobrol meet up, meeting,, sofa, smooking dan non smooking, yang mau sendiri ada meja kursi untuk private sendiri",positif,positif,positif,3,positif,sepakat_semua
+56113,130819,suasana,ramai,"tempatnya kecil, ramai dikit tidak dapat tempat duduk",positif,positif,positif,3,positif,sepakat_semua
+1547,4111,suasana,nyaman,"Tempatnya nyaman, makanan & minuman oke, untuk nongkrong di sini bisa berlama berlama sih cmn minusnya antri saja ps mau pesan",positif,positif,positif,3,positif,sepakat_semua
+16333,39810,suasana,suasana,"Tempatnya remang remang, suasananya bisa deh buat kalian yang lagi PDKT",positif,positif,positif,3,positif,sepakat_semua
+18862,46039,suasana,nyaman,Tempatnya nyaman,positif,positif,positif,3,positif,sepakat_semua
+40108,96644,suasana,sepi,Padahal resto sepi pengunjung,positif,positif,positif,3,positif,sepakat_semua
+3695,8907,suasana,cozy,"Tempatnya cozy cuma ya agak minimalis cuma beberapa meja, smoothiesnya enak dan seger, coklatnya juga enak, harga bersahabat lah, lumayan miring range menengah",positif,positif,positif,3,positif,sepakat_semua
+10560,25913,suasana,nyaman,tapi lumayan nyaman,positif,positif,positif,3,positif,sepakat_semua
+42232,101587,suasana,suasana,"Suasana tempat okelah Makanan tidak sesuai harga, terlalu sedikit, tidak puas, sadfood",positif,positif,positif,3,positif,sepakat_semua
+33196,80059,suasana,suasana,"Suasana Ok, Menu variatif cuma untuk beberapa yang dipesan kaya grilled chicken & beef bowlnya kemanisan",positif,positif,positif,3,positif,sepakat_semua
+14803,36488,suasana,"ambience, estetik, nyaman","Design estetik, ambience nyaman",positif,positif,positif,3,positif,sepakat_semua
+4580,10926,suasana,nyaman,Tempatnya nyaman dan menyenangkan,positif,positif,positif,3,positif,sepakat_semua
+26346,62684,suasana,cozy,"Tempatnya cozy, lumayan luas",positif,positif,positif,3,positif,sepakat_semua
+14254,35136,suasana,nyaman,Tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+21725,52572,suasana,suasana,Stafnya selalu ramah dan suasananya menyenangkan,positif,positif,positif,3,positif,sepakat_semua
+43299,103871,suasana,nyaman,Tempatnya nyaman,positif,positif,positif,3,positif,sepakat_semua
+17568,42616,suasana,adem,tempatnya adem sih,positif,positif,positif,3,positif,sepakat_semua
+36769,89135,suasana,ambience,"TEMPAT, RASA, AMBIENCE mantap",positif,positif,positif,3,positif,sepakat_semua
+2992,7218,suasana,nyaman,Tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+15634,38231,suasana,suasana,"Suasana enak, nongkrong enak juga recommended",positif,positif,positif,3,positif,sepakat_semua
+22970,55659,suasana,nyaman,Harga bersahabat tempat nyaman enak buat nongkrong atau nugas,positif,positif,positif,3,positif,sepakat_semua
+37160,90213,suasana,nyaman,tapi tempatnya cukup nyaman,positif,positif,positif,3,positif,sepakat_semua
+6818,15830,suasana,nyaman,"Tempatnya nyaman, pelayanan ramah, makanan enak , harga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+53759,125235,suasana,nyaman,"tempatnya bersih, nyaman",positif,positif,positif,3,positif,sepakat_semua
+22997,55711,suasana,"nyaman, suasana",Saya pesan nasi bali (lupa nama di menunya) suasananya nyaman,positif,positif,positif,3,positif,sepakat_semua
+5737,13327,suasana,nyaman,Sangat asyik & nyaman buat nongki,positif,positif,positif,3,positif,sepakat_semua
+19108,46673,suasana,nyaman,kalau tempatnya sih enak nyaman bisa lihat kota semarang dari atas,positif,positif,positif,3,positif,sepakat_semua
+58293,135396,suasana,nyaman,"jujur ya, seneng banget tempatnya bagus, nyaman, pilihan menunya beragam",positif,positif,positif,3,positif,sepakat_semua
+28274,67641,suasana,ramai,"tapi sayang sekali, kondisi tidak terlalu ramai",positif,negatif,positif,3,positif,mayoritas
+33368,80381,suasana,suasana,Suasana yang menyenangkan,positif,positif,positif,3,positif,sepakat_semua
+4284,10239,suasana,tenang,Tempatnya ambiencenya tenang Start 25K Bisa coba basic mereka yang kopi gula arennya,positif,positif,positif,3,positif,sepakat_semua
+47896,113628,suasana,sepi,"ke sini bareng teman nyelesein tugas, jam11 siang pas sepi",positif,positif,positif,3,positif,sepakat_semua
+56618,131898,suasana,ramai,Selalu penuh dan ramai dengan musik yang di putarkan,positif,positif,positif,3,positif,sepakat_semua
+15909,38849,suasana,"cozy, nyaman","Tempat cozy minum kopi di daerah Anjasmoro, tempatnya nyaman",positif,positif,positif,3,positif,sepakat_semua
+14774,36412,suasana,cozy,"Tempatnya cozy buat nongkrong, makanan & coffee okey",positif,positif,positif,3,positif,sepakat_semua
+24641,58676,suasana,nyaman,Aku kasih bintang 5 karena sudah menjadi tempat kerja yang nyaman,positif,positif,positif,3,positif,sepakat_semua
+3023,7276,suasana,"nyaman, suasana","Suasananya nyaman, kopinya enak, dan daftar putar musiknya mantap",positif,positif,positif,3,positif,sepakat_semua
+55522,129229,suasana,tenang,Kairos salah satu alternatif coffeshop yang bisa buat tenang ditengah hiruk pikuk kota semarang,positif,positif,positif,3,positif,sepakat_semua
+34829,84244,suasana,adem,"sound oke, ruangan adem, durasi lama, makanan juga enak",positif,positif,positif,3,positif,sepakat_semua
+9323,22750,suasana,cozy,cozy banget,positif,positif,positif,3,positif,sepakat_semua
+19113,46682,suasana,cozy,Tempatnya cozy banget :) harga makanannya relatif sih yaa,positif,positif,positif,3,positif,sepakat_semua
+50005,117663,suasana,suasana,suasananya enak bahkan untuk nongkrong sendiri,positif,positif,positif,3,positif,sepakat_semua
+15518,37964,suasana,"estetik, nyaman","Tempat estetik, makanan variatif dan nyaman buat wfc",positif,positif,positif,3,positif,sepakat_semua
+24376,58132,suasana,nyaman,"Tempatnya nyaman, makanan enak, harga masuk akal",positif,positif,positif,3,positif,sepakat_semua
+14436,35529,suasana,nyaman,Buat menu makanannya lama banget 30 menit lebih padahal 2 menu saja tempatnya bersih & nyaman pegawai ramah,positif,positif,positif,3,positif,sepakat_semua
+53039,124157,suasana,nyaman,"pelayanannya ramah, tempat nyaman, dan makanannya enak",positif,positif,positif,3,positif,sepakat_semua
+10236,24979,suasana,nyaman,"Tempat nyaman, toilet di lantai 2 disamping halaman belakang yang outdoor, ada ruang ber-ac (lantai 1), dan ruang non-ac (lantai",positif,positif,positif,3,positif,sepakat_semua
+44720,107190,suasana,"estetik, nyaman","tempat nongkrong paling hits di area Semarang atas khususnya banyumanik, free karaoke, free wifi, live music, harga terjangkau, dan tempatnya nyaman dan estetik, cocok untuk segala acara",positif,positif,positif,3,positif,sepakat_semua
+10819,26675,suasana,nyaman,Sudut yang nyaman untuk menikmati makanan sederhana dan mengisi energi setelah seminggu yang panjang,positif,positif,positif,3,positif,sepakat_semua
+25374,60280,suasana,"cozy, nyaman","tempatnya cozy, nyaman banget buat nugas",positif,positif,positif,3,positif,sepakat_semua
+45706,109163,suasana,nyaman,"Tempatnya luas, bersih, nyaman",positif,positif,positif,3,positif,sepakat_semua
+1307,3411,suasana,suasana,"kopi dan suasananya cukup enak, bisa ngobrol lama juga di sini",positif,positif,positif,3,positif,sepakat_semua
+38604,93188,suasana,"nyaman, suasana",Suasananya nyaman & enak untuk kerja atau garap tugas u/ mahasiswa,positif,positif,positif,3,positif,sepakat_semua
+54612,127038,suasana,"nyaman, suasana, tenang","Untuk nongkrong cantik sih oke, suasana nyaman, tenang, melihat perbukitan dan lampu di malam hari",positif,positif,positif,3,positif,sepakat_semua
+3460,8352,suasana,dekorasi,Dekorasi kedai kopinya sangat tepat,positif,positif,positif,3,positif,sepakat_semua
+46644,111175,suasana,"nyaman, ramai","tempatnya nyaman untuk nongkrong, viewnya bagus bisa lihat citylight semarang, 2x ke sini selalu ramai",positif,positif,positif,3,positif,sepakat_semua
+18036,43796,suasana,"nyaman, suasana",Suasana dan tpatnya nyaman banget,positif,positif,positif,3,positif,sepakat_semua
+40477,97364,suasana,"cozy, homey","tapi kerasa, homey banget, cozy juga buat nongki/nugas",positif,positif,positif,3,positif,sepakat_semua
+19767,48147,suasana,nyaman,"Tempatnya enak baguss, nyaman, mbaknya juga cantik",positif,positif,positif,3,positif,sepakat_semua
+26740,63630,suasana,suasana,tetapi kopi dan suasananya asyik banget,positif,positif,positif,3,positif,sepakat_semua
+40149,96720,suasana,"nyaman, suasana","Layanan baik, ramah, suasana nyaman, cocok buat rapat organisasi dan semacamnya",positif,positif,positif,3,positif,sepakat_semua
+24636,58670,suasana,nyaman,"Makanannya enak, minumannya kekinian, tempatnya nyaman banget",positif,positif,positif,3,positif,sepakat_semua
+50322,118382,suasana,nyaman,"pelayanannya baguss dan cepat, makanannya enak, tempatnya nyaman ada indoor dan outdoor",positif,positif,positif,3,positif,sepakat_semua
+8083,19270,suasana,cozy,"Kopinya enak, tempatnya juga enak cozy banget baik sama keluarga maupun teman-teman",positif,positif,positif,3,positif,sepakat_semua
+57054,132937,suasana,cozy,"Aestethic, cozy parah , bonus bisa lihat city lightnya semarang",positif,positif,positif,3,positif,sepakat_semua
+50173,118019,suasana,nyaman,"Tempatnya buat nongkrong nyaman, harganya juga terjangkau",positif,positif,positif,3,positif,sepakat_semua
+6303,14638,suasana,suasana,"Minuman enak, kasir yang kecil comel dan ramah, suasananya enak bersih",positif,positif,positif,3,positif,sepakat_semua
+32967,79634,suasana,nyaman,"Tempatnya nyaman, makanannya enak",positif,positif,positif,3,positif,sepakat_semua
+24152,57814,suasana,sejuk,"Ada pilihan indoor ac sama outdoor, tidak banget panas kalau sore sejuk",positif,positif,positif,3,positif,sepakat_semua
+24570,58544,suasana,nyaman,Tempatnya nyaman banyak pilihan makanan dan minuman dengan harga terjangkau,positif,positif,positif,3,positif,sepakat_semua
+16873,41000,suasana,nyaman,"Tempat nongkrong favorit kawula muda semarang, dengan tempat yang nyaman, WiFi yang kucup cepat, makanan dengan harga yang cukup terjangkau",positif,positif,positif,3,positif,sepakat_semua
+54753,127333,suasana,suasana,"makanan lumayan enak, porsi banyak , layanan oke gercep tidak pakai lama , suasana oke banget",positif,positif,positif,3,positif,sepakat_semua
+31685,76282,suasana,nyaman,Croissant paling enak yang aku makan sih serius tempatnya juga nyaman untuk sekadar duduk nongkrong,positif,positif,positif,3,positif,sepakat_semua
+12053,29841,suasana,nyaman,Tempat lumayan nyaman,positif,positif,positif,3,positif,sepakat_semua
+26098,61963,suasana,nyaman,Area nyaman dikususkan untuk minimal 4 orang saja,positif,positif,positif,3,positif,sepakat_semua
+4006,9690,suasana,tenang,"Tempatnya tenang, enak buat nugas, baristanya juga asyik",positif,positif,positif,3,positif,sepakat_semua
+47903,113637,suasana,nyaman,Tempat bersih nyaman,positif,positif,positif,3,positif,sepakat_semua
+21526,52118,suasana,cozy,"Tempat co working yang benar benar cozy buat nugas atau rapat, bagus banget design interiornya, menunya enak enak banget harga sesuai dengan rasanya",positif,positif,positif,3,positif,sepakat_semua
+14422,35501,suasana,nyaman,"Nyaman, santai, bisa buat meeting, bersih dan rapi hanya parkiran mobilnya penuh jadi parkir di pinggir jalan jadi agak khawatir di parkirannya",positif,positif,positif,3,positif,sepakat_semua
+2316,5817,suasana,"suasana, tenang",Suasananya tenang ditengah kota,positif,positif,positif,3,positif,sepakat_semua
+31598,75894,suasana,"nyaman, suasana","Tempat ini punya makanan enak dan suasana nyaman, aku pasti akan datang lagi",positif,positif,positif,3,positif,sepakat_semua
+47338,112534,suasana,vibes,"Vibes di sini pas hujan, syahdu banget dan pelayanannya sangat totalitas",positif,positif,positif,3,positif,sepakat_semua
+48252,114188,suasana,nyaman,"Tempatnya sangat nyaman, pelayanannya ramah sekali, makanannya relatif murah dan enak, dan wifinya kencang",positif,positif,positif,3,positif,sepakat_semua
+48134,114021,suasana,ramai,"Enak nongkrong di pagi menjelang siang hari si sama si dd, tidak ramai ramai banget jadi bisa quality time banget",positif,positif,positif,3,positif,sepakat_semua
+11983,29661,suasana,cozy,Cozy banget buat yang suka nongkrong barwng sahabat dan harga yang terjangkau,positif,positif,positif,3,positif,sepakat_semua
+22168,53726,suasana,nyaman,Tempat bagus dan nyaman,positif,positif,positif,3,positif,sepakat_semua
+43749,104865,suasana,cozy,Tempatnya lumayan cozy untuk mengerjakan tugas,positif,positif,positif,3,positif,sepakat_semua
+28139,67250,suasana,nyaman,"Tempat nyaman, menu lumayan",positif,positif,positif,3,positif,sepakat_semua
+10076,24507,suasana,nyaman,Tempat yang cukup nyaman di ujung daerah Kota Tua,positif,positif,positif,3,positif,sepakat_semua
+45027,107818,suasana,"nyaman, suasana","Suasana nyaman, cocok buat nongkrong, untuk harga cukup pricey",positif,positif,positif,3,positif,sepakat_semua
+37722,91370,suasana,adem,"Cocok buat nugas,nongkrong dan lain lain adem banget",positif,positif,positif,3,positif,sepakat_semua
+25981,61620,suasana,vibes,Cold ‘dan Brew Majapahit menurut saya jadi salah satu coffee shop yang punya vibes enak banget buat nongkrong atau sekadar ngerjain kerjaan,positif,positif,positif,3,positif,sepakat_semua
+1131,2944,suasana,"nyaman, suasana",Staff sangat ramah makanan enak minuman enak suasana nyaman Sukses selalu,positif,positif,positif,3,positif,sepakat_semua
+54853,127552,suasana,suasana,Suka suasana malamnya,positif,positif,positif,3,positif,sepakat_semua
+30754,73340,suasana,ramai,"Kopi Susunya , French friesnya juga Tempatnya ramai, beberapa kali ke sini, kalau semisal lagi turun ke area simpang",positif,positif,positif,3,positif,sepakat_semua
+42910,102994,suasana,nyaman,Kopinya enak tempatnya nyaman dan asyik banget buat nongkrong,positif,positif,positif,3,positif,sepakat_semua
+38308,92561,suasana,nyaman,"Nyaman banget buat nugas, recommend",positif,positif,positif,3,positif,sepakat_semua
+31344,75232,suasana,nyaman,"Tempatnya nyaman banget, cocok buat nongkrong atau ngerjain tugas",positif,positif,positif,3,positif,sepakat_semua
+40105,96634,suasana,nyaman,"Makanan enak, variatif, tempat lumayan nyaman untuk santai",positif,positif,positif,3,positif,sepakat_semua
+57386,133552,suasana,nyaman,"Pilihan makanannya banyak, dan lumayan murah Area indoornya nyaman banget buat nugas, smooking area luas dan bisa lihat city view juga",positif,positif,positif,3,positif,sepakat_semua
+12028,29776,suasana,nyaman,nyaman kopi lumayan,positif,positif,positif,3,positif,sepakat_semua
+7771,18317,suasana,"cozy, estetik","namun interiornya ternyata sangat luas, estetik, dan cozy",positif,positif,positif,3,positif,sepakat_semua
+1935,4870,suasana,nyaman,"Tempatnya nyaman dan bersih, pelayanannya ramah, variasi menu banyak",positif,positif,positif,3,positif,sepakat_semua
+5923,13725,suasana,nyaman,tempatnya nyaman dan kopinya enak,positif,positif,positif,3,positif,sepakat_semua
+45840,109434,suasana,"nyaman, suasana","Alhamdulillah makanan dan minuman enak enak, pelayanan baik dan ramah, suasana nyaman, tempat ibadah musholanya bersih, kamar mandi bersih cmn tempat sampah yang dibawah wastafel penempatannya terlalu ke dalam jadi tisuenya berjatuhan",positif,positif,positif,3,positif,sepakat_semua
+31056,74147,suasana,nyaman,Tempatnya nyaman,positif,positif,positif,3,positif,sepakat_semua
+31804,76661,suasana,"aesthetic, tenang","Aesthetic, cukup tenang karena ada jarak antar meja",positif,positif,positif,3,positif,sepakat_semua
+19555,47717,suasana,suasana,Ini adalah tempat yang sangat bagus dengan suasana yang menyenangkan dan berbagai macam kue dan makanan,positif,positif,positif,3,positif,sepakat_semua
+22256,53996,suasana,nyaman,namun siang hari lebih nyaman di pendoponya karena terik,positif,positif,positif,3,positif,sepakat_semua
+14835,36547,suasana,nyaman,"Arsitektur yang unik dan lingkungan yang hijau sungguh menarik, apalagi terbagi indoor non smoking, indoor non-smoking yang jarang ada, bahkan ada outdoor yang nyaman sekalu",positif,positif,positif,3,positif,sepakat_semua
+54864,127571,suasana,suasana,Suasana oke,positif,positif,positif,3,positif,sepakat_semua
+19314,47251,suasana,suasana,"Pelayanan, suasana makanan enak",positif,positif,positif,3,positif,sepakat_semua
+39768,95820,suasana,ramai,tempatnya buka dari pagi dan tidak terlalu ramai,positif,positif,positif,3,positif,sepakat_semua
+5211,12270,suasana,ambience,"Ambience dan vibenya enak, makanannya juga enak, lokasi juga strategis",positif,positif,positif,3,positif,sepakat_semua
+7281,17005,suasana,ambience,"ambience ok lah, untuk kopinya too sweet buat saya yang tidak terlalu begitu doyan manis, mgkn next bisa minta less sugar(",positif,positif,positif,3,positif,sepakat_semua
+43218,103697,suasana,nyaman,"tempat nyaman dan luas, menu beragam",positif,positif,positif,3,positif,sepakat_semua
+23112,55913,suasana,nyaman,Tempatnya nyaman dan menunya enak enak,positif,positif,positif,3,positif,sepakat_semua
+10592,26042,suasana,nyaman,Tempatnya enak dan nyaman,positif,positif,positif,3,positif,sepakat_semua
+906,2307,suasana,berisik,tapi yang tidak tll berisik,positif,positif,positif,3,positif,sepakat_semua
+34662,83836,suasana,nyaman,Nyaman tempatnya cocok buat nongkrong dan nyaman dikantong harganya,positif,positif,positif,3,positif,sepakat_semua
+19017,46438,suasana,nyaman,"tempatnya nyaman,viewnya bagus, kopinya strong enak berasa banget dengan disajikan citylight kota semarang",positif,positif,positif,3,positif,sepakat_semua
+19015,46434,suasana,cozy,"Tempatnya kece pemandangan lampulampu begitu kalau malem, cozy buat nongkrong, harga untuk menunya okelaah diatas 20k, kalau ke sana ikutin petunjuk arah dari planknya nikos yaa biar tidak nyasar apalagi malem hari ke sananya hehe",positif,positif,positif,3,positif,sepakat_semua
+21621,52320,suasana,nyaman,Tempat nongki yang nyaman dan enak,positif,positif,positif,3,positif,sepakat_semua
+40553,97541,suasana,cozy,sekilas memang cozy dan enak bikin betah,positif,positif,positif,3,positif,sepakat_semua
+7048,16368,suasana,vibes,tapi tidak mengurangi vibes untuk nongkrong,positif,positif,positif,3,positif,sepakat_semua
+31859,76879,suasana,aesthetic,kafe lattenya mantep Tempatnya mungil dan aesthetic,positif,positif,positif,3,positif,sepakat_semua
+56946,132725,suasana,nyaman,Tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+16073,39243,suasana,nyaman,kafenya bagus dan nyaman,positif,positif,positif,3,positif,sepakat_semua
+47624,113135,suasana,nyaman,Bento Kopi Semarang memang salah satu tempat nongkrong yang paling nyaman di kota ini,positif,positif,positif,3,positif,sepakat_semua
+1422,3708,suasana,nyaman,"buat minuman sebenernya oke, tempat juga nyaman buat nongkrong",positif,positif,positif,3,positif,sepakat_semua
+35151,84972,suasana,nyaman,"Tempat nyaman, makanan ok",positif,positif,positif,3,positif,sepakat_semua
+45815,109374,suasana,nyaman,Tempat Lumayan Bagus Working Space nyaman & dingin,positif,positif,positif,3,positif,sepakat_semua
+441,1140,suasana,nyaman,Tempat nongkrong bareng sama teman yang asyik dan nyaman Lokasi strategis dekat dengan pusat kota Area parkir mobil yang luas,positif,positif,positif,3,positif,sepakat_semua
+57586,133900,suasana,nyaman,"Tempatnya nyaman, luas, terutama bagian outdoor",positif,positif,positif,3,positif,sepakat_semua
+13465,33471,suasana,nyaman,Untuk tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+48790,115149,suasana,nyaman,Tempat nyaman,positif,positif,positif,3,positif,sepakat_semua
+55776,129915,suasana,nyaman,Bersih tempatnya dan nyaman,positif,positif,positif,3,positif,sepakat_semua
+2984,7191,suasana,nyaman,Nyaman tempatnya,positif,positif,positif,3,positif,sepakat_semua
+21807,52759,suasana,"nyaman, suasana",Tempat yang bagus dan suasana yang nyaman,positif,positif,positif,3,positif,sepakat_semua
+4463,10649,suasana,nyaman,tempatnya nyaman dan paling favorit buat “kopi susunya,positif,positif,positif,3,positif,sepakat_semua
+36007,86939,suasana,cozy,"Tempatnya Cozy, enak buat nongkrong dan ngobrol",positif,positif,positif,3,positif,sepakat_semua
+51363,120733,suasana,nyaman,Enak banget tempatnya nyaman lagi,positif,positif,positif,3,positif,sepakat_semua
+31353,75246,suasana,nyaman,"tempat yang nyaman ketika sore dan malam buat nongkrong , dekat dari simpang lima semarang",positif,positif,positif,3,positif,sepakat_semua
+43255,103780,suasana,nyaman,"tempatnya nyaman banget, cocok buat kumpul bareng keluarga",positif,positif,positif,3,positif,sepakat_semua
+36006,86933,wifi,wifi,Wifinya gopok lemot banget,negatif,negatif,positif,3,negatif,mayoritas
+49630,116825,wifi,wifi,"sayangnya tidak dilengkapi WiFi, Tiap tempat duduk sebisa mungkin terdapat colokan listrik disamping kursi",negatif,negatif,positif,3,negatif,mayoritas
+49027,115582,wifi,wifi,Tapi wifinya lambat dan kadang tbtb ilang,negatif,negatif,positif,3,negatif,mayoritas
+30803,73490,wifi,wifi,"Wifi jelek tidak stabil, pelayanan kurang responsif",negatif,negatif,positif,3,negatif,mayoritas
+4810,11531,wifi,wifi,g ad wifinya dan pelayanan kurang ramah,negatif,negatif,positif,3,negatif,mayoritas
+55142,128225,wifi,wifi,Belum ada WiFinya,negatif,negatif,positif,3,negatif,mayoritas
+42664,102303,wifi,wifi,"Makanan dan kopinya biasa saja, wifinya agak lemot",negatif,negatif,positif,3,negatif,mayoritas
+51285,120523,wifi,wifi,saya tanya wifi tidak dijawab karena baru pertama kali,negatif,negatif,positif,3,negatif,mayoritas
+38914,94077,wifi,wifi,"tapi sayang tempatnya ada sarang laba laba,dan wifinya agak kenit",negatif,negatif,positif,3,negatif,mayoritas
+14831,36539,wifi,wifi,"wifi di smoking area lemot dan ada suara nyaring (mungkin acnya) bikin kurang nyaman di telinga walaupun tempatnya enak, nyaman, dingin",negatif,negatif,positif,3,negatif,mayoritas
+21598,52271,wifi,wifi,Rasanya biasa saja kopinya rasa juga standard WiFinya lemot dan dibatasi,negatif,negatif,positif,3,negatif,mayoritas
+13219,32731,wifi,wifi,“NO WIFI”,negatif,negatif,positif,3,negatif,mayoritas
+20990,50911,wifi,wifi,dengan harga segitu harusnya wifinya bisa improve,negatif,negatif,negatif,3,negatif,sepakat_semua
+3385,8163,wifi,wifi,"tidak recommended Buruk banget,wifi jangkauan cuma di barnya,tidak ada stop kontak,kopinya juga kurang",negatif,negatif,negatif,3,negatif,sepakat_semua
+8563,20554,wifi,wifi,WIFInya LEMOT SEKALI,negatif,negatif,negatif,3,negatif,sepakat_semua
+35407,85520,wifi,wifi,wifi kurang kencang,negatif,negatif,negatif,3,negatif,sepakat_semua
+42691,102350,wifi,wifi,tapi wifinya lemot,negatif,negatif,negatif,3,negatif,sepakat_semua
+5894,13630,wifi,sinyal,"panas, sinyal jelek, tidak sesuai ekspektasi",negatif,negatif,negatif,3,negatif,sepakat_semua
+23307,56312,wifi,wifi,"Saya dari jakarta dan mencari tempat untuk WFC, wifi di tempat ini hanya di batasi per 3 jam (like seriously)",negatif,negatif,negatif,3,negatif,sepakat_semua
+26560,63234,wifi,wifi,Ternyata tidak ada wifinya,negatif,negatif,negatif,3,negatif,sepakat_semua
+54679,127173,wifi,wifi,"View pemandangan semarang bawah cukup bagus, tempat nyaman,parkir untuk mobil kurang luas, makanan lumayan enak, harga standar, wifi kategori lemot waktu",negatif,negatif,negatif,3,negatif,sepakat_semua
+49785,117183,wifi,"sinyal, wifi","tapi wifinya jelek banget ,sinyal kdg ilang ilang tidak jlas",negatif,negatif,negatif,3,negatif,sepakat_semua
+38808,93779,wifi,wifi,"tapi belum pernah ada perubahan sejak pertama kali ke sini , coffeshop yang nyaman untuk bekerja ataupun mengerjakan tugas ,tapi wifi sering bermasalah atau lemot ,jika masih",negatif,negatif,negatif,3,negatif,sepakat_semua
+26478,63018,wifi,wifi,tidak terlalu recommended untuk anak anak milenial yang hobi nyari colokan plus Wi-Fi,negatif,negatif,negatif,3,negatif,sepakat_semua
+18915,46199,wifi,wifi,"makanan oke, tempat oke, wifi sampah soalnya make provider wifi im3 (yang terkenal sampah) padahal kondisi kafe hanya ramai di atas dan dibawah tidak ada orang saran kalau mau ke sini buat nongkrong saja, kalau buat nugas sampai natalan kuda",negatif,negatif,negatif,3,negatif,sepakat_semua
+37256,90393,wifi,wifi,"Kopinya enak, tempatnya tidak nyaman AC mati kondisi ruangan panas, wifi mati nyala terus",negatif,negatif,negatif,3,negatif,sepakat_semua
+26559,63233,wifi,wifi,Tapi payah banget pas makanan sudah datang ditanya wifi,negatif,negatif,negatif,3,negatif,sepakat_semua
+33299,80248,wifi,wifi,"Tolong perbaiki jangkauan wifinya, connect",negatif,negatif,negatif,3,negatif,sepakat_semua
+27294,64810,wifi,wifi,"tapi wifinya bikin istighfar terus, putus nyambung",negatif,negatif,negatif,3,negatif,sepakat_semua
+50220,118128,wifi,wifi,"Apaan, wifi lemot bikin ngegame tidak lancar",negatif,negatif,negatif,3,negatif,sepakat_semua
+28906,69301,wifi,wifi,"Enak, cuma wifinya gajelas",negatif,negatif,negatif,3,negatif,sepakat_semua
+7240,16850,wifi,wifi,tapi wifi tidak ngebut,negatif,negatif,negatif,3,negatif,sepakat_semua
+12178,30235,wifi,wifi,"mantap, tempat ngopi nylempit yang tenang buat kerja walaupun tanpa fitur wifi, kopinya juara, parkiran motor, smoking area, bawa mobil, mesti parkir di thamrin yaah",negatif,negatif,negatif,3,negatif,sepakat_semua
+55226,128497,wifi,wifi,tapi beberapa hari ini wifinya trobel terus,negatif,negatif,negatif,3,negatif,sepakat_semua
+55742,129861,wifi,wifi,Wifi lemot,negatif,negatif,negatif,3,negatif,sepakat_semua
+20983,50883,wifi,wifi,tapi semakin lama wifinya semakin lemot dan acnya semakin panas,negatif,negatif,negatif,3,negatif,sepakat_semua
+26561,63235,wifi,wifi,Saran kasih akses wifi dong,negatif,negatif,negatif,3,negatif,sepakat_semua
+28674,68746,wifi,wifi,Tersedia wifi,negatif,negatif,negatif,3,negatif,sepakat_semua
+41929,100979,wifi,wifi,wifi ribet,negatif,negatif,negatif,3,negatif,sepakat_semua
+54213,126146,wifi,wifi,Wifinya tidak jalan,negatif,negatif,negatif,3,negatif,sepakat_semua
+5469,12776,wifi,wifi,Tapi WiFi pas saya coba agak lambat,negatif,negatif,negatif,3,negatif,sepakat_semua
+4928,11832,wifi,"internet, wifi","Wifi Internet lemot, buat nugas tidak worth it, mengecewakan",negatif,negatif,negatif,3,negatif,sepakat_semua
+2722,6737,wifi,wifi,Minusnya tidak begitu banyak space dan wifinya agak lemot hehe,negatif,negatif,negatif,3,negatif,sepakat_semua
+28038,67014,wifi,wifi,"Vintage sekali lokasinya, yang kurang belum ada wifinya sih",negatif,negatif,negatif,3,negatif,sepakat_semua
+10027,24362,wifi,wifi,wifi jelek/lemot,negatif,negatif,negatif,3,negatif,sepakat_semua
+26393,62791,wifi,wifi,Tapi tidak ada wifi and yang lebih lebih lagi,negatif,negatif,negatif,3,negatif,sepakat_semua
+55576,129378,wifi,wifi,Minta tolong kak untuk area wifinya di tambah lagi mbpsnya yaa,negatif,negatif,negatif,3,negatif,sepakat_semua
+24803,59068,wifi,wifi,"wifi gabisa dipake sudah,kurang adem kurang cocok",negatif,negatif,negatif,3,negatif,sepakat_semua
+26737,63622,wifi,wifi,"Tidak ada WiFi dan AC panas di siang hari, colokan sedikit",negatif,negatif,negatif,3,negatif,sepakat_semua
+28015,66963,wifi,wifi,"Parkir mobil tidak luas, dan belum ada wifi",negatif,negatif,negatif,3,negatif,sepakat_semua
+27988,66888,wifi,wifi,tidak ada wifinya,negatif,negatif,negatif,3,negatif,sepakat_semua
+49679,116940,wifi,"sinyal, wifi",Sinyal wifi lelet padahal aku datang buat main game,negatif,negatif,negatif,3,negatif,sepakat_semua
+28226,67479,wifi,wifi,tidak ada wifi,negatif,negatif,negatif,3,negatif,sepakat_semua
+46179,110168,wifi,wifi,"wifi lemot, colokan kabel banyak yang tidak nyala",negatif,negatif,negatif,3,negatif,sepakat_semua
+32158,77642,wifi,wifi,tapi wifinya lemot banget bahkan buat nulis review ini saja tidak bisa sama sekali loh,negatif,negatif,negatif,3,negatif,sepakat_semua
+32100,77516,wifi,wifi,Cuma sangat tidak cocok untuk kerja di sini karena wifi di lantai 2 sering tidak stabil bahkan tidak bisa terhubung,negatif,negatif,negatif,3,negatif,sepakat_semua
+1136,2957,wifi,wifi,sayang wifinya kurang kenceng,negatif,negatif,negatif,3,negatif,sepakat_semua
+12003,29710,wifi,wifi,Nyaman deh syg wifinya sering eror,negatif,negatif,negatif,3,negatif,sepakat_semua
+28167,67316,wifi,sinyal,tapi sayang kalau di lantai bawah susah sinyal broww kalau kopinya decent si,negatif,negatif,negatif,3,negatif,sepakat_semua
+16929,41099,wifi,wifi,"Wifinya tidak dipakai, kopi tidak sesuai ekspektasi",negatif,negatif,negatif,3,negatif,sepakat_semua
+25221,59933,wifi,wifi,"Kentang keras, ayam sedikit nasinya banyak tidak worth it banget wkwkwk minuman juga sepertinya pakai instan instan semua mbaknya nyolot banget lagi pas ditanya password wifi",negatif,negatif,negatif,3,negatif,sepakat_semua
+35848,86619,wifi,"internet, wifi",Kecepatan internet atau WiFi standar sekitar 10-13 Mbps,negatif,netral,negatif,3,negatif,mayoritas
+30119,71913,wifi,wifi,"wifinya tidak bisa rusak atau apa lah alasannya ,tempaynya terlalu dikit full",negatif,negatif,negatif,3,negatif,sepakat_semua
+4486,10707,wifi,wifi,mungkin bisa diperhatikan karena wifi salah satu alasan orang nyaman berada disebuah kafe,negatif,negatif,negatif,3,negatif,sepakat_semua
+38656,93404,wifi,wifi,"baristanya tidak ramah & tidak informatif sama sekali sayang bgtpdhl datang ke sini buat nugas karena wifi kosan mati, ehh trnyt malah tidak ada wifi di sini, sudah terlanjur mesen jadi yaudah",negatif,negatif,negatif,3,negatif,sepakat_semua
+27304,64840,wifi,wifi,oh ya pas ke sini wifinya lagi error,negatif,negatif,negatif,3,negatif,sepakat_semua
+27329,64882,wifi,wifi,"AC tidak dingin, wifi tidak memadai",negatif,negatif,negatif,3,negatif,sepakat_semua
+46939,111740,wifi,wifi,Wifinya tidak bisa nyambung samsek,negatif,negatif,negatif,3,negatif,sepakat_semua
+7649,18052,wifi,wifi,"wifinya lemot,kopinya enak sih",negatif,negatif,negatif,3,negatif,sepakat_semua
+23415,56514,wifi,wifi,"tapi lebih terjangkau yang anehnya harga makanan rata"" sama masa iya mie sama singkong harganya mirip agak syok, terus wifi juga dibatasi 3jam sekali mana harus nyebut",negatif,negatif,negatif,3,negatif,sepakat_semua
+27336,64893,wifi,wifi,"impresi yang buruk untuk pertama kali datang, wifi tidak bisa padahal dibutuhkan",negatif,negatif,negatif,3,negatif,sepakat_semua
+22530,54599,wifi,wifi,wifinya lemah kadang tidak jalan dan karena ramai banget jadi waitersnya nampak lelah layu,negatif,negatif,negatif,3,negatif,sepakat_semua
+52254,122401,wifi,wifi,"Wifinya eror, dilimit gabisa join",negatif,negatif,negatif,3,negatif,sepakat_semua
+52075,121926,wifi,"sinyal, wifi","wifi jelek gabisa nyambung selalu hilang dan tidak ada sinyal kalaupun nyambung, kamar mandi sangat bau pesing, autdoor ujung tidak nyaman",negatif,negatif,negatif,3,negatif,sepakat_semua
+55063,128041,wifi,wifi,tapi di jaman sekarang wifi dan passnya tidak di cantumin di struk,negatif,negatif,negatif,3,negatif,sepakat_semua
+9983,24266,wifi,wifi,"B3 saja, tempat bagus cuma wifinya saja yang lemot",negatif,negatif,negatif,3,negatif,sepakat_semua
+43816,105071,wifi,wifi,"tapi sudah lama ac rusak tidak diperbaikin, wifi juga lemot dan sering trouble, toilet juga kotor, tempatnya jadi tidak nyaman sudah tidak kayak dulu lagi, semoga dari ownernya lebih perhatikan operasionalnya biar barista dan customer sama sama nyaman, thankyouu",negatif,negatif,negatif,3,negatif,sepakat_semua
+56639,131953,wifi,wifi,tapi wifinya gangsret gangsret,negatif,negatif,negatif,3,negatif,sepakat_semua
+32157,77641,wifi,"internet, wifi","kafe elit, internet sulit masalahnya signal selulernya di dalem cuma 2 jadi harus pakai wifi",negatif,negatif,negatif,3,negatif,sepakat_semua
+38848,93902,wifi,wifi,"Dari segi tempat dan ambiancenya oke, harga ramah di kantong rasanya tidak main main cuma minusnya tempatnya agak kotor di smoking indoornya ada sarang laba laba, wifinya lemot dan tukang parkirnya nyolot banget",negatif,negatif,negatif,3,negatif,sepakat_semua
+29902,71551,wifi,wifi,"Wifi mati, confirmed by barista",negatif,negatif,negatif,3,negatif,sepakat_semua
+18785,45830,wifi,wifi,"Nyaman buat nugas,wifinya yang kudu dibenerin",negatif,negatif,negatif,3,negatif,sepakat_semua
+44495,106737,wifi,wifi,"Tempat kecil, wifi buruk",negatif,negatif,negatif,3,negatif,sepakat_semua
+55081,128072,wifi,wifi,Apaguna tempat gede tidak ada WIFI,negatif,negatif,negatif,3,negatif,sepakat_semua
+56875,132535,wifi,wifi,"Tolong dong wifi nyaa dibenerin, lemot banget kadang gabisa nyambung",negatif,negatif,negatif,3,negatif,sepakat_semua
+16892,41026,wifi,wifi,"Parkiran sempit , WiFi putus nyambung , tehnya rasa aneh kayag rebusan berkali² bikin mual",negatif,negatif,negatif,3,negatif,sepakat_semua
+57115,133061,wifi,koneksi,"Halo, mau komplain soal koneksi Wi-Finya dong",negatif,negatif,negatif,3,negatif,sepakat_semua
+32391,78159,wifi,wifi,Wifi kagak jelas nying,negatif,negatif,negatif,3,negatif,sepakat_semua
+20523,49878,wifi,wifi,"Wifi tidak dapat digunakan, parkir 5 rbu bayar duluan",negatif,negatif,negatif,3,negatif,sepakat_semua
+24036,57626,wifi,wifi,Wifi buruk,negatif,negatif,negatif,3,negatif,sepakat_semua
+55750,129873,wifi,wifi,"AC mati, tidak ada tisue di WC, Wifi lemot",negatif,negatif,negatif,3,negatif,sepakat_semua
+37953,91745,wifi,wifi,Kopinya joss banget sayang wifinya ampun,negatif,negatif,negatif,3,negatif,sepakat_semua
+11661,28839,wifi,wifi,"Pelayanan buruk, terlalu banyak karyawan pada ngobrol lupa pesanan,parah,ini hari minggu 26 November jam 1630,tidak terlalu ramai,alesan yang digunakan adalah wifi mati",negatif,negatif,negatif,3,negatif,sepakat_semua
+56948,132730,wifi,wifi,"pelayanannya ramah, penjualnya malas, kualitasnya buruk, wifinya lambat, dan udaranya panas",negatif,negatif,negatif,3,negatif,sepakat_semua
+55188,128353,wifi,wifi,tapi wifi manaa,negatif,negatif,negatif,3,negatif,sepakat_semua
+28318,67766,wifi,wifi,kalau mau ngasih fasilitas wifi ya jangan dimatiin tiba tiba,negatif,negatif,negatif,3,negatif,sepakat_semua
+9294,22687,wifi,wifi,"SEMENJAK GANTI PROVIDER WIFI JADI BUSUK, HARUS RE LOG DAN ADA IKLANnya LAMA",negatif,negatif,negatif,3,negatif,sepakat_semua
+25729,61100,wifi,wifi,"Makanan biasa minuman harga mahal,tempat bagus pelayanan kurang,WiFi di batasi datang 3 orang yang pakai 1 orang saja",negatif,negatif,negatif,3,negatif,sepakat_semua
+52065,121897,wifi,wifi,"rese wifinya tbtb dimatiin, tukang parkirnyabjuga tbtb datang mana minta tambah 500 lagi kalau bayar ke qris",negatif,negatif,negatif,3,negatif,sepakat_semua
+43683,104637,wifi,wifi,"Wi-Fi Jelek Banget dari jaman kapan nggapernah dibetulin bikin nggabetah, sangat tidak disarankan kalau mau nugas di sini",negatif,negatif,negatif,3,negatif,sepakat_semua
+27960,66815,wifi,wifi,"Biarpun tanpa wifi tetap menyenangkan, ngopi dan ngobrolnya jadi lebih intens dan asyik",negatif,negatif,negatif,3,negatif,sepakat_semua
+6028,14026,wifi,wifi,WIFI TIDAK BISA CONNECT padahal banyak jaringannya,negatif,negatif,negatif,3,negatif,sepakat_semua
+3188,7639,wifi,wifi,"Tempatnya nyaman, free wifi, minuman dan snacknya murah",netral,netral,negatif,3,netral,mayoritas
+1469,3836,wifi,wifi,"Kren, tempat dingin nyaman, ada wifi",netral,netral,negatif,3,netral,mayoritas
+22072,53459,wifi,wifi,"Tempatnya nyaman, ada wifinya",netral,netral,negatif,3,netral,mayoritas
+24507,58405,wifi,wifi,recommended dan ada wifi juga jangan lupa mampir ya,netral,netral,negatif,3,netral,mayoritas
+28793,69009,wifi,wifi,"Free wifi,, jadi betah nongkrong deh",netral,netral,negatif,3,netral,mayoritas
+32189,77717,wifi,wifi,"Ada wifi dan stop kontak, jadi bisa buat yang mau ngerjain tugas atau skripsi",netral,netral,negatif,3,netral,mayoritas
+21420,51873,wifi,wifi,Free wifi,netral,netral,positif,3,netral,mayoritas
+49521,116560,wifi,wifi,Wifi gratis,netral,netral,positif,3,netral,mayoritas
+49432,116376,wifi,wifi,"Fish dan chipsnya enak, harga menengah, sudah ada mushola, ac, wifi, bean bag",netral,netral,positif,3,netral,mayoritas
+53312,124574,wifi,wifi,"hidden germ in Ngaliyan, buat yang kos di area sini cocok buat healing kalau lagi bosen, ada wifi , AC",netral,netral,positif,3,netral,mayoritas
+11400,28173,wifi,wifi,"Menunya banyak pilihan, tempatnya lebih luas dan nyaman, terdapat wifi dan colokan listrik di tiap meja jadi kalau bisa kalau mau sekadar nongkrong atau mau seklian mengerjakan tugas, ada area terpisah untuk perokok",netral,netral,positif,3,netral,mayoritas
+41034,98765,wifi,wifi,"Tempatnya cukup luas, ada indoor, outdoor, smooking indoor, wifi",netral,netral,positif,3,netral,mayoritas
+15272,37479,wifi,wifi,"Lokasi di puri anjasmoro, tempatnya nyaman, ada wifi dan colokan",netral,netral,positif,3,netral,mayoritas
+3099,7450,wifi,wifi,Ada colokan & wifi,netral,netral,positif,3,netral,mayoritas
+43172,103587,wifi,wifi,Free wifi plus stop kontak,netral,netral,positif,3,netral,mayoritas
+28907,69303,wifi,wifi,"Cozy, ada wifi, harga terjangkau",netral,netral,positif,3,netral,mayoritas
+9636,23450,wifi,wifi,Ada wifi,netral,netral,positif,3,netral,mayoritas
+25769,61179,wifi,wifi,"Tempat kuliner dengan harga terjangkau, ada wifi, view barang-barang lawas",netral,netral,positif,3,netral,mayoritas
+42676,102325,wifi,wifi,Tempat nongkrong enak WiFi juga ada jadi betah wis,netral,netral,positif,3,netral,mayoritas
+49880,117375,wifi,wifi,"Ada WiFi , smoking room, AC",netral,netral,positif,3,netral,mayoritas
+28901,69288,wifi,wifi,"Enak buat nongkrong, ada wifi",netral,netral,positif,3,netral,mayoritas
+23118,55925,wifi,wifi,"Ada wifi harga bersahabat, cuma tidak 24jam",netral,netral,positif,3,netral,mayoritas
+34603,83696,wifi,internet,"Pertama kali mencoba ngopi di sini dan bermain internet, suka sih, untuk harga minuman dan makanan di sini standar,tidak mahal dan tidak murah",netral,netral,positif,3,netral,mayoritas
+42899,102976,wifi,wifi,"tempatnya keren aesthetic, pelayanannya baguss, pegawainya ramah, buat nongkrong bakaln betah ada free wifi+tempat chargernya",netral,netral,positif,3,netral,mayoritas
+8620,20736,wifi,"internet, koneksi",Harga cukup sepadan dengan tempat dan koneksi internet,netral,netral,positif,3,netral,mayoritas
+56874,132523,wifi,wifi,tapi masalah WIFI ada banyak,netral,netral,positif,3,netral,mayoritas
+21809,52771,wifi,wifi,Tempat nyaman untuk menghabiskan waktu dengan wifi atau berbagi momen bersama teman-teman,netral,netral,positif,3,netral,mayoritas
+49258,116049,wifi,wifi,Tempatnya sangat cozy untuk nongkrong bareng teman dan mengerjakan tugas karena terdapat wifi dan ac,netral,netral,positif,3,netral,mayoritas
+20174,49059,wifi,wifi,"Tempatnya cukup luas , deket jalan raya, deket musola, ada wifinya",netral,netral,positif,3,netral,mayoritas
+4597,10968,wifi,wifi,sudah dikasih psw wifi di,netral,netral,positif,3,netral,mayoritas
+36154,87301,wifi,wifi,Tersedia WiFi dan colokan bagi yang ingin berlama-lama ditempat ini,netral,netral,positif,3,netral,mayoritas
+49510,116537,wifi,wifi,"tempatnya dingin, ada wifi gratisnya, makanannya juga enak enak, pelayanannya ramah dan jelas",netral,netral,positif,3,netral,mayoritas
+33445,80603,wifi,wifi,"harganya affordable, makanan dan minumannya enak, cozy buat wfc sambil menunggu keberangkatan, free wifi",netral,netral,positif,3,netral,mayoritas
+27109,64353,wifi,wifi,"Harga terjangkau, tempat nyaman, tersediq wifi",netral,netral,positif,3,netral,mayoritas
+32144,77606,wifi,wifi,"cocok buat ngerjain tugas karena buka 24 jam, dan fasilitasnya cukup oke seperti free wifi, ada ruangan ber ac atau yang smoking area juga ada, colokan banyak, toilet bersih, pelayanan cepat",netral,netral,positif,3,netral,mayoritas
+49786,117184,wifi,wifi,"kalau memang keberatan wifi ,jangan buka tempat makan ,buka saja warung makan biar tidak jajan kuli ,tkg becak ,tkg sayur dan lain lain bukan mahasiswa atau pelajar yang di",netral,netral,positif,3,netral,mayoritas
+32282,77918,wifi,wifi,"Oke buat nugas, colokan ada, wifi ada",netral,netral,positif,3,netral,mayoritas
+31094,74242,wifi,wifi,"Makanannya enak, ada fasilitas wifi dan lain lain",netral,netral,positif,3,netral,mayoritas
+54764,127351,wifi,wifi,Free wifi juga,netral,netral,positif,3,netral,mayoritas
+38204,92328,wifi,wifi,"ada wifi, dan tempat duduk yang lesehan, indoor, maupun outdoor, jadi cocok buang nugas ataupun photo photo nongki nongki biasa",netral,netral,positif,3,netral,mayoritas
+12017,29742,wifi,wifi,"asyik buat nongkrong, ada wifi, makanan lumayan",netral,netral,positif,3,netral,mayoritas
+47548,112962,wifi,"sinyal, wifi",Sinyal wifi dan colokan banyak tersedia,netral,netral,positif,3,netral,mayoritas
+9221,22511,wifi,wifi,"Kami semua memesan menu, tidak ada satupun yang hanya ""menumpang"", bahkan wifi pun tidak kami gunakan",netral,netral,positif,3,netral,mayoritas
+27259,64716,wifi,wifi,mungkin yang ditingkatin wifinya sama banyakin stock Chicken Pie pls,netral,netral,positif,3,netral,mayoritas
+40620,97779,wifi,wifi,"Tempat ngopi yang bersih, ada wifi, tidak begitu ramai juga, enak buat nugas atau sekadar nongkrong sama teman/keluarga",netral,netral,positif,3,netral,mayoritas
+56632,131936,wifi,wifi,Free wifi tempat charge banyak dan musiknya jedug jedug bikin betah,netral,netral,positif,3,netral,mayoritas
+52200,122260,wifi,wifi,Mending makan di warmindo wifi kenceng,netral,positif,positif,3,positif,mayoritas
+28607,68567,wifi,wifi,"Tempatnya nyaman & tersedia wifi, makanannya juga enak dengan harga yang masih bisa dijangkau untuk ukuran kafe, kopi susunya juara sih pas banget di lidah",netral,netral,positif,3,netral,mayoritas
+46033,109908,wifi,wifi,PIMA WILL BE MY FAV KAFE FOR ALL THE TIME SOALNYA ENAK PW CAKENYA BEST dan ENAK banget dan PW dan AC SUPER DINGIN WIFI SUPER BAGUS dan KAKAK2NYA BAIK BAIK banget best,positif,positif,positif,3,positif,sepakat_semua
+24533,58457,wifi,wifi,"Ada tax 10%, tempat comfy, wifi kencang",positif,positif,positif,3,positif,sepakat_semua
+37809,91519,wifi,wifi,"wifinya kenceng, tempatnya enak banget buat nugas, makanan minuman overall enak parah, harga standar and worth every penny",positif,positif,positif,3,positif,sepakat_semua
+38459,92901,wifi,wifi,"Tempatnya benar benar cozy banget, wifi lancar buat kerja juga asyik dan apalagi kopinya selalu juara enak banget",positif,positif,positif,3,positif,sepakat_semua
+12394,30793,wifi,wifi,"cocok untuk WFC/skripsian, tidak ada batas waktu, wifi lancar no macet”, pelayanan oke",positif,positif,positif,3,positif,sepakat_semua
+21993,53251,wifi,wifi,wifi is ok,positif,positif,positif,3,positif,sepakat_semua
+46143,110126,wifi,wifi,"nyaman, banyak meja, 3 lantai, bersih, peralatan lengkap semua, wifi kencang, ayo buka 24 jam",positif,positif,positif,3,positif,sepakat_semua
+14497,35699,wifi,wifi,"ENAK, TERJANGKAO NDES, WIFI BANTER",positif,positif,positif,3,positif,sepakat_semua
+33319,80284,wifi,wifi,"Parkir luas, wifi kenceng, colokan everywhere, ada ruang khusus sendirian/introvert, hehe recommended lah nugas di sini",positif,positif,positif,3,positif,sepakat_semua
+48277,114241,wifi,wifi,minuman dan makananya juga enak harga terjangkau dan pastinya WiFi kenceng yeayy,positif,positif,positif,3,positif,sepakat_semua
+30860,73625,wifi,wifi,"Tempat nyaman, wifi kenceng, AC dingin, tempat outdoor oke, tempat AC tuk perokok juga ada, harga mahasiswa",positif,positif,positif,3,positif,sepakat_semua
+56629,131928,wifi,wifi,"Temaptnya luas, wifinya lancar, menu makananya lengkap",positif,positif,positif,3,positif,sepakat_semua
+4842,11641,wifi,wifi,"Pegawai ramah, bersih, wangi, wifi oke, dan ada printer GRATIS buat mahasiswa ngeprint tugas",positif,positif,positif,3,positif,sepakat_semua
+49043,115623,wifi,wifi,"kopi enak, pelayanan oke, speed wifi oke, working space well banget, suasana tenang",positif,positif,positif,3,positif,sepakat_semua
+34636,83767,wifi,wifi,Wifinya kenceng,positif,positif,positif,3,positif,sepakat_semua
+3714,8958,wifi,internet,"Banyak stop kontak, internet ngebut",positif,positif,positif,3,positif,sepakat_semua
+25476,60498,wifi,wifi,"Coffeshop yang cocok untuk santuy kopinya enak, wifinya kencang, tempatnya cozy",positif,positif,positif,3,positif,sepakat_semua
+50194,118062,wifi,wifi,"Murah, enak, wifi jossd, tempat ok",positif,positif,positif,3,positif,sepakat_semua
+40958,98528,wifi,wifi,"ada indoor, outdoor, dan indoor smooking area tempatnya yang indoor enak buat nugas karena wifinya kenceng dan tempat duduknya nyaman",positif,positif,positif,3,positif,sepakat_semua
+12566,31249,wifi,wifi,Wifi kenceng Toilet saja yang kotor banget Soalnya tidak ada cleaning servicenya,positif,positif,positif,3,positif,sepakat_semua
+26198,62218,wifi,wifi,"Enak banget buat nugas/kerja, ada biliknya, cocok buat me time, WiFi juga oke",positif,positif,positif,3,positif,sepakat_semua
+31958,77199,wifi,wifi,"Tempatnya nyaman, AC dingin, Wifi lancar, smoking & no smoking roomnya ada 2 dilantai atas & bawah",positif,positif,positif,3,positif,sepakat_semua
+37659,91215,wifi,wifi,"Tempatnya super cozy, cocok buat nugas/kerja karena disupport wifi yang speednya kenceng banget",positif,positif,positif,3,positif,sepakat_semua
+34551,83605,wifi,wifi,"Tempatnya luas, banyak tempat duduk & colokan, wifi cepat, AC dingin banget btw minus susah cari tissue di sini, hehe",positif,positif,positif,3,positif,sepakat_semua
+38388,92767,wifi,wifi,"Kopi enak, wifi lumayan kenceng, berarsitektur kekinian & comfortable",positif,positif,positif,3,positif,sepakat_semua
+32394,78164,wifi,wifi,"Wifi kenceng, menu lengkap",positif,positif,positif,3,positif,sepakat_semua
+57051,132930,wifi,wifi,"tidak salah pilih tempat buat WFC sih, proper buat laptopan (wifi lancar + banyak colokan), vibes sorenya magis banget, view sunset dari sini cakep parah, benar-benar obat stres, tuh aku fotoin cakep banget",positif,positif,positif,3,positif,sepakat_semua
+48250,114188,wifi,wifi,"Tempatnya sangat nyaman, pelayanannya ramah sekali, makanannya relatif murah dan enak, dan wifinya kencang",positif,positif,positif,3,positif,sepakat_semua
+46848,111577,wifi,wifi,wifi lancar,positif,positif,positif,3,positif,sepakat_semua
+2804,6883,wifi,wifi,"Tempatnya sangat nyaman, cocok untung mengerjakan tugas, ac dingin, wifi kencang, kopinya enak",positif,positif,positif,3,positif,sepakat_semua
+6949,16108,wifi,wifi,"Cozy banget, makanannya enak dan murah, wifinya kenceng",positif,positif,positif,3,positif,sepakat_semua
+26956,64096,wifi,wifi,"ke sini sudah bbrapa kali, ju²r suka nongkrong dsni karena wifinya kenceng, enak buat download²",positif,positif,positif,3,positif,sepakat_semua
+39251,94828,wifi,wifi,Free wifi lancar,positif,positif,positif,3,positif,sepakat_semua
+49403,116323,wifi,wifi,"Menu lumayan bervariasi, wifi cepat",positif,positif,positif,3,positif,sepakat_semua
+33298,80247,wifi,wifi,Ini bakal jadi kafe favorit buat belajar sih kalau wifinya tidak jelek,positif,positif,positif,3,positif,sepakat_semua
+34600,83694,wifi,wifi,"Wifi kenceng, ada tempat outdoor dan indoor, parkiran luas, AC dingin, cocok buat diskusi, nye-kripsi, dan kerja wfh, owner ramah dan pelayanan cepat",positif,positif,positif,3,positif,sepakat_semua
+56426,131436,wifi,wifi,enak wifinya lancar makanan dan minumannya juga josjis,positif,positif,positif,3,positif,sepakat_semua
+19913,48412,wifi,wifi,"WiFi cepat, harga murah, makanan enak, minuman enak",positif,positif,positif,3,positif,sepakat_semua
+38013,91872,wifi,wifi,"Makanan enak, minuman enak, wifi cepat, tempat juga lumayan luas ada indoor ac dingin dan outdoor",positif,positif,positif,3,positif,sepakat_semua
+55029,127927,wifi,wifi,Tersedia kursi meja yang cocok buat kerja atau nugas karena wifi cukup memadai,positif,positif,positif,3,positif,sepakat_semua
+55027,127925,wifi,wifi,Wifi juga tetap kencang walau kondisi ramai,positif,positif,positif,3,positif,sepakat_semua
+39287,94894,wifi,wifi,"rasa enak, masakan beragam, harga murah, kursi nyaman, WIFI kenceeng, AC dingin, ada TV buat presentasi, organ dan gitar, murah",positif,positif,positif,3,positif,sepakat_semua
+41058,98818,wifi,internet,"Ini tempat nongkrongnya anak muda banget Kopinya enak, suasana enak, menu variatif, konektivitas internet lumayan lancar",positif,positif,positif,3,positif,sepakat_semua
+38348,92662,wifi,wifi,"asyik ini milenial friendly banget, colokan tersedia di setiap meja dan Wifi kenceng Desain interior simpel dan diselesaikan dengan baik",positif,positif,positif,3,positif,sepakat_semua
+42465,101911,wifi,wifi,"Makananya enak, wifinya lancar, cocok buat tugas",positif,positif,positif,3,positif,sepakat_semua
+8912,21694,wifi,internet,"Direkomendasikan untuk WFC, suasananya tenang dan nyaman, dan yang terpenting adalah kecepatan internet mereka yang luar biasa hingga 100MBPS",positif,positif,positif,3,positif,sepakat_semua
+2332,5861,wifi,wifi,"Tempat nyaman bersih, cookies and creamnya sangat recommended, wifi kenceng, sangat cocok buat nongkrong",positif,positif,positif,3,positif,sepakat_semua
+21159,51245,wifi,wifi,"kafe paling enak sejauh ini menurutku buat nugas, ac dingin, wifi kenceng, colokan tiap meja ada, meja indoor banyak, minuman enak (recommended sora+ creamy banget), makanan juga enak, harga yang tergolong murah dengan rasa menu menu di sini",positif,positif,positif,3,positif,sepakat_semua
+43017,103236,wifi,wifi,"WIFI KENCENG TEMPATNYA BAGUS, ADEM ACNYA, HARGANYA lumayan",positif,positif,positif,3,positif,sepakat_semua
+8300,19825,wifi,wifi,Wifi mantap cocok banget buat wfc,positif,positif,positif,3,positif,sepakat_semua
+31527,75723,wifi,wifi,"Kopinya yummy, super comfy to work, fast wifi, banyak stop kontak, price is worth it, highly recommend lah pokoknya",positif,positif,positif,3,positif,sepakat_semua
+11422,28237,wifi,wifi,Wifinya lumayan kencang,positif,positif,positif,3,positif,sepakat_semua
+3479,8419,wifi,wifi,"tapi kurang strong, ada colokan disetiap meja, tempatnya ok buat nugas/ nongkrong, wifi lancar, harga terjangkau, pelayanan ramah & cepat",positif,positif,positif,3,positif,sepakat_semua
+26143,62064,wifi,wifi,"kopinya enak, wifi pas pagi kenceng banget, siang dikit mulai ramai agak berkurang kecepatannya",positif,positif,positif,3,positif,sepakat_semua
+38861,93948,wifi,wifi,"Cozy, wifi kenceng",positif,positif,positif,3,positif,sepakat_semua
+12443,30917,wifi,"jaringan, wifi",Selain karena jaringan wifinya yang oke,positif,positif,positif,3,positif,sepakat_semua
+33255,80173,wifi,wifi,WiFi lumayan walo tidak terlalu cepat,positif,netral,positif,3,positif,mayoritas
+30768,73402,wifi,wifi,"Makananya enak, banyak colokan, wifi lancar, enak buat nongkrong harga affordable dan coba menu platternya rasanya mantap",positif,positif,positif,3,positif,sepakat_semua
+38899,94045,wifi,wifi,"tempatnya cukup nyaman untuk nugas, wifinya oke, porsi makannya kurang cocok + es kopi susunya terlalu watery",positif,positif,positif,3,positif,sepakat_semua
+56394,131395,wifi,wifi,"nasgornya mantep, wifi kenceng, enak buat rapat/nongki sama teman",positif,positif,positif,3,positif,sepakat_semua
+16501,40167,wifi,wifi,"Wifi kenceng, tempat Oke kok",positif,positif,positif,3,positif,sepakat_semua
+42660,102291,wifi,wifi,Terpantau WiFi yang kenceng sepertinya cuma ada di sini,positif,positif,positif,3,positif,sepakat_semua
+49087,115681,wifi,wifi,"Dengan desain modern dan fasilitas lengkap seperti WiFi cepat dan area duduk yang nyaman, KM02",positif,positif,positif,3,positif,sepakat_semua
+49325,116185,wifi,wifi,"suasana tempatnya tenang dan nyaman, wifinya enceng",positif,positif,positif,3,positif,sepakat_semua
+11476,28381,wifi,wifi,wifi lumayan,positif,positif,positif,3,positif,sepakat_semua
+21805,52750,wifi,internet,"Internet cepat, daftar putar musik yang menenangkan",positif,positif,positif,3,positif,sepakat_semua
+7665,18070,wifi,wifi,"Banyak yang nugas di kafe, wifi lumayan kenceng",positif,positif,positif,3,positif,sepakat_semua
+47534,112924,wifi,wifi,Ini kafe cocok banget buat yang suka nongkrong atau mau ngerjain tugas karena wifi cepet dan ac dingin,positif,positif,positif,3,positif,sepakat_semua
+11253,27794,wifi,wifi,"Tempatnya bagus, bukanya sampai malam, tempatnya luas, wifi lumayan bagus",positif,positif,positif,3,positif,sepakat_semua
+6584,15270,wifi,wifi,"Ada service charge padahal self service, kalau siang panas ac tidak kerasa, lantainya plesteran plusnya wifi myan cpet",positif,positif,positif,3,positif,sepakat_semua
+48561,114792,wifi,wifi,"Harganya terjangkau, wifinya juga kenceng",positif,positif,positif,3,positif,sepakat_semua
+32121,77569,wifi,wifi,"tempatnya cozy, wifi kenceng, makanannya enak",positif,positif,positif,3,positif,sepakat_semua
+27743,65993,wifi,"koneksi, wifi","Kopinya enak, koneksi wifi cepat, dan pelayan ramah",positif,positif,positif,3,positif,sepakat_semua
+13204,32709,wifi,wifi,"Tempat nyaman, pelayanan oke dan cukup cepat, terdapat smoking area AC, ada wifi dan lancar",positif,netral,positif,3,positif,mayoritas
+2403,6003,wifi,wifi,"tempat cozy buat kumpul atau sekadar nongkrong, fasilitas wifi kencang, minuman enak dan pelayanan oke",positif,positif,positif,3,positif,sepakat_semua
+22975,55663,wifi,wifi,"Sukak parah sama ini kafe, benar benar nyaman banget di sini, yang bikin betah di sini itu kafenya bersih, terang banget dari cahaya matahari, wangi, dan playlist musiknya sedep banget tidak boong, dan yang terpenting wifinya kenceng, ada lesegannya jugaa",positif,positif,positif,3,positif,sepakat_semua
+14977,36866,wifi,wifi,"saya sama teman-teman juga bisa main game sambil minum kopi, soalnya ada WiFi cepet",positif,positif,positif,3,positif,sepakat_semua
+3591,8660,wifi,wifi,"Tempat baguus, nyaman dan enak banget buat ngerjain tugas, karena wifinya kenceng",positif,positif,positif,3,positif,sepakat_semua
+21043,51023,wifi,wifi,"tapi tidak ada tempat wudhu tersendiri, untuk wifi standart, makanan dsni enak enak banget, enak untuk nongki nongki dan foto foto",positif,netral,positif,3,positif,mayoritas
+57144,133134,wifi,wifi,"tempat nongkrong paling recomend didaerah semarang dan temcy sekitarnya, apalagi sekarang sudah ada indoor smookingnya jadi lebih nyaman, untuk anak"" kuliah juga harus ke sini karena di sini tidak pelit colokan buat yang ngerjain tugas pakai laptop, wifi kenceng kalau hujan saja kadang jaringanya lemot",positif,positif,positif,3,positif,sepakat_semua
+7091,16474,wifi,wifi,Wifinya kencang mantap,positif,positif,positif,3,positif,sepakat_semua
+2994,7220,wifi,wifi,"Semua oke kok, tinggal wifinya kencengin lagi plis soalnya yang datang ramai dan rata"" pada wfc",positif,netral,positif,3,positif,mayoritas
+10064,24466,wifi,internet,"kopi mantap, makanan oke, harga relatif yaa, nasi rawonnya boleh tuuh, parkir mobil saja yang agak susah, karena ada di jalan buntu, motor mah aman, smoking area ada, masih cocok buat kerja, inet masih kenceng, colokan listrik ready",positif,positif,positif,3,positif,sepakat_semua
+26980,64158,wifi,"jaringan, wifi","mantap euy, harga murah meriah jaringan wifi kenceng",positif,positif,positif,3,positif,sepakat_semua
+26968,64126,wifi,wifi,"tempat nongkrong nyaman banget buka 24 jam, wifinya lancar harganya juga terjangkau, recommended deh pokonya",positif,positif,positif,3,positif,sepakat_semua
+38833,93843,wifi,wifi,Wifi cukup lancar,positif,positif,positif,3,positif,sepakat_semua
+28713,68836,wifi,wifi,Wifi juga kenceng walaupun dipakai banyak orang ;),positif,positif,positif,3,positif,sepakat_semua
+5768,13374,wifi,wifi,Wifi lancar,positif,positif,positif,3,positif,sepakat_semua
+1342,3483,wifi,wifi,Tempat nyaman untuk seorang workaholic karena menyediakan free wifi tempat yang cozy untuk bekerja maupun mengerjakan tugas sebagai siswa/mahasiswa,positif,positif,positif,3,positif,sepakat_semua
+53595,125004,wifi,wifi,"Wifinya kenceng, banyak tempat ngecas",positif,positif,positif,3,positif,sepakat_semua
+39556,95372,wifi,wifi,"Wifi lancar dan colokan tersedia di setiap meja, jadi pas banget buat nongkrong santai",positif,positif,positif,3,positif,sepakat_semua
+42066,101285,wifi,wifi,"luas adem, bagus wifi kencang",positif,positif,positif,3,positif,sepakat_semua
+49464,116425,wifi,wifi,kafenya cozy banget Wifinya kenceng Makanan enak murah,positif,positif,positif,3,positif,sepakat_semua
+49960,117539,wifi,wifi,"Tempatnya nyaman, kebersihan aman, pelayanan ramah, deket juga dari rumah, enak lah buat kongkow ma teman, wifinya juga okelah",positif,positif,positif,3,positif,sepakat_semua
+48942,115369,wifi,wifi,Ada wifi lumayan bisa untuk ngerjain tugas,positif,netral,positif,3,positif,mayoritas
+27197,64526,wifi,wifi,Tempatnya nyaman & kopinya mantap wifinya laju,positif,positif,positif,3,positif,sepakat_semua
+14364,35396,wifi,wifi,"Wifinya cepat, ada area smoking dan non-smoking",positif,positif,positif,3,positif,sepakat_semua
+37532,90959,wifi,wifi,Sering banget ke kafe ini buat WFC karena suasananya enak banget dan WiFinya kenceng banget,positif,positif,positif,3,positif,sepakat_semua
+25282,60060,wifi,wifi,"kafe langganan kalau maen ke tembalang slain tempatnya luas, wifi kenceng, makanan dan minumannya pun enak kelebihan lain buka 24jam ccok banget buat menggabut maen game nongkrong sampai pagi buta",positif,positif,positif,3,positif,sepakat_semua
+53465,124811,wifi,wifi,"saya sering berkunjung di sini, sebagai tempat untuk mengerjakan tugas dan nongkrong santai, untuk tempat dan kenyamanan sudah sangat memuaskan dan wifi nyaa kenceng jadii cocok pokoknyaa",positif,positif,positif,3,positif,sepakat_semua

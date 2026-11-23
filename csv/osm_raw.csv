@@ -1,0 +1,75 @@
+﻿osm_id,nama,alamat,latitude,longitude,wifi,outdoor_seating,smoking,opening_hours,sumber_data
+2398142207,Cafe Pelangi,,-7.0001685,110.4265421,,,,,osm
+3410169028,Oasis Cafe & Resto,"Tumpang Raya, 41",-7.0051537,110.401767,yes,,,,osm
+3480522550,Taiwan Tea House,,-7.0033342,110.4264467,,,,,osm
+3931583931,Nuri's,,-6.9669268,110.4270253,,,,,osm
+4636891189,Kucingan Mas Nungkie,Jatingaleh,-7.0306022,110.4184879,,,,Mo-Sa 16:00-23:00,osm
+4684697490,Kedai Kopi SW,Jatingaleh,-7.0309108,110.4184415,wlan,,,Mo-Su 09:00-22:00,osm
+4703584220,Coffee Groove,,-7.0509956,110.425333,wlan,,,11:00-23:00,osm
+4703753504,I-Cos Sumurboto Banyumanik,,-7.0510043,110.4244941,,,,12:00-01:00,osm
+4703753506,Five Points Coffee and Chocolate Sumurboto Banyumanik,,-7.0509636,110.4243758,,yes,,17:00-00:00,osm
+4703753559,Stove Syndicate Coffee and Waffle,,-7.0499929,110.4230001,wlan,,,10:00-00:00,osm
+4746478624,Panutz Cafe,Dr. Kariadi,-6.993618,110.4123254,wlan,,,Mo-Sa 10:00-17:00,osm
+5028299096,RUN Cafe,,-6.9957989,110.4048614,,,,,osm
+5030538820,Kelapa Muda Anton Jaya,,-6.9815134,110.3973628,,,,,osm
+5132318321,Makabana,"Jalan Diponegoro, 22B",-7.0013676,110.4173776,wlan,,,Mo-Su 07:00-22:00,osm
+5405530722,Han's Kopi,Jl. Kusuma Wardani,-6.9956241,110.4234599,,,,,osm
+5405542026,HOC,"Hayam Wuruk, 44",-6.9960914,110.4255099,,,,,osm
+6486072258,Sego Tumpuk,"Jalan Puspanjolo Barat Raya, 20",-6.9835127,110.3977635,,no,,,osm
+7057586087,Covare,,-6.9678487,110.427278,,,,,osm
+7071652387,Converso Coffee & Eatery,"Jalan Durian Raya, 52c",-7.0617033,110.4188805,wlan,,,Mo-Su 11:00-23:00,osm
+7075294785,Moment Coffee & Space,"Jalan Rajabasa, 82-83",-7.0206882,110.4124746,wlan,,,Mo-Su 09:00-00:00,osm
+7389843185,Angkringan Ndeso,Jalan Gondang Barat IV,-7.0641084,110.4382512,,,,Mo-Sa 17:00-00:00,osm
+8237795118,"Aneka Wedang & Es Puter Mataram ""Pak Kirman""","Jalan MT. Haryono, 406",-6.9824882,110.4314778,,yes,,Mo-Su 19:00-24:00,osm
+8704188180,Starbucks,,-6.9843628,110.4085815,,,,,osm
+8954689247,Honest Coffee & Communal Place,"Jalan Rajabasa, C1",-7.022067,110.4119124,wlan,yes,,Mo-Su 10:00-22:00,osm
+9028951617,Los Kopi - Barbershop & Coffeeshop,,-6.984163,110.4144286,,yes,separated,,osm
+9275219784,Maeru Coffee & Roastery,"Jalan Kedungmundu Raya, 18A",-7.0231949,110.4626079,yes,yes,,Mo-Sa 10:00-22:00,osm
+9553708044,Warkop78,"Jalan Pawiyatan Luhur, 78",-7.0241884,110.4025066,yes,no,,,osm
+10969738350,Kafe dan Warung Makan,,-6.967786,110.4641906,,,,,osm
+10985420405,Kedai Kopi Old Kettle,,-6.9790444,110.4057266,,,,,osm
+11125010337,Dijkstra Kota Lama,"Jalan Taman Srigunting, 10",-6.9678613,110.4281535,yes,,,Mo-Su 10:00-22:00,osm
+11810679219,Teras Corner,"Jalan Depok, 33",-6.9763059,110.4195329,,,,,osm
+11849799723,Bloomery Patisserie Kota Lama,"Jalan Taman Srigunting, 5",-6.9673579,110.4283492,yes,yes,,Mo-Su 09:00-22:00,osm
+12077815447,Mixue,,-7.0593901,110.4377669,,,,,osm
+12078717158,Kopi Nako Semarang Candi,Jalan Jangli Gabeng Raya,-7.0318278,110.4390917,,,,,osm
+12078768475,Mr. K Cafe Gombel,,-7.0391094,110.4214709,,,,,osm
+12623831110,Fore Coffee,,-7.0014017,110.3409519,,,,,osm
+12736381901,Starbucks,,-6.9893719,110.4242531,,,,,osm
+12985419314,Caffe Ambaru,,-7.0463419,110.4475857,,,,,osm
+12991058978,Dharma Boutique Roastery,"Jalan Wotgandul Barat, 14",-6.9788996,110.4247686,,,,,osm
+13310609922,Kedai Mas Brew,"Jalan Muntal Raya, 45",-7.0754024,110.3882199,,,,Mo-Sa 11:00-22:00,osm
+13328123501,Warga Lokal,Jalan Watukaji Raya,-7.0906788,110.4228592,,,,,osm
+13410739040,Identix,,-7.0485705,110.3955607,,,,,osm
+13412964970,TOMORO Coffee,,-7.0490177,110.3946381,,,,,osm
+13412964971,ITSMILK,,-7.0491399,110.3946714,,,,,osm
+13864494896,Gematik Kopi,,-7.0038661,110.3162381,,,,,osm
+313693594,Kantin Elektro,,-7.0503777,110.4397989,yes,,separated,Mo-Fr 07:30-16:00,osm
+341686276,Es Kuwut,,-6.9709693,110.3986104,,,,,osm
+342543404,Blue Coffee,,-6.9841508,110.4177974,wlan,no,,,osm
+346130922,retro cafe,,-6.9674791,110.427778,,no,,,osm
+346133949,Jabra Kopi,,-6.9685285,110.4313975,,,,,osm
+358489766,Teko Deko,,-6.9677555,110.4294852,,,,,osm
+359399954,Hero Cofee Shop,,-6.9694351,110.4273089,,,,,osm
+389147997,Kantina Dharma Wanita Planologi,,-7.0512864,110.4387867,yes,,,,osm
+530361355,Mie Clubbing,,-7.0500944,110.4233054,,,,,osm
+558731598,Cafe and Bar,,-7.0148393,110.3991884,,,,,osm
+567635140,Point Coffee,,-7.0447992,110.3912474,,,,,osm
+568083723,Tekodeko Koffiehuis,,-6.9690439,110.4284396,,,,,osm
+568084993,Mixue,,-7.0571849,110.3949839,,,,,osm
+568143357,HMD Corner,,-7.0567505,110.3941537,,,,,osm
+569163188,Kolu,,-7.0574708,110.3962328,,,,,osm
+569163200,Zona Waktu,,-7.0573879,110.396766,,,,,osm
+995486043,Warung Pecel Bu Mus,,-6.9710215,110.396687,,,,,osm
+1175604724,Herbalife Independent Member - LevelUp Club Citragrand,Jalan Citra Grand Semarang,-7.0368531,110.4569693,,,no,,osm
+1288440036,Akhtara Coffee & Sky View,,-7.063552,110.4043765,yes,yes,,,osm
+1289064949,PUSHUP COFFEE,,-7.034637,110.4170363,,,,,osm
+1327169808,Kota Tua Angkringan Dan Kopi,,-6.9707374,110.4258186,,,,,osm
+1331422175,Hero Cofee Shop,,-6.9696112,110.4273125,,,,,osm
+1351987335,Alfa Express,,-7.0488115,110.3943453,,,,,osm
+1418096080,Kafe dan Warung Makan,,-6.9678045,110.4641628,,,,,osm
+1422297639,Lucky Thirteen,,-6.9754271,110.3686768,,,,,osm
+1475519281,Sepetak,,-7.04516,110.3932102,,,,,osm
+1507444465,ON7 Coffe & Eatery,,-7.0652474,110.4296475,,,,,osm
+1536500586,Sorak Sorai Coffee Awanncosta,,-6.9468641,110.3761321,,,,,osm
+1536500587,Teazzi Pearl Of Java Semarang,,-6.9468727,110.3762729,,,,,osm

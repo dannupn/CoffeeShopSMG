@@ -1,0 +1,5 @@
+﻿no,kata_kunci,jumlah_kata,aspek_kode
+1,"""suasana"", ""nyaman"", ""estetik"", ""aesthetic"", ""estetis"", ""cozy"", ""berisik"", ""bising"", ""ramai"", ""sepi"", ""tenang"", ""adem"", ""sejuk"", ""gerah"", ""pengap"", ""interior"", ""desain"", ""dekorasi"", ""vibes"", ""vibe"", ""ambience"", ""ambiance"", ""instagramable"", ""homey""",24,suasana
+2,"""harga"", ""murah"", ""mahal"", ""terjangkau"", ""worth_it"", ""pricey"", ""overprice"", ""overpriced"", ""affordable"", ""kantong"", ""ekonomis"", ""murmer"", ""expensive""",13,harga
+3,"""wifi"", ""internet"", ""sinyal"", ""koneksi"", ""jaringan"", ""hotspot""",6,wifi
+4,"""pelayanan"", ""layanan"", ""pelayan"", ""service"", ""servis"", ""staff"", ""staf"", ""karyawan"", ""barista"", ""waiter"", ""waitress"", ""kasir"", ""pegawai"", ""ramah"", ""jutek"", ""judes"", ""sopan"", ""responsif"", ""sigap"", ""cekatan"", ""informatif"", ""helpful"", ""friendly""",23,pelayanan

@@ -1,0 +1,50 @@
+Data berlabel dipakai : 1000 (label kosong dilewati: 0)
+Data latih / data uji : 800 / 200
+
+Distribusi label data berlabel:
+label      negatif  netral  positif
+aspek                              
+harga           76      12      162
+pelayanan       83      18      149
+suasana         35      23      192
+wifi           102      48      100
+
+Hasil 5-fold cross validation (F1 macro) pada data latih:
+param_svm__kernel  param_svm__C  mean_test_score
+           linear           1.0         0.672377
+           linear          10.0         0.668427
+              rbf          10.0         0.638784
+              rbf           1.0         0.636164
+           linear           0.1         0.508154
+             poly           1.0         0.440740
+             poly          10.0         0.352976
+              rbf           0.1         0.222843
+             poly           0.1         0.170088
+
+Parameter terbaik     : {'svm__C': 1, 'svm__kernel': 'linear'}
+
+Akurasi data uji      : 0.8600
+
+Classification report data uji:
+              precision    recall  f1-score   support
+
+     positif     0.8968    0.9417    0.9187       120
+     negatif     0.8689    0.8983    0.8833        59
+      netral     0.4615    0.2857    0.3529        21
+
+    accuracy                         0.8600       200
+   macro avg     0.7424    0.7086    0.7183       200
+weighted avg     0.8429    0.8600    0.8489       200
+
+Confusion matrix data uji:
+                prediksi_positif  prediksi_negatif  prediksi_netral
+aktual_positif               113                 3                4
+aktual_negatif                 3                53                3
+aktual_netral                 10                 5                6
+
+Akurasi data uji per aspek:
+aspek
+harga        0.9388
+pelayanan    0.8627
+suasana      0.8800
+wifi         0.7600

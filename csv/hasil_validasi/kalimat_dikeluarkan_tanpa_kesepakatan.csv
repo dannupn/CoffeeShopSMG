@@ -1,0 +1,14 @@
+id_aspek_kalimat,id_kalimat,aspek,kata_kunci,kalimat_asli,penilai_1,penilai_2,penilai_3,n_penilai_valid,label_gold,status
+34801,84187,harga,harga,"Jujur ambiencenya enak buat chill ato nongkrong, untuk minuman okey saja, dengan harga segitu rasa sirup"" yang B-saja banget",netral,positif,negatif,3,,tanpa_mayoritas
+29804,71307,harga,terjangkau,masih banyak yang lebih enak&lebih terjangkau,positif,netral,negatif,3,,tanpa_mayoritas
+14125,34790,suasana,ramai,"Kov Koffie Heritage sudah ramai sejak hari pertama Luas, penuh karakter, dan setiap sudutnya terasa unik",netral,positif,negatif,3,,tanpa_mayoritas
+42736,102500,suasana,aesthetic,First impression datang ke fore ini adalah storenya aesthetic banget,netral,positif,negatif,3,,tanpa_mayoritas
+19069,46565,suasana,ramai,"Untuk view sih bagus, cuma Wifinya lemot mungkin karena ramai ya jadi akses internet tidak memadai",netral,positif,negatif,3,,tanpa_mayoritas
+56286,131196,suasana,nyaman,"Penyeduhan kopinya enak, makanan juga enak, harga masih nyaman lah di kantong",netral,positif,negatif,3,,tanpa_mayoritas
+36622,88858,suasana,interior,sayang padahal interior ruangnya bagus,netral,positif,negatif,3,,tanpa_mayoritas
+13473,33491,suasana,sejuk,"masih banyak tempat lain yang lebih bagus, sejuk, dan harga terjangkau",netral,negatif,positif,3,,tanpa_mayoritas
+10108,24618,suasana,sepi,"Tempatnya agak serem karena bangunan lama,sepi banget",netral,negatif,positif,3,,tanpa_mayoritas
+56427,131439,suasana,sepi,padahal kondisi sepi,netral,negatif,positif,3,,tanpa_mayoritas
+28282,67658,suasana,ramai,"Beli pas lagi promo tgl 12 Agustus, pertama disuruh antri sejam karena donatnya abis terus dikasih nomer antrian dapat urutan ke 7, terus pas donatnya sudah jadi baru urutan nomor 6 donatnya sudah habis, harusnya kalau sudah tahu bakal ramai gini",netral,negatif,positif,3,,tanpa_mayoritas
+50300,118328,suasana,ramai,ramai banget,netral,positif,negatif,3,,tanpa_mayoritas
+16223,39600,suasana,suasana,suasananya jauh dari ekspetasi,netral,negatif,positif,3,,tanpa_mayoritas
